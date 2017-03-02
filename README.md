@@ -6,3 +6,8 @@ too or if you would like to modify existing ones.
 
 Check http://www.flatuicolorpicker.com/category/all for some nice color
 definitions.
+
+## Stickers:
+
+![ensembldb](ensembldb/ensembldb.png)
+![xcms](xcms/xcms.png)
