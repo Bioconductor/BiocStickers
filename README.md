@@ -9,5 +9,6 @@ definitions.
 
 ## Stickers:
 
-![ensembldb](ensembldb/ensembldb.png)
-![xcms](xcms/xcms.png)
+<img src="ensembldb/ensembldb.png" height="50">
+<img src="xcms/xcms.png" height="50">
+
