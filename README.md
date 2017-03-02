@@ -9,6 +9,7 @@ definitions.
 
 ## Stickers:
 
-<img src="ensembldb/ensembldb.png" height="50">
-<img src="xcms/xcms.png" height="50">
+<img src="ensembldb/ensembldb.png" height="100">
+<img src="MSnbase/MSnbase.png" height="100">
+<img src="xcms/xcms.png" height="100">
 
