@@ -10,7 +10,7 @@ definitions.
 ## Stickers:
 
 <img src="ensembldb/ensembldb.png" height="100">
-<img src="FamAgg/FanAgg.png" height="100">
+<img src="FamAgg/FamAgg.png" height="100">
 <img src="MSnbase/MSnbase.png" height="100">
 <img src="xcms/xcms.png" height="100">
 
