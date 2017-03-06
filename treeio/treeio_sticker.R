@@ -4,8 +4,8 @@ d = data.frame(x0=1, y0=1, r=1)
 hex <- ggplot() + geom_circle(aes(x0=x0, y0=y0, r=r), size=4, data=d, n=5.5, fill="#2574A9", color="#2C3E50") + coord_fixed()
 
 require(emojifont)
-font.add("PTSans", "PTSans.ttc")
-hex <- hex+annotate('text', x=1, y=1.48, label='treeio', family='PTSans', size=35, color="white")
+font.add("Aller", "../fonts/Aller/Aller_Rg.ttf")
+hex <- hex+annotate('text', x=1, y=1.48, label='treeio', family='Aller', size=35, color="white")
 
 require(ggtree)
 set.seed(2017-03-06)
@@ -28,5 +28,5 @@ treeio_sticker <-
     scale_x_continuous(expand=c(0,0), limits=c(.13, 1.88)) +
     theme(plot.margin = unit(c(0,0,0,0), "lines"))
 
-
+print(treeio_sticker)
 ggsave("treeio.png", treeio_sticker, width=6, height=6.9, bg="transparent")

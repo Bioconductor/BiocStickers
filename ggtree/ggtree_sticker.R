@@ -42,10 +42,12 @@ p <- ggtree(tr, color='grey', size=1.5) + geom_tiplab(align=T, linesize=.1, line
 p2 <- facet_plot(p, 'Alignment', grl, geom_alignment, inherit.aes=FALSE, alpha=.6, mapping=aes(), color='grey')
 p2 <- p2 + theme_transparent() + theme(strip.text = element_blank())+xlim_tree(3.8)
 
+require(showtext)
+font.add("Aller", "../fonts/Aller/Aller_Rg.ttf")
 
 ## add figure and package name to hex
 ggtree_sticker <- hex+annotation_custom(ggplotGrob(p2), xmin=.2, xmax=1.7, ymin=0.25, ymax=1.25) +
-    annotate('text', x=1, y=1.48, label='ggtree', family='PTSans', size=35, color="white") +
+    annotate('text', x=1, y=1.48, label='ggtree', family='Aller', size=35, color="white") +
     theme_tree() + theme_transparent()+ scale_y_continuous(expand=c(0,0), limits=c(-.015,2.02)) +
     scale_x_continuous(expand=c(0,0), limits=c(.13, 1.88)) + theme(plot.margin = unit(c(0,0,0,0), "lines"))
 
