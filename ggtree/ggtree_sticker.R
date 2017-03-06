@@ -2,7 +2,7 @@
 
 library(ggforce)
 d = data.frame(x0=1, y0=1, r=1)
-hex <- ggplot() + geom_circle(aes(x0=x0, y0=y0, r=r), size=3, data=d, n=5.5, fill="#2574A9", color="#2C3E50") + coord_fixed()
+hex <- ggplot() + geom_circle(aes(x0=x0, y0=y0, r=r), size=4, data=d, n=5.5, fill="#2574A9", color="#2C3E50") + coord_fixed()
 
 
 ## data for alignment
@@ -45,8 +45,10 @@ p2 <- p2 + theme_transparent() + theme(strip.text = element_blank())+xlim_tree(3
 
 ## add figure and package name to hex
 ggtree_sticker <- hex+annotation_custom(ggplotGrob(p2), xmin=.2, xmax=1.7, ymin=0.25, ymax=1.25) +
-    annotate('text', x=1, y=1.48, label='ggtree', family='Helvetica', size=35, color="white") +
-    theme_tree()
+    annotate('text', x=1, y=1.48, label='ggtree', family='PTSans', size=35, color="white") +
+    theme_tree() + theme_transparent()+ scale_y_continuous(expand=c(0,0), limits=c(-.015,2.02)) +
+    scale_x_continuous(expand=c(0,0), limits=c(.13, 1.88)) + theme(plot.margin = unit(c(0,0,0,0), "lines"))
 
-ggsave(ggtree_sticker, width=7, height=7, file="ggtree.png")
+print(ggtree_sticker)
+ggsave(ggtree_sticker, width=6, height=6.9, file="ggtree.png", bg='transparent')
 
