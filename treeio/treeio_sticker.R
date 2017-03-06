@@ -16,11 +16,13 @@ require(ggstance)
 p <- facet_plot(p, panel="Trait", data=dd, geom=geom_barh, mapping=aes(x=value), stat='identity', fill='grey', color='darkgrey')
 
 
-hex2 <- hex+ geom_fontawesome("fa-file-text-o", size=40, x=.6, y=.85, color="grey") +
-    annotation_custom(ggplotGrob(p), xmin=1.2, xmax=1.8, ymin=.45, ymax=1.15)
+hex2 <- hex+ geom_fontawesome("fa-file-text-o", size=45, x=.55, y=.85, color="grey") +
+    annotation_custom(ggplotGrob(p), xmin=1.25, xmax=1.76, ymin=.45, ymax=1.15)
 
-treeio_sticker <- hex2+geom_fontawesome("fa-angle-double-right", size=30, color="#2C3E50", x=1.15, y=1) +
-    geom_fontawesome("fa-angle-double-left", size=30, color="#2C3E50", x=.95, y=.7) +
+treeio_sticker <-
+
+    hex2+geom_fontawesome("fa-angle-double-right", size=30, color="#2C3E50", x=1.2, y=1) +
+    geom_fontawesome("fa-angle-double-left", size=30, color="#2C3E50", x=.9, y=.7) +
     theme_tree() + theme_transparent()+
     scale_y_continuous(expand=c(0,0), limits=c(-.015,2.02)) +
     scale_x_continuous(expand=c(0,0), limits=c(.13, 1.88)) +
