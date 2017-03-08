@@ -40,15 +40,19 @@ mz <- cloud(intensity ~ rev(mz) + rt ,
             scales = list(draw = FALSE),
             aspect = c(.8, 1),
             group = ms,
-            zoom = 1.05, 
+            zoom = 1.1, 
             par.settings = par.set,
             axis.line = list(col = "transparent"),
+            screen = list(z = 40, x = -60, y = 5),
             xlab = NULL, ylab = NULL, zlab = NULL)
 
 gmz <- grid.grabExpr(print(mz))
 
 
 x <- make_sticker(gmz, package = "MSnbase",
+                  grob_xmin = -0.3,
+                  grob_xmax = 2.4,
+                  grob_ymax = 1.9,
                   col_text = "white",
                   col_border = "#f39c12",
                   col_background = "#f9690e")
