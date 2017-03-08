@@ -3,5 +3,5 @@
 * Package URL: http://bioconductor.org/packages/MSnbase
 * Maintainer: [Laurent Gatto](https://github.com/lgatto/)
 
-![MSnbase sticker](./MSnbase.png)
+<img src="./MSnbase.png" height="200">
 
