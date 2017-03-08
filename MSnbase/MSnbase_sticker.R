@@ -1,3 +1,4 @@
+source("../src/make_sticker.R")
 
 ## Get the data
 library("rpx")
@@ -47,39 +48,7 @@ mz <- cloud(intensity ~ rev(mz) + rt ,
 gmz <- grid.grabExpr(print(mz))
 
 
-## Based on ggtree_sticker.R
-library("ggplot2")
-library("ggforce")
-library("ggtree")
-d <- data.frame(x0 = 1, y0 = 1, r = 1)
-hex <- ggplot() +
-    geom_circle(aes(x0 = x0, y0 = y0, r = r),
-                size = 4, data = d, n = 5.5,
-                fill = "#d35400", color = "#f39c12") +
-    coord_fixed()
-
-library("showtext")
-font.add("Aller", "../fonts/Aller/Aller_Rg.ttf")
-
-MSnbase_sticker <- hex +
-    annotation_custom(gmz, xmin = -.03, xmax = 2, ymin = 0.05, ymax = 1.75) +
-    annotate('text', x = 1, y = 1.44,
-             label = 'MSnbase', family = 'Aller',
-             size = 27, color = "white") +
-    scale_y_continuous(expand = c(0,0), limits = c(-.015, 2.02)) +
-    scale_x_continuous(expand = c(0,0), limits = c(.13, 1.88)) +
-    theme(plot.margin = unit(c(0, 0, 0, 0), "lines"))
-
-MSnbase_sticker <- MSnbase_sticker +
-    theme_transparent() +
-    theme(strip.text = element_blank()) +
-    theme(line = element_blank(),
-          text = element_blank(),
-          title = element_blank())
-
-ggsave(MSnbase_sticker, width = 6, height = 6.9,
-       file = "MSnbase.png",
-       bg = 'transparent')
-
-
-
+x <- make_sticker(gmz, package = "MSnbase",
+             col_text = "white",
+             col_border = "#f39c12",
+             col_background = "#d35400")
