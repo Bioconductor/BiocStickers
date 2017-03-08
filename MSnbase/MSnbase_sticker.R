@@ -43,14 +43,11 @@ mz <- cloud(intensity ~ rev(mz) + rt ,
             zoom = 1.1, 
             par.settings = par.set,
             axis.line = list(col = "transparent"),
-            screen = list(z = 40, x = -60, y = 5),
+            screen = list(z = 40, x = -67, y = 5),
             xlab = NULL, ylab = NULL, zlab = NULL)
-
 gmz <- grid.grabExpr(print(mz))
-
-
 x <- make_sticker(gmz, package = "MSnbase",
-                  grob_xmin = -0.3,
+                  grob_xmin = -0.25,
                   grob_xmax = 2.4,
                   grob_ymax = 1.9,
                   col_text = "white",
