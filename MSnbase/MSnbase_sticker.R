@@ -30,12 +30,12 @@ library("grid")
 dd <- as(M, "data.frame")
 par.set <-
     list(axis.line = list(col = "transparent"),
-         box.3d = list(lwd = 1.5, col = "darkgrey"),
+         box.3d = list(lwd = 0),
          clip = list(panel = "off"))
 
 mz <- cloud(intensity ~ rev(mz) + rt ,
             data = dd,
-            col = "#bebebe",
+            col = "#96281b",
             type = "h",
             scales = list(draw = FALSE),
             aspect = c(.8, 1),
@@ -49,6 +49,6 @@ gmz <- grid.grabExpr(print(mz))
 
 
 x <- make_sticker(gmz, package = "MSnbase",
-             col_text = "white",
-             col_border = "#f39c12",
-             col_background = "#d35400")
+                  col_text = "white",
+                  col_border = "#f39c12",
+                  col_background = "#f9690e")
