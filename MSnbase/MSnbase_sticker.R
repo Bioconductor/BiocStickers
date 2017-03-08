@@ -51,5 +51,6 @@ x <- make_sticker(gmz, package = "MSnbase",
                   grob_xmax = 2.4,
                   grob_ymax = 1.9,
                   col_text = "white",
+                  text_size = 28,
                   col_border = "#f39c12",
                   col_background = "#f9690e")
