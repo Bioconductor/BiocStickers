@@ -29,20 +29,20 @@ library("grid")
 dd <- as(M, "data.frame")
 par.set <-
     list(axis.line = list(col = "transparent"),
-         box.3d = list(lwd = .7),
+         box.3d = list(lwd = 1.5, col = "darkgrey"),
          clip = list(panel = "off"))
 
 mz <- cloud(intensity ~ rev(mz) + rt ,
             data = dd,
             col = "#bebebe",
             type = "h",
-            scales= list(draw=FALSE),
-            aspect=c(.8, 1),
+            scales = list(draw = FALSE),
+            aspect = c(.8, 1),
             group = ms,
-            zoom = 1, 
+            zoom = 1.05, 
             par.settings = par.set,
             axis.line = list(col = "transparent"),
-            xlab=NULL, ylab=NULL, zlab=NULL)
+            xlab = NULL, ylab = NULL, zlab = NULL)
 
 gmz <- grid.grabExpr(print(mz))
 
@@ -51,30 +51,33 @@ gmz <- grid.grabExpr(print(mz))
 library("ggplot2")
 library("ggforce")
 library("ggtree")
-d = data.frame(x0=1, y0=1, r=1)
+d <- data.frame(x0 = 1, y0 = 1, r = 1)
 hex <- ggplot() +
-    geom_circle(aes(x0=x0, y0=y0, r=r), size=4, data=d, n=5.5,
-                fill="#d35400", color="#f39c12") + coord_fixed()
+    geom_circle(aes(x0 = x0, y0 = y0, r = r),
+                size = 4, data = d, n = 5.5,
+                fill = "#d35400", color = "#f39c12") +
+    coord_fixed()
 
 library("showtext")
 font.add("Aller", "../fonts/Aller/Aller_Rg.ttf")
 
 MSnbase_sticker <- hex +
-    annotation_custom(gmz, xmin=-.03, xmax=2, ymin=0.05, ymax=1.75) +
-    annotate('text', x = 1, y = 1.44, label='MSnbase', family = 'Aller', size = 27, color="white") +
-    scale_y_continuous(expand=c(0,0), limits=c(-.015,2.02)) +
-    scale_x_continuous(expand=c(0,0), limits=c(.13, 1.88)) +
-    theme(plot.margin = unit(c(0,0,0,0), "lines"))
+    annotation_custom(gmz, xmin = -.03, xmax = 2, ymin = 0.05, ymax = 1.75) +
+    annotate('text', x = 1, y = 1.44,
+             label = 'MSnbase', family = 'Aller',
+             size = 27, color = "white") +
+    scale_y_continuous(expand = c(0,0), limits = c(-.015, 2.02)) +
+    scale_x_continuous(expand = c(0,0), limits = c(.13, 1.88)) +
+    theme(plot.margin = unit(c(0, 0, 0, 0), "lines"))
 
-MSnbase_sticker <- MSnbase_sticker + theme_transparent() +
+MSnbase_sticker <- MSnbase_sticker +
+    theme_transparent() +
     theme(strip.text = element_blank()) +
-    xlim_tree(3.8) +
     theme(line = element_blank(),
           text = element_blank(),
           title = element_blank())
 
-
-ggsave(MSnbase_sticker, width=6, height=6.9,
+ggsave(MSnbase_sticker, width = 6, height = 6.9,
        file = "MSnbase.png",
        bg = 'transparent')
 
