@@ -61,7 +61,7 @@ font.add("Aller", "../fonts/Aller/Aller_Rg.ttf")
 
 MSnbase_sticker <- hex +
     annotation_custom(gmz, xmin=-.03, xmax=2, ymin=0.05, ymax=1.75) +
-    annotate('text', x = 1, y = 1.48, label='MSnbase', family = 'Aller', size = 27, color="white") +
+    annotate('text', x = 1, y = 1.44, label='MSnbase', family = 'Aller', size = 27, color="white") +
     scale_y_continuous(expand=c(0,0), limits=c(-.015,2.02)) +
     scale_x_continuous(expand=c(0,0), limits=c(.13, 1.88)) +
     theme(plot.margin = unit(c(0,0,0,0), "lines"))
@@ -75,7 +75,7 @@ MSnbase_sticker <- MSnbase_sticker + theme_transparent() +
 
 
 ggsave(MSnbase_sticker, width=6, height=6.9,
-       file = "MSnbase-2.png",
+       file = "MSnbase.png",
        bg = 'transparent')
 
 
