@@ -18,10 +18,11 @@ please open an issue and discuss changes with the sticker maintainer.
 
 # Sticker development guidelines
 
-To start with a new sticker you might want to use the
-template [template.xcf](template/template.xcf) (gimp format) or you might want
-to check out the `ggtree` sticker from @GuangchuangYu for a sticker created
-entirely in `R`.
+To start with a new sticker you might want to use the template
+[template.xcf](template/template.xcf) (gimp format) or you might want
+to check out the
+[`make_sticker` function](https://github.com/jotsetung/BioC-stickers/blob/master/src/make_sticker.R)
+to produce the sticker entirely in `R`.
 
 + Each sticker should be put into a folder named according to the package.
 + Each folder should also contain a *README.md* providing at least the name of
