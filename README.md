@@ -4,11 +4,16 @@ This repository contains stickers for some Bioconductor packages. Fork this repo
 and create a pull request if you would like to add a sticker for your package
 too or if you would like to modify existing ones.
 
-Check http://www.flatuicolorpicker.com/category/all for some nice color
+To start with a new sticker you might want to use the
+template [template.xcf](template/template.xcf) (gimp format) or you might want
+to check out the `ggtree` sticker from @GuangchuangYu for a sticker created
+entirely in `R`.
+
+Also, check http://www.flatuicolorpicker.com/category/all for some nice color
 definitions.
 
 The font used for the *official* Bioconductor stickers (same used also for the
-Bioconductor logo) is *Aller* (https://www.fontsquirrel.com/fonts/aller).
+Bioconductor logo) is *Aller* (available in directory *fonts/Aller*). 
 
 ## Stickers:
 
