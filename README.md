@@ -1,8 +1,9 @@
 # Stickers for some Bioconductor packages
 
-This repository contains stickers for some Bioconductor packages. Fork this repo
-and create a pull request if you would like to add a sticker for your package
-too or if you would like to modify existing ones.
+This repository contains stickers for some Bioconductor packages. Fork
+this repo and create a pull request if you would like to add a sticker
+for your package too. If you would like to modify existing ones,
+please open an issue and discuss changes with the sticker maintainer.
 
 To start with a new sticker you might want to use the
 template [template.xcf](template/template.xcf) (gimp format) or you might want
