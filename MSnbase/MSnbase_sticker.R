@@ -23,6 +23,11 @@ M <- MSmap(ms, ms1[rtsel], 521, 523, .005, hd)
 
 ## Remove 0 intensities for clarity
 M@map[M@map <= 0] <- NA
+## Redice k highest peaks
+for (k in 1:12) {
+    i <- arrayInd(which.max(M@map), dim(M@map))
+    M@map[i] <- M@map[i]/2
+}
 
 ## Based on MSnbase::plot3D,MSmap
 library("lattice")
@@ -45,12 +50,15 @@ mz <- cloud(intensity ~ rev(mz) + rt ,
             axis.line = list(col = "transparent"),
             screen = list(z = 40, x = -67, y = 5),
             xlab = NULL, ylab = NULL, zlab = NULL)
+
 gmz <- grid.grabExpr(print(mz))
+
 x <- make_sticker(gmz, package = "MSnbase",
-                  grob_xmin = -0.25,
-                  grob_xmax = 2.4,
-                  grob_ymax = 1.9,
-                  col_text = "white",
+                  grob_xmin = -0.3,
+                  grob_xmax = 2.45,
+                  grob_ymax = 2.05,
+                  grob_ymin = 0.07,
+                  col_text = "#ffffffcc",
                   text_size = 28,
                   col_border = "#f39c12",
                   col_background = "#f9690e")
