@@ -8,11 +8,11 @@
 ##'     object.
 ##' @param package Package name, to be used as label on the
 ##'     sticker. Default is "MyPackage".
-##' @param text_size Label font size. Default is 27.
-##' @param col_text Label font colour. Default is \code{"#E4F1FE"}.
+##' @param text_size Label font size. Default is 22.
+##' @param col_text Label font colour. Default is \code{"#FFFFFF"}.
 ##' @param col_background Background colour. Default is
-##'     \code{"#446CB3"}.
-##' @param col_border Border colour. Default is \code{"#59ABE3"}.
+##'     \code{"#1881C2"}.
+##' @param col_border Border colour. Default is \code{"#87B13F"}.
 ##' @param grob_xmin Left position of the image. Default is -0.03.
 ##' @param grob_xmax Right position of the image. Default is 2.
 ##' @param grob_ymin Bottom position of the image. Default is 0.05.
@@ -37,11 +37,11 @@
 ##'                   grob_ymin = .35, grob_ymax = 1.25)
 ##' x
 make_sticker <- function(x,
-                         package = "MyPackage",
-                         text_size = 27,
-                         col_text = "#E4F1FE",
-                         col_background = "#446CB3",
-                         col_border = "#59ABE3",
+                         package = "Bioconductor",
+                         text_size = 22,
+                         col_text = "#FFFFFF",
+                         col_background = "#1881C2",
+                         col_border = "#87B13F",
                          grob_xmin = -.03,
                          grob_xmax = 2,
                          grob_ymin = 0.05,
