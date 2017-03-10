@@ -38,16 +38,16 @@
 ##' x
 make_sticker <- function(x,
                          package = "Bioconductor",
-                         text_size = 22,
+                         text_size = 6,
                          col_text = "#FFFFFF",
                          col_background = "#1881C2",
                          col_border = "#87B13F",
-                         grob_xmin = -.03,
-                         grob_xmax = 2,
-                         grob_ymin = 0.05,
-                         grob_ymax = 1.75,
+                         grob_xmin = .3,
+                         grob_xmax = 1.65,
+                         grob_ymin = 0.25,
+                         grob_ymax = 1.3,
                          text_x = 1,
-                         text_y = 1.44,
+                         text_y = 1.4,
                          filename = paste(package, "png", sep = ".")) {
     library("ggplot2")
     library("ggforce")
@@ -56,16 +56,16 @@ make_sticker <- function(x,
 
     fonturl <- "https://rawgit.com/jotsetung/BioC-stickers/master/fonts/Aller/Aller_Rg.ttf"
     font.add("Aller", fonturl)
+    showtext.auto()
 
     d <- data.frame(x0 = 1, y0 = 1, r = 1)
     hex <- ggplot() +
         geom_circle(aes(x0 = x0, y0 = y0, r = r),
-                    size = 4, data = d, n = 5.5,
+                    size = 1.2, data = d, n = 5.5,
                     fill = col_background, color = col_border) +
         coord_fixed()
     sticker <- hex + theme_transparent() +
         theme(strip.text = element_blank()) +
-        xlim_tree(3.8) +
         theme(line = element_blank(),
               text = element_blank(),
               title = element_blank())
@@ -81,19 +81,20 @@ make_sticker <- function(x,
         sticker <- sticker +
             annotation_custom(x,
                               xmin = grob_xmin, xmax = grob_xmax,
-                              ymin = grob_ymin, ymax = grob_ymax) 
+                              ymin = grob_ymin, ymax = grob_ymax)
     }
 
-    sticker <- sticker + 
+    sticker <- sticker +
         annotate('text', x = text_x, y = text_y, label = package,
                  family = 'Aller', size = text_size, color = col_text) +
-        scale_y_continuous(expand = c(0, 0), limits = c(-.015, 2.02)) +
-        scale_x_continuous(expand = c(0, 0), limits = c(.13, 1.88)) +
+        scale_y_continuous(expand = c(0, 0), limits = c(-0.018, 2.018)) +
+        scale_x_continuous(expand = c(0, 0), limits = c(.12, 1.898)) +
         theme(plot.margin = unit(c(0, 0, 0, 0), "lines"))
 
     if (!is.null(filename))
-        ggsave(sticker, width = 6, height = 6.9,
+        ggsave(sticker, width = 43.942, height = 50.62,
                file = filename,
-               bg = 'transparent')
+               bg = 'transparent',
+               units = "mm")
     invisible(sticker)
 }
