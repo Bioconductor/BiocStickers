@@ -1,7 +1,8 @@
 # The `mzR` package sticker
 
 * Package URL: http://bioconductor.org/packages/mzR
-* Maintainer: [Johannes Rainer](https://github.com/jotsetung/)
+* Sticker maintainer: [Johannes Rainer](https://github.com/jotsetung/)
+* Package maintainer: [Steffen Neumann](https://github.com/sneumann/)
 
 <img src="./mzR.png" height="200">
 
