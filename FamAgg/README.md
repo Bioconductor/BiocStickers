@@ -2,7 +2,6 @@
 
 * Package URL: http://bioconductor.org/packages/FamAgg
 * Sticker maintainer: [Johannes Rainer](https://github.com/jotsetung/)
-* Package maintainer: [Johannes Rainer](https://github.com/jotsetung/)
 
 <img src="./FamAgg.png" height="200">
 
