@@ -35,7 +35,7 @@ gg <- ggplot() +
     annotation_custom(g_img, xmin = -0.1) + coord_fixed() +
     trans_rect + theme_void() + guides(alpha = FALSE)
 
-sticker(gg, package="mzR", p_size = 8, s_x = 1.06, s_y = .8, s_width = 1.5,
+sticker(gg, package="mzR", p_size = 9, s_x = 1.06, s_y = .8, s_width = 1.5,
         s_height = 1.5, p_color = col_text, h_fill = col_bg,
-        h_color = col_border, filename="mzR.png")
+        h_color = col_border, filename="mzR.png", p_family = "Aller_Lt")
 

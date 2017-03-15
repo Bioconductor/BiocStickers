@@ -68,8 +68,8 @@ gg <- ggplot() +
     theme_void() + guides(alpha = FALSE)
 ## print(gg)
 
-sticker(gg, package="FamAgg", p_size = 9, s_x = 0.99, s_y = 1.05, s_width = 0.85,
+sticker(gg, package="FamAgg", p_size = 9, s_x = 0.99, s_y = 1.03, s_width = 0.85,
         s_height = 1.5, p_color = col_text, h_fill = col_bg,
-        h_color = col_border, filename="FamAgg.png", p_family = "Aller")
+        h_color = col_border, filename="FamAgg.png", p_family = "Aller_Lt")
 
 
