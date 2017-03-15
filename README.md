@@ -7,7 +7,7 @@ please open an issue and discuss changes with the sticker maintainer.
 
 ## Stickers:
 
-<p align = "center">
+<p align = "left">
 <img src="ensembldb/ensembldb.png" height="100">
 <img src="FamAgg/FamAgg.png" height="100">
 <img src="ggtree/ggtree.png" height="100">
