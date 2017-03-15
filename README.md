@@ -7,6 +7,7 @@ please open an issue and discuss changes with the sticker maintainer.
 
 ## Stickers:
 
+<p align = "center">
 <img src="ensembldb/ensembldb.png" height="100">
 <img src="FamAgg/FamAgg.png" height="100">
 <img src="ggtree/ggtree.png" height="100">
@@ -17,7 +18,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="pRoloc/pRolocGUI.png" height="100">
 <img src="treeio/treeio.png" height="100">
 <img src="xcms/xcms.png" height="100">
-
+</p>
 
 # Sticker development guidelines
 
