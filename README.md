@@ -21,12 +21,11 @@ please open an issue and discuss changes with the sticker maintainer.
 
 # Sticker development guidelines
 
-To start with a new sticker you might want to use the
-template [template.xcf](template/template.xcf) (gimp format) or you might want
-to use the `make_sticker` function from
-the [`sticker`](https://github.com/lgatto/sticker) package or
-@GuangchuangYu's [`hexSticker`](https://github.com/GuangchuangYu/hexSticker)
-package to produce the sticker entirely in `R`.
+To start with a new sticker you might want to use the template
+[template.xcf](template/template.xcf) (gimp format) or you might want
+look at the 
+[`hexSticker`](https://github.com/GuangchuangYu/hexSticker) package to
+produce the sticker entirely in `R`.
 
 + Each sticker should be put into a folder named according to the package.
 + Each folder should also contain a *README.md* providing at least the name of
