@@ -1,3 +1,14 @@
+## author: Guangchuang Yu
+## 2017-03-03
+##
+##
+## original code to produce the sticker, both `sticker` and `hexSticker` packages are all based on this
+##
+## now change to using hexSticker package, see ggtree_hexSticker.R
+##
+##
+
+
 ## The empty hex
 
 library(ggforce)

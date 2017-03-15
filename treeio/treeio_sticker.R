@@ -1,3 +1,11 @@
+## author: Guangchuang Yu
+## 2017-03-06
+##
+##
+## original code to produce the sticker
+## now change to using hexSticker package, see treeio_hexSticker.R
+##
+##
 
 library(ggforce)
 d = data.frame(x0=1, y0=1, r=1)
