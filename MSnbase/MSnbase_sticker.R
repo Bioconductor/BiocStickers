@@ -1,4 +1,5 @@
-source("../src/make_sticker.R")
+library("hexSticker")
+## GithubSHA1: 89e4d60a370f0457a0c4c08a95d4065e29275809
 
 ## Get the data
 library("rpx")
@@ -51,14 +52,12 @@ mz <- cloud(intensity ~ rev(mz) + rt ,
             screen = list(z = 40, x = -67, y = 5),
             xlab = NULL, ylab = NULL, zlab = NULL)
 
-gmz <- grid.grabExpr(print(mz))
+x <- sticker(mz, package = "MSnbase",
+             p_size = 28,
+             s_x = 1.1, s_y = 1.05,
+             s_width = 1.6, s_height = 1,
+             h_fill = "#f9690e",
+             h_color = "#f39c12")
+x
 
-x <- make_sticker(gmz, package = "MSnbase",
-                  grob_xmin = -0.3,
-                  grob_xmax = 2.45,
-                  grob_ymax = 2.05,
-                  grob_ymin = 0.07,
-                  col_text = "#ffffffcc",
-                  text_size = 28,
-                  col_border = "#f39c12",
-                  col_background = "#f9690e")
+
