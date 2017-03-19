@@ -1,4 +1,5 @@
 library("hexSticker")
+## GithubSHA1: 89e4d60a370f0457a0c4c08a95d4065e29275809
 
 p_size <- 24
 p_y <- 1.4
