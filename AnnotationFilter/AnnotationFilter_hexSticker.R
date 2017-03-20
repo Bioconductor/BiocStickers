@@ -52,7 +52,7 @@ gg <- ggplot() +
 
 sticker(gg, package="AnnotationFilter", p_size = 5.5, p_y = 1.25, s_x = 0.9,
         s_y = 1.1, s_width = 0.9, s_height = 1.4, p_color = col_text,
-        h_fill = col_bg, h_color = col_border, filename="AnnotationFilter_3.png",
+        h_fill = col_bg, h_color = col_border, filename="AnnotationFilter.png",
         p_family = "Aller_Lt")
 
 
