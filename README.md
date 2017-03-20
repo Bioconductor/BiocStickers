@@ -8,6 +8,7 @@ please open an issue and discuss changes with the sticker maintainer.
 ## Stickers:
 
 <p align = "left">
+<img src="AnnotationFilter/AnnotationFilter.png" height="100">
 <img src="Bioconductor/Bioconductor.png" height="100">
 <img src="ensembldb/ensembldb.png" height="100">
 <img src="FamAgg/FamAgg.png" height="100">
