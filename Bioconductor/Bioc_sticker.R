@@ -12,3 +12,13 @@ sticker("biocnote.png", package = "Bioconductor",
         s_width = 0.55, s_height = 0.55,
         h_color = bioc_blue,
         h_fill = "#FFFFFF")
+
+sticker("biocnote.png", package = "",
+        p_size = 16,
+        p_y = 1.47,
+        p_color = bioc_blue,
+        s_x = 1.15, s_y = 0.93,
+        s_width = 0.65, s_height = 0.65,
+        h_color = bioc_blue,
+        h_fill = "#FFFFFF",
+        filename = "Bioconductor2.png")
