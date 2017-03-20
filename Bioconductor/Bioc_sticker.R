@@ -22,3 +22,64 @@ sticker("biocnote.png", package = "",
         h_color = bioc_blue,
         h_fill = "#FFFFFF",
         filename = "Bioconductor2.png")
+
+## Note with small Bioconductor logo overlay.
+library(ggplot2)
+library(grid)
+library(png)
+library(sysfonts)
+library(showtext)
+font_family <- "Aller_Lt"
+x_text <- 0.775
+y_text <- 0.97
+img <- readPNG("./biocnote.png")
+g_img <- rasterGrob(img, width = 0.8, x = 0.5, interpolate = TRUE)
+fonts <- list.files(system.file("fonts", package="hexSticker"),
+                    pattern="ttf$", recursive=TRUE, full.names=TRUE)
+i <- font_family == sub(".ttf", "", basename(fonts))
+if (any(i)) {
+    font.add(font_family, fonts[which(i)[1]])
+    showtext.auto()
+}
+gg <- ggplot() +
+    geom_rect(aes(xmin = 0, xmax = 1.5, ymin = 0, ymax = 1.5), fill = NA) +
+    annotation_custom(g_img, xmin = 0, ymin = 0) +
+    annotate("text", x = x_text - 0.365, y = y_text, label = "i",
+             color = bioc_green, size = 4, family = font_family) +
+    annotate("text", x = x_text, y = y_text, label = "B oconductor",
+             color = bioc_blue, size = 4, family = font_family) +
+    theme_void()
+sticker(gg, package = "",
+        s_x = 1.0, s_y = 0.93,
+        s_width = 0.95, s_height = 0.95,
+        h_color = bioc_blue,
+        h_fill = "#FFFFFF",
+        filename = "Bioconductor3.png")
+
+## Green "Bio" and blue "conductor"
+font_family <- "Aller_Lt"
+x_text <- 0.28
+y_text <- 0.97
+img <- readPNG("./biocnote.png")
+g_img <- rasterGrob(img, width = 0.8, x = 0.5, interpolate = TRUE)
+fonts <- list.files(system.file("fonts", package="hexSticker"),
+                    pattern="ttf$", recursive=TRUE, full.names=TRUE)
+i <- font_family == sub(".ttf", "", basename(fonts))
+if (any(i)) {
+    font.add(font_family, fonts[which(i)[1]])
+    showtext.auto()
+}
+gg <- ggplot() +
+    geom_rect(aes(xmin = 0, xmax = 1.5, ymin = 0, ymax = 1.5), fill = NA) +
+    annotation_custom(g_img, xmin = 0, ymin = 0) +
+    annotate("text", x = x_text, y = y_text, label = "Bio",
+             color = bioc_green, size = 4.6, family = font_family) +
+    annotate("text", x = x_text + 0.55, y = y_text, label = "conductor",
+             color = bioc_blue, size = 4.6, family = font_family) +
+    theme_void()
+sticker(gg, package = "",
+        s_x = 1.025, s_y = 0.9,
+        s_width = 0.95, s_height = 0.95,
+        h_color = bioc_blue,
+        h_fill = "#FFFFFF",
+        filename = "Bioconductor4.png")
