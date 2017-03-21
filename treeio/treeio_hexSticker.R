@@ -28,7 +28,7 @@ p <- facet_plot(p, panel="Trait", data=dd, geom=geom_barh, mapping=aes(x=value),
 ##         ## h_color="#2C3E50", h_fill="#2574A9",
 ##         filename="docs/treeio.png")
 
-p <- p+theme(strip.text =element_text(size=3), strip.background = element_blank())
+p <- p+theme(strip.text =element_text(size=5), strip.background = element_blank())
 
 hexagon() + geom_fontawesome("fa-file-text-o", size=14, x=.6, y=.85, color="grey") +
     geom_fontawesome("fa-angle-double-right", size=6, color="#2C3E50", x=1.15, y=1) +
