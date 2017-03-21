@@ -8,19 +8,14 @@ col_bg <- "#f5ab35"      ## Lighning yellow
 col_border <- "#f5d76e"  ## Cream can
 col_text <- "#22313f"    ## Ebony clay
 n_steps <- 60
-y_min <- 0.9
-y_max <- 1.1
-x_min <- 0.2
-x_max <- 1.2
-
-
-## sticker("./drawing.png", package = "mzR", p_size = 8, s_x = 1, s_y = .75,
-##         s_width = .6, s_height = .4, p_color = col_text, h_fill = col_bg,
-##         h_color = col_border, filename="test.png")
+y_min <- 0.95
+y_max <- 1.35
+x_min <- -0.07
+x_max <- 1.5
 
 ## Read the drawing
 img <- readPNG("./drawing.png")
-g_img <- rasterGrob(img, width = 0.55, x = 0.48, interpolate = TRUE)
+g_img <- rasterGrob(img, width = 1, x = 0.48, interpolate = TRUE)
 
 ## Rectangle with color shade to transparency
 ys <- seq(y_min, y_max, length.out = n_steps + 1)
@@ -35,7 +30,7 @@ gg <- ggplot() +
     annotation_custom(g_img, xmin = -0.1) + coord_fixed() +
     trans_rect + theme_void() + guides(alpha = FALSE)
 
-sticker(gg, package="mzR", p_size = 9, s_x = 1.06, s_y = .8, s_width = 1.5,
-        s_height = 1.5, p_color = col_text, h_fill = col_bg,
+sticker(gg, package="mzR", p_size = 9, s_x = 1.01, s_y = .81, s_width = 1.55,
+        s_height = 1.55, p_color = col_text, h_fill = col_bg,
         h_color = col_border, filename="mzR.png", p_family = "Aller_Lt")
 
