@@ -26,7 +26,7 @@ img <- readPNG("./drawing_2.png")
 ## Invert and add alpha channel.
 img_a <- matrix(rgb(1 - img[,,1], 1 - img[,,2], 1 - img[,,3], img[,,4] * 0.8),
                 nrow = dim(img)[1])
-g_img <- rasterGrob(img_a, width = 1, x = 0.5, interpolate = TRUE)
+g_img <- rasterGrob(img_a, width = 1, x = 0.495, interpolate = TRUE)
 
 ## Rectangle with color shade to transparency
 ys <- seq(y_min, y_max, length.out = n_steps + 1)
@@ -45,7 +45,7 @@ gg <- ggplot() +
     trans_rect + 
     theme_void() + guides(alpha = FALSE) + 
     scale_alpha_continuous(range = c(0, alpha_max))
-print(gg)
+## print(gg)
 
 sticker(gg, package="AnnotationFilter", p_size = 5.5, p_y = 1.25, s_x = 0.89,
         s_y = 1.08, s_width = 1.04, s_height = 1.7, p_color = col_text,

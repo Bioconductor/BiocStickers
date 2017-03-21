@@ -11,10 +11,10 @@ col_ped <- "#ffffff"
 ## col_ped <- "#000000"
 n_steps <- 30
 ## Upper rectangle
-y_min <- 0.85
-y_max <- 1.0
-x_min <- 0.4
-x_max <- 1.1
+y_min <- 0.95
+y_max <- 1.3
+x_min <- 0.1
+x_max <- 1.8
 alpha_max <- 0.3
 ## alpha_max <- 0.5
 
@@ -50,7 +50,7 @@ img <- readPNG("./pedigree.png")
 img_a <- matrix(rgb(img[,,1], img[,,2], img[,,3], img[,,4] * 0.6),
                 nrow = dim(img)[1])
 ## g_img <- rasterGrob(img_a, width = 0.65, x = 0.48, interpolate = TRUE)
-g_img <- rasterGrob(img_a, width = 1, x = 0.48, interpolate = TRUE)
+g_img <- rasterGrob(img_a, width = 1, x = 0.48, y = 0.49, interpolate = TRUE)
 
 ## Rectangle with color shade to transparency
 ys <- seq(y_min, y_max, length.out = n_steps + 1)
@@ -68,7 +68,7 @@ gg <- ggplot() +
     theme_void() + guides(alpha = FALSE)
 ## print(gg)
 
-sticker(gg, package="FamAgg", p_size = 9, s_x = 0.99, s_y = 1.03, s_width = 0.85,
+sticker(gg, package="FamAgg", p_size = 9, s_x = 0.99, s_y = 1.01, s_width = 1.5,
         s_height = 1.5, p_color = col_text, h_fill = col_bg,
         h_color = col_border, filename="FamAgg.png", p_family = "Aller_Lt")
 
