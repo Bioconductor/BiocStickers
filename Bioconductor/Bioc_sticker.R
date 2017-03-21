@@ -23,6 +23,17 @@ sticker("biocnote.png", package = "",
         h_fill = "#FFFFFF",
         filename = "Bioconductor2.png")
 
+hex <- hexSticker:::make_hex(size = 1.2, fill = "#FFFFFF", color = bioc_blue)
+subplot <- hexSticker:::toGrob("biocnote.png")
+x <- ggtree:::subview(hex, subplot,
+                      x = 1.0, y = 0.97,
+                      width = 0.67, 
+                      height = 0.67)
+x <- hexSticker:::add_pkg_name(x, "Bio", 0.45, 1, bioc_green, "Aller_Rg", 18)
+x <- hexSticker:::add_pkg_name(x, "conductor", 1.20, 1, bioc_blue, "Aller_Rg", 18)
+hexSticker:::save_sticker(x, "Bioconductor5.png")
+
+
 ## Note with small Bioconductor logo overlay.
 library(ggplot2)
 library(grid)
