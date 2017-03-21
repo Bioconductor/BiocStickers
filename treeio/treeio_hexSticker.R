@@ -8,7 +8,7 @@ tr <- rtree(10)
 dd = data.frame(id=tr$tip.label, value=abs(rnorm(10)))
 p <- ggtree(tr, size=.5, color="darkgrey") + theme_transparent()
 require(ggstance)
-p <- facet_plot(p, panel="Trait", data=dd, geom=geom_barh, mapping=aes(x=value), stat='identity', fill='grey', color='darkgrey', width=.6, size=.5)
+p <- facet_plot(p, panel="Trait", data=dd, geom=geom_barh, mapping=aes(x=value), stat='identity', fill='grey', color=NA, width=.6, size=.5)
 
 
 
@@ -28,10 +28,10 @@ p <- facet_plot(p, panel="Trait", data=dd, geom=geom_barh, mapping=aes(x=value),
 ##         ## h_color="#2C3E50", h_fill="#2574A9",
 ##         filename="docs/treeio.png")
 
-p <- p+theme(strip.text =element_text(size=5), strip.background = element_blank())
-
+p <- p+theme(strip.text = element_blank()) #element_text(size=5), strip.background = element_blank())
+p <- p+theme(panel.spacing = unit(0, "lines"))
 hexagon() + geom_fontawesome("fa-file-text-o", size=14, x=.6, y=.85, color="grey") +
     geom_fontawesome("fa-angle-double-right", size=6, color="#2C3E50", x=1.15, y=1) +
     geom_fontawesome("fa-angle-double-left", size=6, color="#2C3E50", x=.9, y=.7) +
-    geom_subview(p, x=1.48, y=.85, width=0.8, height=.9) + geom_pkgname("treeio", family="Aller_Lt", size=9) +
+    geom_subview(p, x=1.48, y=.8, width=0.8, height=.9) + geom_pkgname("treeio", family="Aller_Lt", size=9) +
     save_sticker("treeio.png")
