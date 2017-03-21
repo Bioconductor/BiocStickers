@@ -38,7 +38,8 @@ p2 <- p2 + theme_transparent() + theme(strip.text = element_blank())+xlim_tree(3
 
 #################################
 library(hexSticker)
-sticker(p2, package="ggtree", p_x=1, p_y=1.5, p_size=9, s_x=.85, s_y = .68, s_width=.95, s_height=.65,
+## p_x=1, p_y=1.5,
+sticker(p2, package="ggtree",  p_size=9, s_x=.85, s_y = .68, s_width=1.8, s_height=1.2,
         ## h_color="#2C3E50", h_fill="#2574A9",
-        filename="docs/ggtree.png")
+        filename="ggtree.png", p_family="Aller_Lt")
 
