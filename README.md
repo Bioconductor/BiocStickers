@@ -30,7 +30,7 @@ look at the
 [`hexSticker`](https://github.com/GuangchuangYu/hexSticker) package to
 produce the sticker entirely in `R`.
 
-You can also find a tutorial [Sticker_instructions.png] (Tutorial/Sticker_instructions.png) to design your stickers manually in `Illustrator`.
+You can also find a tutorial [Sticker_instructions.png](Tutorial/Sticker_instructions.png) to design your stickers manually in `Illustrator`.
 
 
 + Each sticker should be put into a folder named according to the package.
