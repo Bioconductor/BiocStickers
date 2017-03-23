@@ -1,6 +1,6 @@
 # Tutorial to create your own BiocSticker with Illustartor
 
-<img src="./Sticker_instruction.png" height="200">
+<img src="./Sticker_instructions.png" height="200">
 
 * Maintainer: [Roberto Bonelli](https://github.com/Robbie90/)
 * License: Creative Commons Attribution
