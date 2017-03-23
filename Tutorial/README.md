@@ -1,4 +1,4 @@
-# Tutorial to create your own BiocSticker with Illustartor
+# Tutorial to create your own BiocSticker using Illustrator
 
 <img src="./Sticker_instructions.png" height="400">
 
