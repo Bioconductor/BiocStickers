@@ -2,6 +2,9 @@
 
 * (hopefully) soon to be on Bioconductor; https://github.com/Bioconductor/Contributions/issues/311
 * Sticker maintainer: [Johannes Rainer](https://github.com/jotsetung/)
+* License: Creative Commons Attribution
+  [CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to
+  share and adapt, but don't forget to credit the author.
 
 <img src="./AnnotationFilter.png" height="200">
 
