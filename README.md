@@ -10,12 +10,12 @@ please open an issue and discuss changes with the sticker maintainer.
 <p align = "left">
 <img src="AnnotationDbi/AnnotationDbi.png" height="100">
 <img src="AnnotationFilter/AnnotationFilter.png" height="100">
-<img src="beadarray/beadarray.png" height="100">
+<img src="BeadArray/BeadArray.png" height="100">
 <img src="Biobase/Biobase.png" height="100">
 <img src="Bioconductor/Bioconductor_original.png" height="100">
 <img src="BiocStyle/BiocStyle.png" height="100">
-<img src="biomaRt/biomaRt.png" height="100">
-<img src="Biostrings/Biostrings.png" height="100">
+<img src="BiomaRt/BiomaRt.png" height="100">
+<img src="Biostring/Biostring.png" height="100">
 <img src="bsseq/bsseq.png" height="100">
 <img src="cleaver/cleaver2.png" height="100">
 <img src="DESeq2/DESeq2.png" height="100">
@@ -33,9 +33,8 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="IRanges/IRanges.png" height="100">
 <img src="limma/limma.png" height="100">
 <img src="minfi/minfi.png" height="100">
-<img src="missMethyl/missMethyl.png" height="100">
+<img src="MissMethyl/MissMethyl.png" height="100">
 <img src="MSnbase/MSnbase.png" height="100">
-<img src="MultiAssayExperiment/MultiAssayExperiment.png" height="100">
 <img src="mzR/mzR.png" height="100">
 <img src="pRoloc/pRoloc.png" height="100">
 <img src="pRoloc/pRolocdata.png" height="100">
@@ -45,7 +44,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="RUV/RUV.png" height="100">
 <img src="RUVcorr/RUVcorr.png" height="100">
 <img src="RUVnormalize/RUVnormalize.png" height="100">
-<img src="RUVSeq/RUVSeq.png" height="100">
+<img src="RUVseq/RUVseq.png" height="100">
 <img src="treeio/treeio.png" height="100">
 <img src="vsn/vsn.png" height="100">
 <img src="xcms/xcms.png" height="100">
