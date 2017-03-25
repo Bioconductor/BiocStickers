@@ -5,4 +5,4 @@
   [CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to
   share and adapt, but don't forget to credit the author.
 
-<img src=“./Affy.png” height="200">
+<img src=Affy.png height="200">
