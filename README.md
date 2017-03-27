@@ -8,6 +8,7 @@ please open an issue and discuss changes with the sticker maintainer.
 ## Stickers:
 
 <p align = "left">
+<img src="affy/affy.png" height="100">
 <img src="AnnotationDbi/AnnotationDbi.png" height="100">
 <img src="AnnotationFilter/AnnotationFilter.png" height="100">
 <img src="beadarray/beadarray.png" height="100">
@@ -35,7 +36,6 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="minfi/minfi.png" height="100">
 <img src="missMethyl/missMethyl.png" height="100">
 <img src="MSnbase/MSnbase.png" height="100">
-<img src="MultiAssayExperiment/MultiAssayExperiment.png" height="100">
 <img src="mzR/mzR.png" height="100">
 <img src="pRoloc/pRoloc.png" height="100">
 <img src="pRoloc/pRolocdata.png" height="100">
