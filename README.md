@@ -51,6 +51,19 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="xcms/xcms.png" height="100">
 </p>
 
+# Order stickers
+
+The respectively sticker maintainers can choose to make their stickers
+available. Below is a summary of where stickers can be ordered. See
+individual package's `REAMDE.md` files for details and individual
+package-specific links.
+
+* `MSnbase`: https://www.stickermule.com/user/1070825720/stickers
+* `pRoloc`: https://www.stickermule.com/user/1070825720/stickers
+* `pRolocdata`: https://www.stickermule.com/user/1070825720/stickers
+* `pRolocGUI`: https://www.stickermule.com/user/1070825720/stickers
+* `Bioconductor`: https://www.stickermule.com/user/1070825720/stickers
+
 # Sticker development guidelines
 
 To start with a new sticker you might want to use the template
