@@ -58,11 +58,16 @@ available. Below is a summary of where stickers can be ordered. See
 individual package's `REAMDE.md` files for details and individual
 package-specific links.
 
+* `AnnotationFilter`: https://www.stickermule.com/en/marketplace/17628-annotationfilter
+* `Bioconductor`: https://www.stickermule.com/user/1070825720/stickers
+* `ensembldb`: https://www.stickermule.com/en/marketplace/17629-ensembldb
+* `FamAgg`: https://www.stickermule.com/en/marketplace/17630-famagg
 * `MSnbase`: https://www.stickermule.com/user/1070825720/stickers
+* `mzR`: https://www.stickermule.com/en/marketplace/17631-mzr
 * `pRoloc`: https://www.stickermule.com/user/1070825720/stickers
 * `pRolocdata`: https://www.stickermule.com/user/1070825720/stickers
 * `pRolocGUI`: https://www.stickermule.com/user/1070825720/stickers
-* `Bioconductor`: https://www.stickermule.com/user/1070825720/stickers
+* `xcms`: https://www.stickermule.com/en/marketplace/17632-xcms
 
 # Sticker development guidelines
 
