@@ -26,6 +26,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="ensembldb/ensembldb.png" height="100">
 <img src="FamAgg/FamAgg.png" height="100">
 <img src="GenomicRanges/GenomicRanges.png" height="100">
+<img src="genomation/genomation.png" height="100">
 <img src="GEOquery/GEOquery.png" height="100">
 <img src="ggtree/ggtree.png" height="100">
 <img src="Glimma/Glimma.png" height="100">
@@ -33,6 +34,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="illuminaio/illuminaio.png" height="100">
 <img src="IRanges/IRanges.png" height="100">
 <img src="limma/limma.png" height="100">
+<img src="methylKit/methylKit.png" height="100">
 <img src="minfi/minfi.png" height="100">
 <img src="missMethyl/missMethyl.png" height="100">
 <img src="MSnbase/MSnbase.png" height="100">
@@ -73,7 +75,7 @@ package-specific links.
 
 To start with a new sticker you might want to use the template
 [template.xcf](template/template.xcf) (gimp format) or you might want
-look at the 
+look at the
 [`hexSticker`](https://github.com/GuangchuangYu/hexSticker) package to
 produce the sticker entirely in `R`.
 
