@@ -10,7 +10,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <p align = "left">
 <img src="affy/affy.png" height="100">
 <img src="AnnotationDbi/AnnotationDbi.png" height="100">
-<img src="AnnotationFilter/AnnotationFilter.png" height="100">
+<img src="AnnotationFilter/AnnotationFilter_hl.png" height="100">
 <img src="beadarray/beadarray.png" height="100">
 <img src="Biobase/Biobase.png" height="100">
 <img src="Bioconductor/Bioconductor_original.png" height="100">

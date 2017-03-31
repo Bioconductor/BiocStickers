@@ -2,6 +2,7 @@ library(ggplot2)
 library(png)
 library(grid)
 library(hexSticker)
+library(hexbin)
 
 ## Settings:
 col_bg_1 <- "#1E8BC3"      ## Summer Sky
@@ -37,13 +38,13 @@ trans_df <- data.frame(xmin = x_min, xmax = x_max, ymin = ys[-length(ys)],
                        ymax = ys[-1], alpha = alpha_steps, range = c(0, 0.4))
 trans_rect <- geom_rect(data = trans_df, fill = col_bg,
                         aes(xmin = xmin, xmax = xmax, ymin = ymin, ymax = ymax,
-                            alpha = alpha))    
+                            alpha = alpha))
 
 gg <- ggplot() +
     geom_rect(aes(xmin = 0, xmax = x_max, ymin = 0, ymax = 1.5), fill = NA) +
     annotation_custom(g_img, xmin = -0.02, ymin = -0.15) +
-    trans_rect + 
-    theme_void() + guides(alpha = FALSE) + 
+    trans_rect +
+    theme_void() + guides(alpha = FALSE) + theme(axis.line=element_blank()) +
     scale_alpha_continuous(range = c(0, alpha_max))
 ## print(gg)
 
@@ -53,3 +54,28 @@ sticker(gg, package="AnnotationFilter", p_size = 5.5, p_y = 1.25, s_x = 0.89,
         p_family = "Aller_Lt")
 
 
+## Highlight:
+set.seed(123)
+vals_x <- rnorm(50000, sd = 2, mean = 0)
+vals_y <- rnorm(50000, sd = 20, mean = 0)
+whiteTrans <- function(n) {
+    rgb(r = rep(1, n), g = rep(1, n), b = rep(1, n),
+        alpha = seq(0, 0.22, length.out = n))
+}
+hgl <- hexbinplot(vals_x ~ vals_y, colramp = whiteTrans, colorkey = FALSE,
+                  bty = "n", scales = list(draw = FALSE), xlab = "", ylab = "",
+                  border = NA, par.settings = list(axis.line = list(col = NA)))
+
+gg <- ggplot() +
+    geom_rect(aes(xmin = 0, xmax = x_max, ymin = 0, ymax = 1.5), fill = NA) +
+    annotation_custom(g_img, xmin = -0.02, ymin = -0.15) +
+    trans_rect +
+    geom_subview(hgl, x = 1.04, y = 0.15, width = 5, height = 5) +    
+    theme_void() + guides(alpha = FALSE) + theme(axis.line=element_blank()) +
+    scale_alpha_continuous(range = c(0, alpha_max))
+## print(gg)
+
+sticker(gg, package="AnnotationFilter", p_size = 5.5, p_y = 1.25, s_x = 0.89,
+        s_y = 1.08, s_width = 1.04, s_height = 1.7, p_color = col_text,
+        h_fill = col_bg, h_color = col_border, filename="AnnotationFilter_hl.png",
+        p_family = "Aller_Lt")
