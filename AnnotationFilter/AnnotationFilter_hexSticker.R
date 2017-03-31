@@ -60,7 +60,7 @@ vals_x <- rnorm(50000, sd = 2, mean = 0)
 vals_y <- rnorm(50000, sd = 20, mean = 0)
 whiteTrans <- function(n) {
     rgb(r = rep(1, n), g = rep(1, n), b = rep(1, n),
-        alpha = seq(0, 0.22, length.out = n))
+        alpha = seq(0, 0.25, length.out = n))
 }
 hgl <- hexbinplot(vals_x ~ vals_y, colramp = whiteTrans, colorkey = FALSE,
                   bty = "n", scales = list(draw = FALSE), xlab = "", ylab = "",

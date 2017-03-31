@@ -24,7 +24,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="edgeR/edgeR.png" height="100">
 <img src="EGSEA/EGSEA.png" height="100">
 <img src="ensembldb/ensembldb.png" height="100">
-<img src="FamAgg/FamAgg.png" height="100">
+<img src="FamAgg/FamAgg_hl.png" height="100">
 <img src="GenomicRanges/GenomicRanges.png" height="100">
 <img src="genomation/genomation.png" height="100">
 <img src="GEOquery/GEOquery.png" height="100">
