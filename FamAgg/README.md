@@ -5,9 +5,12 @@
 * License: Creative Commons Attribution
   [CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to
   share and adapt, but don't forget to credit the author.
-* Order: https://www.stickermule.com/en/marketplace/17630-famagg
+* Order (*flat* version): https://www.stickermule.com/en/marketplace/17630-famagg
 
+<p align = "left">
 <img src="./FamAgg.png" height="200">
+<img src="./FamAgg_hl.png" height="200">
+</p>
 
 The sticker was generated using
 the [`FamAgg_hexSticker.R`](./FamAgg_hexSticker.R) `R` script that uses
