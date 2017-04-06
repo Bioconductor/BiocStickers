@@ -34,3 +34,8 @@ sticker(gg, package="mzR", p_size = 9, s_x = 1.01, s_y = .81, s_width = 1.55,
         s_height = 1.55, p_color = col_text, h_fill = col_bg,
         h_color = col_border, filename="mzR.png", p_family = "Aller_Lt")
 
+sticker(gg, package="mzR", p_size = 9, s_x = 1.01, s_y = .81, s_width = 1.55,
+        s_height = 1.55, p_color = col_text, h_fill = col_bg,
+        spotlight = TRUE,
+        h_color = col_border, filename="mzR_hl.png", p_family = "Aller_Lt")
+
