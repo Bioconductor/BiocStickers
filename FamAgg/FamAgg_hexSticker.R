@@ -73,27 +73,34 @@ sticker(gg, package="FamAgg", p_size = 9, s_x = 0.99, s_y = 1.01, s_width = 1.5,
         s_height = 1.5, p_color = col_text, h_fill = col_bg,
         h_color = col_border, filename="FamAgg.png", p_family = "Aller_Lt")
 
-
-## Highlight:
-set.seed(123)
-vals_x <- rnorm(50000, sd = 2, mean = 0)
-vals_y <- rnorm(50000, sd = 20, mean = 0)
-whiteTrans <- function(n) {
-    rgb(r = rep(1, n), g = rep(1, n), b = rep(1, n),
-        alpha = seq(0, 0.20, length.out = n))
-}
-hgl <- hexbinplot(vals_x ~ vals_y, colramp = whiteTrans, colorkey = FALSE,
-                  bty = "n", scales = list(draw = FALSE), xlab = "", ylab = "",
-                  border = NA, par.settings = list(axis.line = list(col = NA)))
-
-gg <- ggplot() +
-    geom_rect(aes(xmin = 0, xmax = 1.5, ymin = 0, ymax = 1.5), fill = NA) +
-    annotation_custom(g_img, xmin = -0.02, ymin = -0.15) +
-    trans_rect + 
-    geom_subview(hgl, x = 0.9, y = 0.2, width = 3, height = 3) +    
-    theme_void() + guides(alpha = FALSE) + theme(axis.line=element_blank())
-
 sticker(gg, package="FamAgg", p_size = 9, s_x = 0.99, s_y = 1.01, s_width = 1.5,
-        s_height = 1.5, p_color = col_text, h_fill = col_bg,
-        h_color = col_border, filename="FamAgg_hl.png", p_family = "Aller_Lt")
+        s_height = 1.5, p_color = col_text, h_fill = col_bg, spotlight = TRUE,
+        h_color = col_border, filename="FamAgg_hl.png", p_family = "Aller_Lt",
+        l_x = 1.01)
+
+
+##################
+## Old version with manual highlight.
+## Highlight:
+## set.seed(123)
+## vals_x <- rnorm(50000, sd = 2, mean = 0)
+## vals_y <- rnorm(50000, sd = 20, mean = 0)
+## whiteTrans <- function(n) {
+##     rgb(r = rep(1, n), g = rep(1, n), b = rep(1, n),
+##         alpha = seq(0, 0.20, length.out = n))
+## }
+## hgl <- hexbinplot(vals_x ~ vals_y, colramp = whiteTrans, colorkey = FALSE,
+##                   bty = "n", scales = list(draw = FALSE), xlab = "", ylab = "",
+##                   border = NA, par.settings = list(axis.line = list(col = NA)))
+
+## gg <- ggplot() +
+##     geom_rect(aes(xmin = 0, xmax = 1.5, ymin = 0, ymax = 1.5), fill = NA) +
+##     annotation_custom(g_img, xmin = -0.02, ymin = -0.15) +
+##     trans_rect + 
+##     geom_subview(hgl, x = 0.9, y = 0.2, width = 3, height = 3) +    
+##     theme_void() + guides(alpha = FALSE) + theme(axis.line=element_blank())
+
+## sticker(gg, package="FamAgg", p_size = 9, s_x = 0.99, s_y = 1.01, s_width = 1.5,
+##         s_height = 1.5, p_color = col_text, h_fill = col_bg,
+##         h_color = col_border, filename="FamAgg_hl.png", p_family = "Aller_Lt")
 
