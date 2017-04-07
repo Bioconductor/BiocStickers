@@ -38,7 +38,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="minfi/minfi.png" height="100">
 <img src="missMethyl/missMethyl.png" height="100">
 <img src="MSnbase/MSnbase.png" height="100">
-<img src="mzR/mzR.png" height="100">
+<img src="mzR/mzR_hl.png" height="100">
 <img src="pRoloc/pRoloc.png" height="100">
 <img src="pRoloc/pRolocdata.png" height="100">
 <img src="pRoloc/pRolocGUI.png" height="100">
@@ -50,7 +50,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="RUVSeq/RUVSeq.png" height="100">
 <img src="treeio/treeio.png" height="100">
 <img src="vsn/vsn.png" height="100">
-<img src="xcms/xcms.png" height="100">
+<img src="xcms/xcms_hl.png" height="100">
 </p>
 
 # Order stickers

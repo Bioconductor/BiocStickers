@@ -8,7 +8,10 @@
   share and adapt, but don't forget to credit the author.
 * Order: https://www.stickermule.com/en/marketplace/17631-mzr
 
+<p align = "left">
 <img src="./mzR.png" height="200">
+<img src="./mzR_hl.png" height="200">
+</p>
 
 The sticker was generated using the [`mzR_hexSticker.R`](./mzR_hexSticker.R) `R`
 script that uses the [`hexSticker`](https://github.com/GuangchuangYu/hexSticker)

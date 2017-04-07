@@ -7,7 +7,10 @@
   share and adapt, but don't forget to credit the author.
 * Order: https://www.stickermule.com/en/marketplace/17632-xcms
 
+<p align = "left">
 <img src="./xcms.png" height="200">
+<img src="./xcms_hl.png" height="200">
+</p>
 
 The sticker was generated using
 the [`xcms_hexSticker.R`](./xcms_hexSticker.R) `R` script that uses
