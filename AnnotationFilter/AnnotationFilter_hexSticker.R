@@ -53,6 +53,7 @@ sticker(gg, package="AnnotationFilter", p_size = 5.5, p_y = 1.25, s_x = 0.89,
         h_fill = col_bg, h_color = col_border, filename="AnnotationFilter.png",
         p_family = "Aller_Lt")
 
+set.seed(123)
 sticker(gg, package="AnnotationFilter", p_size = 5.5, p_y = 1.25, s_x = 0.89,
         s_y = 1.08, s_width = 1.04, s_height = 1.7, p_color = col_text,
         h_fill = col_bg, h_color = col_border, spotlight = TRUE,
