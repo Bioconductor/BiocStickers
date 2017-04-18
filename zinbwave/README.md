@@ -13,5 +13,6 @@ share and adapt, but don't forget to credit the author.
 
 The sticker was generated using
 the [`zinbwave_hexSticker.R`](./zinbwave_hexSticker.R) `R` script that uses
-the [`hexSticker`](https://github.com/GuangchuangYu/hexSticker) package. We also would like to acknowledge the package that we used for the source of the image: https://github.com/Ranks/emojione/graphs/contributors. 
+the [`hexSticker`](https://github.com/GuangchuangYu/hexSticker) package. 
 
+The wave image is part of the emoji one projects, see https://github.com/Ranks/emojione/graphs/contributors for credits.
