@@ -37,6 +37,6 @@ sticker(gg,
         s_w = 2,
         s_h = 2,
         spotlight = TRUE,
-        l_alpha = 0.1,
+        l_alpha = 0.15,
         l_width = 4,
         l_height = 4)
