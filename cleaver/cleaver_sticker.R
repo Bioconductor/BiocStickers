@@ -22,7 +22,7 @@ gg <- ggplot() +
       geom_text(aes_(x=-0.45, y=-0.15, angle=0), label="LAAGK",
                 color="#A3ACBF", family="Aller", size=16) +
       geom_image(aes_(x=0.25, y=-0.05, image="imagesrc/cleaver.svg.png", angle=45), size=0.4) +
-      geom_text(aes_(x=0.3, y=-0.45, angle=-45), label="VEDSD",
+      geom_text(aes_(x=0.28, y=-0.425, angle=-45), label="VEDSD",
                 color="#A3ACBF", family="Aller", size=16)
 
 set.seed(123)
