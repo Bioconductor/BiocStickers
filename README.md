@@ -16,7 +16,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="Bioconductor/Bioconductor_original.png" height="100">
 <img src="BiocStyle/BiocStyle.png" height="100">
 <img src="biomaRt/biomaRt.png" height="100">
-<img src="Biostrings/Biostrings.png" height="100">
+`<img src="Biostrings/Biostrings.png" height="100">
 <img src="bsseq/bsseq.png" height="100">
 <img src="cleaver/cleaver.png" height="100">
 <img src="DESeq2/DESeq2.png" height="100">
@@ -42,6 +42,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="pRoloc/pRoloc.png" height="100">
 <img src="pRoloc/pRolocdata.png" height="100">
 <img src="pRoloc/pRolocGUI.png" height="100">
+<img src="RCAS/RCAS.png" height="100">
 <img src="Rsamtools/Rsamtools.png" height="100">
 <img src="Rsubread/Rsubread.png" height="100">
 <img src="RUV/RUV.png" height="100">
