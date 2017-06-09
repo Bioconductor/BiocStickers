@@ -75,14 +75,15 @@ package-specific links.
 
 # Sticker development guidelines
 
-To start with a new sticker you might want to use the template
-[template.xcf](template/template.xcf) (gimp format) or you might want
-look at the
-[`hexSticker`](https://github.com/GuangchuangYu/hexSticker) package to
-produce the sticker entirely in `R`.
+To start with a new sticker you might want to use one of the templates
+([template.xcf](template/template.xcf) (gimp format) or
+[inkscape_template.svg](template/inkscape_template.svg) (Inkscape format)) or
+you might want to look at the
+[`hexSticker`](https://github.com/GuangchuangYu/hexSticker) package to produce
+the sticker entirely in `R`.
 
-You can also find a tutorial [Sticker_instructions.png](Tutorial/Sticker_instructions.png) to design your stickers manually in `Illustrator`.
-
+You can also find a tutorial [Sticker_instructions.png](Tutorial/Sticker_instructions.png)
+to design your stickers manually in `Illustrator`.
 
 + Each sticker should be put into a folder named according to the package.
 + Each folder should also contain a *README.md* providing at least the name of
