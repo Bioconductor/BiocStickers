@@ -13,10 +13,11 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="AnnotationFilter/AnnotationFilter_hl.png" height="100">
 <img src="beadarray/beadarray.png" height="100">
 <img src="Biobase/Biobase.png" height="100">
+<img src="BiocFileCache/BiocFileCache.png" height="100">
 <img src="Bioconductor/Bioconductor_original.png" height="100">
 <img src="BiocStyle/BiocStyle.png" height="100">
 <img src="biomaRt/biomaRt.png" height="100">
-`<img src="Biostrings/Biostrings.png" height="100">
+<img src="Biostrings/Biostrings.png" height="100">
 <img src="bsseq/bsseq.png" height="100">
 <img src="cleaver/cleaver.png" height="100">
 <img src="DESeq2/DESeq2.png" height="100">
