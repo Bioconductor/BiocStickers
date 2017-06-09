@@ -76,7 +76,7 @@ package-specific links.
 # Sticker development guidelines
 
 To start with a new sticker you might want to use one of the templates
-([template.xcf](template/template.xcf) (gimp format) or
+([gimp_template.xcf](template/gimp_template.xcf) (gimp format) or
 [inkscape_template.svg](template/inkscape_template.svg) (Inkscape format)) or
 you might want to look at the
 [`hexSticker`](https://github.com/GuangchuangYu/hexSticker) package to produce
