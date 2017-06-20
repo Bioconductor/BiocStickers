@@ -33,5 +33,6 @@ p <- p+theme(panel.spacing = unit(0, "lines"))
 hexagon() + geom_fontawesome("fa-file-text-o", size=14, x=.6, y=.85, color="grey") +
     geom_fontawesome("fa-angle-double-right", size=6, color="#2C3E50", x=1.15, y=1) +
     geom_fontawesome("fa-angle-double-left", size=6, color="#2C3E50", x=.9, y=.7) +
-    geom_subview(p, x=1.48, y=.8, width=0.8, height=.9) + geom_pkgname("treeio", family="Aller_Lt", size=9) +
-    save_sticker("treeio.png")
+    geom_subview(p, x=1.48, y=.8, width=0.8, height=.9) + geom_pkgname("treeio", family="Aller_Lt", size=9.5, y=1.5) +
+    #geom_subview(hexSticker:::spotlight(0.4), x=1.35, y=.75, width=3, height=3) +
+    save_sticker("treeio.pdf")
