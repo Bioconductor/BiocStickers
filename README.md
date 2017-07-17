@@ -50,7 +50,9 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="RUVcorr/RUVcorr.png" height="100">
 <img src="RUVnormalize/RUVnormalize.png" height="100">
 <img src="RUVSeq/RUVSeq.png" height="100">
+<img src="SC3/SC3.png" height="100">
 <img src="scater/scater.png" height="100">
+<img src="scmap/scmap.png" height="100">
 <img src="Splatter/splatter_monochrome.png" height="100">
 <img src="treeio/treeio.png" height="100">
 <img src="vsn/vsn.png" height="100">
