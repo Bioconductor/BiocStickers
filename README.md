@@ -57,7 +57,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="treeio/treeio.png" height="100">
 <img src="vsn/vsn.png" height="100">
 <img src="xcms/xcms_hl.png" height="100">
-<img src="xcms/zinbwave.png" height="100">
+<img src="zinbwave/zinbwave.png" height="100">
 </p>
 
 # Order stickers
