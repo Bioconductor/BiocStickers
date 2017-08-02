@@ -32,6 +32,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="GEOquery/GEOquery.png" height="100">
 <img src="ggtree/ggtree.png" height="100">
 <img src="Glimma/Glimma.png" height="100">
+<img src="GOexpress/GOexpress.png" height="100">
 <img src="Gviz/Gviz.png" height="100">
 <img src="illuminaio/illuminaio.png" height="100">
 <img src="IRanges/IRanges.png" height="100">
