@@ -36,7 +36,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="GOexpress/GOexpress.png" height="100">
 <img src="Gviz/Gviz.png" height="100">
 <img src="illuminaio/illuminaio.png" height="100">
-<img src="isomiRs/isomirs.png" heigh="100">
+<img src="isomiRs/isomirs.png" height="100">
 <img src="IRanges/IRanges.png" height="100">
 <img src="limma/limma.png" height="100">
 <img src="methylKit/methylKit.png" height="100">
