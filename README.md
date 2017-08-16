@@ -21,6 +21,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="bsseq/bsseq.png" height="100">
 <img src="cleaver/cleaver.png" height="100">
 <img src="clusterProfiler/clusterProfiler.png" height="100">
+<img src="DEGreport/degreport.png" height="100">
 <img src="DESeq2/DESeq2.png" height="100">
 <img src="DEXSeq/DEXSeq.png" height="100">
 <img src="edgeR/edgeR.png" height="100">
@@ -35,6 +36,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="GOexpress/GOexpress.png" height="100">
 <img src="Gviz/Gviz.png" height="100">
 <img src="illuminaio/illuminaio.png" height="100">
+<img src="isomiRs/isomirs.png" height="100">
 <img src="IRanges/IRanges.png" height="100">
 <img src="limma/limma.png" height="100">
 <img src="methylKit/methylKit.png" height="100">
