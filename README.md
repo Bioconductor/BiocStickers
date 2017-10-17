@@ -57,14 +57,14 @@ please open an issue and discuss changes with the sticker maintainer.
 <img src="SC3/SC3.png" height="100">
 <img src="scater/scater.png" height="100">
 <img src="scmap/scmap.png" height="100">
+<img src="scPipe/scPipe.png" height="100">
 <img src="Splatter/splatter_monochrome.png" height="100">
-<img src="TVTB/TVTB.png" height="100">
 <img src="treeio/treeio.png" height="100">
+<img src="TVTB/TVTB.png" height="100">
 <img src="VariantAnnotation/VariantAnnotation.png" height="100">
 <img src="vsn/vsn.png" height="100">
 <img src="xcms/xcms_hl.png" height="100">
 <img src="zinbwave/zinbwave.png" height="100">
-<img src="scPipe/scPipe.png" height="100">
 </p>
 
 # Order stickers
