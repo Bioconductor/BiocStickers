@@ -8,63 +8,63 @@ please open an issue and discuss changes with the sticker maintainer.
 ## Stickers:
 
 <p align = "left">
-<img src="affy/affy.png" height="100">
-<img src="AnnotationDbi/AnnotationDbi.png" height="100">
-<img src="AnnotationFilter/AnnotationFilter_hl.png" height="100">
-<img src="beadarray/beadarray.png" height="100">
-<img src="Biobase/Biobase.png" height="100">
-<img src="BiocFileCache/BiocFileCache.png" height="100">
-<img src="Bioconductor/Bioconductor_original.png" height="100">
-<img src="BiocStyle/BiocStyle.png" height="100">
-<img src="biomaRt/biomaRt.png" height="100">
-<img src="Biostrings/Biostrings.png" height="100">
-<img src="bsseq/bsseq.png" height="100">
-<img src="cleaver/cleaver.png" height="100">
+<a href="affy/README.md"><img src="affy/affy.png" height="100"></a>
+<a href="AnnotationDbi/README.md"><img src="AnnotationDbi/AnnotationDbi.png" height="100"></a>
+<a href="AnnotationFilter/README.md"><img src="AnnotationFilter/AnnotationFilter_hl.png" height="100"></a>
+<a href="beadarray/README.md"><img src="beadarray/beadarray.png" height="100"></a>
+<a href="Biobase/README.md"><img src="Biobase/Biobase.png" height="100"></a>
+<a href="BiocFileCache/README.md"><img src="BiocFileCache/BiocFileCache.png" height="100"></a>
+<a href="Bioconductor/README.md"><img src="Bioconductor/Bioconductor_original.png" height="100"></a>
+<a href="BiocStyle/README.md"><img src="BiocStyle/BiocStyle.png" height="100"></a>
+<a href="biomaRt/README.md"><img src="biomaRt/biomaRt.png" height="100"></a>
+<a href="Biostrings/README.md"><img src="Biostrings/Biostrings.png" height="100"></a>
+<a href="bsseq/README.md"><img src="bsseq/bsseq.png" height="100"></a>
+<a href="cleaver/README.md"><img src="cleaver/cleaver.png" height="100"></a>
 <img src="clusterProfiler/clusterProfiler.png" height="100">
-<img src="DEGreport/degreport.png" height="100">
-<img src="DESeq2/DESeq2.png" height="100">
-<img src="DEXSeq/DEXSeq.png" height="100">
-<img src="edgeR/edgeR.png" height="100">
-<img src="EGSEA/EGSEA.png" height="100">
-<img src="ensembldb/ensembldb.png" height="100">
-<img src="FamAgg/FamAgg_hl.png" height="100">
-<img src="GenomicRanges/GenomicRanges.png" height="100">
-<img src="genomation/genomation.png" height="100">
-<img src="GEOquery/GEOquery.png" height="100">
-<img src="ggtree/ggtree.png" height="100">
-<img src="Glimma/Glimma.png" height="100">
-<img src="GOexpress/GOexpress.png" height="100">
-<img src="Gviz/Gviz.png" height="100">
-<img src="illuminaio/illuminaio.png" height="100">
-<img src="isomiRs/isomirs.png" height="100">
-<img src="IRanges/IRanges.png" height="100">
-<img src="limma/limma.png" height="100">
-<img src="methylKit/methylKit.png" height="100">
-<img src="minfi/minfi.png" height="100">
-<img src="missMethyl/missMethyl.png" height="100">
-<img src="MSnbase/MSnbase.png" height="100">
-<img src="mzR/mzR_hl.png" height="100">
-<img src="pRoloc/pRoloc.png" height="100">
-<img src="pRoloc/pRolocdata.png" height="100">
-<img src="pRoloc/pRolocGUI.png" height="100">
-<img src="RCAS/RCAS.png" height="100">
-<img src="Rsamtools/Rsamtools.png" height="100">
-<img src="Rsubread/Rsubread.png" height="100">
-<img src="RUV/RUV.png" height="100">
-<img src="RUVcorr/RUVcorr.png" height="100">
-<img src="RUVnormalize/RUVnormalize.png" height="100">
-<img src="RUVSeq/RUVSeq.png" height="100">
-<img src="SC3/SC3.png" height="100">
-<img src="scater/scater.png" height="100">
-<img src="scmap/scmap.png" height="100">
-<img src="scPipe/scPipe.png" height="100">
-<img src="Splatter/splatter_monochrome.png" height="100">
-<img src="treeio/treeio.png" height="100">
-<img src="TVTB/TVTB.png" height="100">
-<img src="VariantAnnotation/VariantAnnotation.png" height="100">
-<img src="vsn/vsn.png" height="100">
-<img src="xcms/xcms_hl.png" height="100">
-<img src="zinbwave/zinbwave.png" height="100">
+<a href="DEGreport/README.md"><img src="DEGreport/degreport.png" height="100"></a>
+<a href="DESeq2/README.md"><img src="DESeq2/DESeq2.png" height="100"></a>
+<a href="DEXSeq/README.md"><img src="DEXSeq/DEXSeq.png" height="100"></a>
+<a href="edgeR/README.md"><img src="edgeR/edgeR.png" height="100"></a>
+<a href="EGSEA/README.md"><img src="EGSEA/EGSEA.png" height="100"></a>
+<a href="ensembldb/README.md"><img src="ensembldb/ensembldb.png" height="100"></a>
+<a href="FamAgg/README.md"><img src="FamAgg/FamAgg_hl.png" height="100"></a>
+<a href="GenomicRanges/README.md"><img src="GenomicRanges/GenomicRanges.png" height="100"></a>
+<a href="genomation/README.md"><img src="genomation/genomation.png" height="100"></a>
+<a href="GEOquery/README.md"><img src="GEOquery/GEOquery.png" height="100"></a>
+<a href="ggtree/README.md"><img src="ggtree/ggtree.png" height="100"></a>
+<a href="Glimma/README.md"><img src="Glimma/Glimma.png" height="100"></a>
+<a href="GOexpress/README.md"><img src="GOexpress/GOexpress.png" height="100"></a>
+<a href="Gviz/README.md"><img src="Gviz/Gviz.png" height="100"></a>
+<a href="illuminaio/README.md"><img src="illuminaio/illuminaio.png" height="100"></a>
+<a href="isomirs/README.md"><img src="isomiRs/isomirs.png" height="100"></a>
+<a href="IRanges/README.md"><img src="IRanges/IRanges.png" height="100"></a>
+<a href="limma/README.md"><img src="limma/limma.png" height="100"></a>
+<a href="methylKit/README.md"><img src="methylKit/methylKit.png" height="100"></a>
+<a href="minfi/README.md"><img src="minfi/minfi.png" height="100"></a>
+<a href="missMethyl/README.md"><img src="missMethyl/missMethyl.png" height="100"></a>
+<a href="MSnbase/README.md"><img src="MSnbase/MSnbase.png" height="100"></a>
+<a href="mzR/README.md"><img src="mzR/mzR_hl.png" height="100"></a>
+<a href="pRoloc/README.md"><img src="pRoloc/pRoloc.png" height="100"></a>
+<a href="pRoloc/README.md"><img src="pRoloc/pRolocdata.png" height="100"></a>
+<a href="pRoloc/README.md"><img src="pRoloc/pRolocGUI.png" height="100"></a>
+<a href="RCAS/README.md"><img src="RCAS/RCAS.png" height="100"></a>
+<a href="Rsamtools/README.md"><img src="Rsamtools/Rsamtools.png" height="100"></a>
+<a href="Rsubread/README.md"><img src="Rsubread/Rsubread.png" height="100"></a>
+<a href="RUV/README.md"><img src="RUV/RUV.png" height="100"></a>
+<a href="RUVcorr/README.md"><img src="RUVcorr/RUVcorr.png" height="100"></a>
+<a href="RUVnormalizw/README.md"><img src="RUVnormalize/RUVnormalize.png" height="100"></a>
+<a href="RUVSeq/README.md"><img src="RUVSeq/RUVSeq.png" height="100"></a>
+<a href="SC3/README.md"><img src="SC3/SC3.png" height="100"></a>
+<a href="scater/README.md"><img src="scater/scater.png" height="100"></a>
+<a href="scmap/README.md"><img src="scmap/scmap.png" height="100"></a>
+<a href="scPipe/README.md"><img src="scPipe/scPipe.png" height="100"></a>
+<a href="Splatter/README.md"><img src="Splatter/splatter_monochrome.png" height="100"></a>
+<a href="treeio/README.md"><img src="treeio/treeio.png" height="100"></a>
+<a href="TVTB/README.md"><img src="TVTB/TVTB.png" height="100"></a>
+<a href="VariantAnnotation/README.md"><img src="VariantAnnotation/VariantAnnotation.png" height="100"></a>
+<a href="vsn/README.md"><img src="vsn/vsn.png" height="100"></a>
+<a href="xcms/README.md"><img src="xcms/xcms_hl.png" height="100"></a>
+<a href="zindwave/README.md"><img src="zinbwave/zinbwave.png" height="100"></a>
 </p>
 
 ## Stickers for *events*
