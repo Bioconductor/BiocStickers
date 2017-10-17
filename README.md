@@ -76,8 +76,6 @@ Stickers for some of the Bioconductor events.
 <a href="events/EuroBioc2017/README.md"><img src="events/EuroBioc2017/EuroBioc2017.png" height="100"></a>
 </p>
 
-* [CSAMA 2017](http://www.huber.embl.de/csama2017/): <img src="events/CSAMA/2017/CSAMA2017.png" height="32">
-* [EuroBioc2017](https://bioconductor.github.io/EuroBioc2017/): 
 # Order stickers
 
 The respectively sticker maintainers can choose to make their stickers

@@ -13,6 +13,6 @@
   [CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to share and
   adapt, but don't forget to credit the author.
 
-<img src="./CSAMA20172017.png" height="200">
+<img src="./CSAMA2017.png" height="200">
 
 
