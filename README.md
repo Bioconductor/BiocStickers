@@ -69,11 +69,15 @@ please open an issue and discuss changes with the sticker maintainer.
 
 ## Stickers for *events*
 
-List of stickers for some of the Bioconductor events:
+Stickers for some of the Bioconductor events.
+
+<p align = "left">
+<a href="events/CSAMA/2017/README.md"><img src="events/CSAMA/2017/CSAMA2017.png" height="100"></a>
+<a href="events/EuroBioc2017/README.md"><img src="events/EuroBioc2017/EuroBioc2017.png" height="100"></a>
+</p>
 
 * [CSAMA 2017](http://www.huber.embl.de/csama2017/): <img src="events/CSAMA/2017/CSAMA2017.png" height="32">
-* [EuroBioc2017](https://bioconductor.github.io/EuroBioc2017/): <a href="events/EuroBioc2017/README.md"><img src="events/EuroBioc2017/EuroBioc2017.png" height="32"></a>
-
+* [EuroBioc2017](https://bioconductor.github.io/EuroBioc2017/): 
 # Order stickers
 
 The respectively sticker maintainers can choose to make their stickers
