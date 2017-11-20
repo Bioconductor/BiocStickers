@@ -1,4 +1,4 @@
-# The `TVTB` package sticker
+# The `VariantAnnotation` package sticker
 
 * Maintainer: [Kevin Rue-Albrecht](https://github.com/kevinrue/)
 * License: Creative Commons Attribution
