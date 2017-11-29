@@ -35,6 +35,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="Glimma/README.md"><img src="Glimma/Glimma.png" height="100"></a>
 <a href="GOexpress/README.md"><img src="GOexpress/GOexpress.png" height="100"></a>
 <a href="Gviz/README.md"><img src="Gviz/Gviz.png" height="100"></a>
+<a href="iCOBRA/README.md"><img src="iCOBRA/iCOBRA.png" height="100"></a>
 <a href="illuminaio/README.md"><img src="illuminaio/illuminaio.png" height="100"></a>
 <a href="isomirs/README.md"><img src="isomiRs/isomirs.png" height="100"></a>
 <a href="IRanges/README.md"><img src="IRanges/IRanges.png" height="100"></a>
