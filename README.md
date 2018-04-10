@@ -19,8 +19,9 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="biomaRt/README.md"><img src="biomaRt/biomaRt.png" height="100"></a>
 <a href="Biostrings/README.md"><img src="Biostrings/Biostrings.png" height="100"></a>
 <a href="bsseq/README.md"><img src="bsseq/bsseq.png" height="100"></a>
+<a href="ChIPseeker/README.md"><img src="ChIPseeker/ChIPseeker.png" height="100"></a>
 <a href="cleaver/README.md"><img src="cleaver/cleaver.png" height="100"></a>
-<img src="clusterProfiler/clusterProfiler.png" height="100">
+<a href="clusterProfiler/README.md"><img src="clusterProfiler/clusterProfiler.png" height="100"></a>
 <a href="DEGreport/README.md"><img src="DEGreport/degreport.png" height="100"></a>
 <a href="DESeq2/README.md"><img src="DESeq2/DESeq2.png" height="100"></a>
 <a href="DEXSeq/README.md"><img src="DEXSeq/DEXSeq.png" height="100"></a>
