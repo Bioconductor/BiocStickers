@@ -49,6 +49,13 @@ oldwd <- getwd()
 setwd("~/github/plotTree-ggtree/plotTree/tree_example_april2015/")
 info <- read.csv("info.csv")
 tree <- read.tree("tree.nwk")
+
+##tp <- tree$tip.label
+
+## set.seed(2018-04-10)
+## tree=rtree(230)
+## tree$tip.label <- tp
+
 heatmap.colours=c("steelblue","grey","seagreen3","darkgreen","green","brown","tan", "red",
                   "orange","pink","magenta","purple","blue","skyblue3","blue","skyblue2")
 names(heatmap.colours) <- 0:15
@@ -101,19 +108,22 @@ p2 = p2 + scale_fill_manual(values=heatmap.colours, na.value=NA) #"white")
 setwd(oldwd)
 p2 <- p2+theme_tree()+theme_transparent()
 
+p3 = rotate_tree(open_tree(p2 + xlim(-5, NA), 120), -210)
+
 #p2
-sticker(open_tree(p2, 180),
-        package="ggtree",  p_size=9.5,
-        s_x=1, s_y = .45, s_width=1.8, s_height=1.8,
+sticker(p3, #open_tree(p2, 180),
+        package="ggtree",  p_size=9.5, p_y=1.4,
+        s_x=.99, s_y = .85, s_width=1.8, s_height=1.8,
         ## h_color="#2C3E50", h_fill="#2574A9",
-        p_y=1.4, spotlight=T, l_x=1.02, l_y=.6,
-        l_width=3.2, l_height=1.5,
+        spotlight=T, l_x=1.02, l_y=.8,
+        # l_width=3.2, l_height=1.5,
         filename="ggtree.png", p_family="Aller_Lt")
 
-sticker(open_tree(p2, 180),
-        package="ggtree",  p_size=9.5,
-        s_x=1, s_y = .45, s_width=1.8, s_height=1.8,
+sticker(p3, #open_tree(p2, 180),
+        package="ggtree",  p_size=9.5, p_y=1.4,
+        s_x=.99, s_y = .85, s_width=1.8, s_height=1.8,
         ## h_color="#2C3E50", h_fill="#2574A9",
-        p_y=1.4, spotlight=T, l_x=1.02, l_y=.6,
-        l_width=3.2, l_height=1.5,
+        spotlight=T, l_x=1.02, l_y=.8,
+        # l_width=3.2, l_height=1.5,
         filename="ggtree.pdf", p_family="Aller_Lt")
+
