@@ -102,13 +102,18 @@ setwd(oldwd)
 p2 <- p2+theme_tree()+theme_transparent()
 
 #p2
-sticker(p2, package="ggtree",  p_size=9.5, s_x=.98, s_y = .73, s_width=1.6, s_height=1.6,
+sticker(open_tree(p2, 180),
+        package="ggtree",  p_size=9.5,
+        s_x=1, s_y = .45, s_width=1.8, s_height=1.8,
         ## h_color="#2C3E50", h_fill="#2574A9",
-        p_y=1.55, spotlight=T, l_x=.98, l_y=.73,
+        p_y=1.4, spotlight=T, l_x=1.02, l_y=.6,
+        l_width=3.2, l_height=1.5,
         filename="ggtree.png", p_family="Aller_Lt")
 
-sticker(p2, package="ggtree",  p_size=9.5, s_x=.98, s_y = .73, s_width=1.6, s_height=1.6,
+sticker(open_tree(p2, 180),
+        package="ggtree",  p_size=9.5,
+        s_x=1, s_y = .45, s_width=1.8, s_height=1.8,
         ## h_color="#2C3E50", h_fill="#2574A9",
-        p_y=1.55, spotlight=T, l_x=.98, l_y=.73,
+        p_y=1.4, spotlight=T, l_x=1.02, l_y=.6,
+        l_width=3.2, l_height=1.5,
         filename="ggtree.pdf", p_family="Aller_Lt")
-
