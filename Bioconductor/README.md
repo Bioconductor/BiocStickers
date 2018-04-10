@@ -1,4 +1,4 @@
-# The `MSnbase` package sticker
+# The **Bioconductor** project sticker
 
 * Project URL: http://bioconductor.org/
 * Maintainer: [Laurent Gatto](https://github.com/lgatto/)
