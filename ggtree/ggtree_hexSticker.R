@@ -115,7 +115,7 @@ sticker(p3, #open_tree(p2, 180),
         package="ggtree",  p_size=9.5, p_y=1.4,
         s_x=.99, s_y = .85, s_width=1.8, s_height=1.8,
         ## h_color="#2C3E50", h_fill="#2574A9",
-        spotlight=T, l_x=1.02, l_y=.8,
+        spotlight=T, l_x=1.01, l_y=.8,
         # l_width=3.2, l_height=1.5,
         filename="ggtree.png", p_family="Aller_Lt")
 
@@ -123,7 +123,7 @@ sticker(p3, #open_tree(p2, 180),
         package="ggtree",  p_size=9.5, p_y=1.4,
         s_x=.99, s_y = .85, s_width=1.8, s_height=1.8,
         ## h_color="#2C3E50", h_fill="#2574A9",
-        spotlight=T, l_x=1.02, l_y=.8,
+        spotlight=T, l_x=1.01, l_y=.8,
         # l_width=3.2, l_height=1.5,
         filename="ggtree.pdf", p_family="Aller_Lt")
 
