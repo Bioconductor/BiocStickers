@@ -30,11 +30,13 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="ensembldb/README.md"><img src="ensembldb/ensembldb.png" height="100"></a>
 <a href="FamAgg/README.md"><img src="FamAgg/FamAgg_hl.png" height="100"></a>
 <a href="GenomicRanges/README.md"><img src="GenomicRanges/GenomicRanges.png" height="100"></a>
+<a href="GenomicScores/README.md"><img src="GenomicScores/GenomicScores.png" height="100"></a>
 <a href="genomation/README.md"><img src="genomation/genomation.png" height="100"></a>
 <a href="GEOquery/README.md"><img src="GEOquery/GEOquery.png" height="100"></a>
 <a href="ggtree/README.md"><img src="ggtree/ggtree.png" height="100"></a>
 <a href="Glimma/README.md"><img src="Glimma/Glimma.png" height="100"></a>
 <a href="GOexpress/README.md"><img src="GOexpress/GOexpress.png" height="100"></a>
+<a href="GSVA/README.md"><img src="GSVA/GSVA.png" height="100"></a>
 <a href="Gviz/README.md"><img src="Gviz/Gviz.png" height="100"></a>
 <a href="iCOBRA/README.md"><img src="iCOBRA/iCOBRA.png" height="100"></a>
 <a href="illuminaio/README.md"><img src="illuminaio/illuminaio.png" height="100"></a>
