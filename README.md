@@ -25,6 +25,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="DEGreport/README.md"><img src="DEGreport/degreport.png" height="100"></a>
 <a href="DESeq2/README.md"><img src="DESeq2/DESeq2.png" height="100"></a>
 <a href="DEXSeq/README.md"><img src="DEXSeq/DEXSeq.png" height="100"></a>
+<a href="dmrseq/README.md"><img src="dmrseq/dmrseq.png" height="100"></a>
 <a href="edgeR/README.md"><img src="edgeR/edgeR.png" height="100"></a>
 <a href="EGSEA/README.md"><img src="EGSEA/EGSEA.png" height="100"></a>
 <a href="ensembldb/README.md"><img src="ensembldb/ensembldb.png" height="100"></a>
