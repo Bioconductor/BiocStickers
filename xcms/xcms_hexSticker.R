@@ -39,10 +39,12 @@ gg <- ggplot() +
 
 sticker(gg, package="xcms", p_size = 9.5, s_x = 0.966, s_y = .85, s_width = 1.27,
         s_height = 1.48, p_color = col_text, h_fill = col_bg,
-        h_color = col_border, filename="xcms.png", p_family = "Aller_Lt")
+        h_color = col_border, filename="xcms.png", p_family = "Aller_Lt",
+        u_color = col_border, url = "www.bioconductor.org")
 
 set.seed(123)
 sticker(gg, package="xcms", p_size = 9.5, s_x = 0.966, s_y = .85, s_width = 1.27,
         s_height = 1.48, p_color = col_text, h_fill = col_bg,
-        spotlight = TRUE, l_x = 1.01,
-        h_color = col_border, filename="xcms_hl.png", p_family = "Aller_Lt")
+        spotlight = TRUE, l_x = 1.01, l_alpha = 0.2,
+        h_color = col_border, filename="xcms_hl.png", p_family = "Aller_Lt",
+        u_color = col_border, url = "www.bioconductor.org")
