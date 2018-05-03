@@ -51,14 +51,16 @@ gg <- ggplot() +
 sticker(gg, package="AnnotationFilter", p_size = 5.5, p_y = 1.25, s_x = 0.89,
         s_y = 1.08, s_width = 1.04, s_height = 1.7, p_color = col_text,
         h_fill = col_bg, h_color = col_border, filename="AnnotationFilter.png",
-        p_family = "Aller_Lt")
+        p_family = "Aller_Lt", u_color = col_border,
+        url = "www.bioconductor.org")
 
 set.seed(123)
 sticker(gg, package="AnnotationFilter", p_size = 5.5, p_y = 1.25, s_x = 0.89,
         s_y = 1.08, s_width = 1.04, s_height = 1.7, p_color = col_text,
         h_fill = col_bg, h_color = col_border, spotlight = TRUE,
-        filename="AnnotationFilter_hl.png", l_x = 1,
-        p_family = "Aller_Lt")
+        filename="AnnotationFilter_hl.png", l_x = 0.95, l_y = 0.6, l_alpha = 0.3,
+        p_family = "Aller_Lt", u_color = col_border,
+        url = "www.bioconductor.org")
 
 ##############
 ## Old (manual) highlight version
