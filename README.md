@@ -79,6 +79,7 @@ Stickers for some of the Bioconductor events.
 <p align = "left">
 <a href="events/CSAMA/2017/README.md"><img src="events/CSAMA/2017/CSAMA2017.png" height="100"></a>
 <a href="events/EuroBioc2017/README.md"><img src="events/EuroBioc2017/EuroBioc2017.png" height="100"></a>
+<a href="events/Bioc2018/README.md"><img src="events/Bioc2018/Bioc2018.png" height="100"></a>
 </p>
 
 # Order stickers
