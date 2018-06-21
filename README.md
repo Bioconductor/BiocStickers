@@ -64,7 +64,9 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="scmap/README.md"><img src="scmap/scmap.png" height="100"></a>
 <a href="scPipe/README.md"><img src="scPipe/scPipe.png" height="100"></a>
 <a href="Splatter/README.md"><img src="Splatter/splatter_monochrome.png" height="100"></a>
+<a href="stageR/README.md"><img src="stageR/stageR.png" height="100"></a>
 <a href="treeio/README.md"><img src="treeio/treeio.png" height="100"></a>
+<a href="tximport/README.md"><img src="tximport/tximport.png" height="100"></a>
 <a href="TVTB/README.md"><img src="TVTB/TVTB.png" height="100"></a>
 <a href="VariantAnnotation/README.md"><img src="VariantAnnotation/VariantAnnotation.png" height="100"></a>
 <a href="vsn/README.md"><img src="vsn/vsn.png" height="100"></a>
