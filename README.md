@@ -11,6 +11,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="affy/README.md"><img src="affy/affy.png" height="100"></a>
 <a href="AnnotationDbi/README.md"><img src="AnnotationDbi/AnnotationDbi.png" height="100"></a>
 <a href="AnnotationFilter/README.md"><img src="AnnotationFilter/AnnotationFilter_hl.png" height="100"></a>
+<a href="apeglm/README.md"><img src="apeglm/apeglm.png" height="100"></a>
 <a href="beadarray/README.md"><img src="beadarray/beadarray.png" height="100"></a>
 <a href="Biobase/README.md"><img src="Biobase/Biobase.png" height="100"></a>
 <a href="BiocFileCache/README.md"><img src="BiocFileCache/BiocFileCache.png" height="100"></a>
