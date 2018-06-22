@@ -73,6 +73,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="vsn/README.md"><img src="vsn/vsn.png" height="100"></a>
 <a href="xcms/README.md"><img src="xcms/xcms_hl.png" height="100"></a>
 <a href="zindwave/README.md"><img src="zinbwave/zinbwave.png" height="100"></a>
+<a href="drawProteins/README.md"><img src="drawProteins/drawProteins.png" height="100"></a>
 </p>
 
 ## Stickers for *events*
