@@ -41,6 +41,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="GSVA/README.md"><img src="GSVA/GSVA.png" height="100"></a>
 <a href="Gviz/README.md"><img src="Gviz/Gviz.png" height="100"></a>
 <a href="iCOBRA/README.md"><img src="iCOBRA/iCOBRA.png" height="100"></a>
+<a href="IHW/README.md"><img src="IHW/IHW.png" height="100"></a>
 <a href="illuminaio/README.md"><img src="illuminaio/illuminaio.png" height="100"></a>
 <a href="isomirs/README.md"><img src="isomiRs/isomirs.png" height="100"></a>
 <a href="IRanges/README.md"><img src="IRanges/IRanges.png" height="100"></a>
