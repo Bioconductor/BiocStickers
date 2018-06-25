@@ -14,12 +14,14 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="apeglm/README.md"><img src="apeglm/apeglm.png" height="100"></a>
 <a href="beadarray/README.md"><img src="beadarray/beadarray.png" height="100"></a>
 <a href="Biobase/README.md"><img src="Biobase/Biobase.png" height="100"></a>
+<a href="BioCExplorer/README.md"><img src="BioCExplorer/BioCExplorer.png" height="100"></a>
 <a href="BiocFileCache/README.md"><img src="BiocFileCache/BiocFileCache.png" height="100"></a>
 <a href="Bioconductor/README.md"><img src="Bioconductor/Bioconductor_original.png" height="100"></a>
 <a href="BiocStyle/README.md"><img src="BiocStyle/BiocStyle.png" height="100"></a>
 <a href="biomaRt/README.md"><img src="biomaRt/biomaRt.png" height="100"></a>
 <a href="Biostrings/README.md"><img src="Biostrings/Biostrings.png" height="100"></a>
 <a href="bsseq/README.md"><img src="bsseq/bsseq.png" height="100"></a>
+<a href="CellBench/README.md"><img src="CellBench/CellBench.png" height="100"></a>
 <a href="ChIPseeker/README.md"><img src="ChIPseeker/ChIPseeker.png" height="100"></a>
 <a href="cleaver/README.md"><img src="cleaver/cleaver.png" height="100"></a>
 <a href="clusterProfiler/README.md"><img src="clusterProfiler/clusterProfiler.png" height="100"></a>
@@ -27,6 +29,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="DESeq2/README.md"><img src="DESeq2/DESeq2.png" height="100"></a>
 <a href="DEXSeq/README.md"><img src="DEXSeq/DEXSeq.png" height="100"></a>
 <a href="dmrseq/README.md"><img src="dmrseq/dmrseq.png" height="100"></a>
+<a href="DropletUtils/README.md"><img src="DropletUtils/dmrseq.png" height="100"></a>
 <a href="edgeR/README.md"><img src="edgeR/edgeR.png" height="100"></a>
 <a href="EGSEA/README.md"><img src="EGSEA/EGSEA.png" height="100"></a>
 <a href="ensembldb/README.md"><img src="ensembldb/ensembldb.png" height="100"></a>
@@ -65,6 +68,8 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="scater/README.md"><img src="scater/scater.png" height="100"></a>
 <a href="scmap/README.md"><img src="scmap/scmap.png" height="100"></a>
 <a href="scPipe/README.md"><img src="scPipe/scPipe.png" height="100"></a>
+<a href="scran/README.md"><img src="scran/scran.png" height="100"></a>
+<a href="SingleCellExperiment/README.md"><img src="SingleCellExperiment/SingleCellExperiment.png" height="100"></a>
 <a href="Splatter/README.md"><img src="Splatter/splatter_monochrome.png" height="100"></a>
 <a href="stageR/README.md"><img src="stageR/stageR.png" height="100"></a>
 <a href="SummarizedExperiment/README.md"><img src="SummarizedExperiment/SummarizedExperiment.png" height="100"></a>
