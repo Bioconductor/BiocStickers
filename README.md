@@ -126,19 +126,9 @@ to design your stickers manually in `Illustrator`.
 # License
 
 Except where otherwise stated, the content and the stickers in this
-repository are licensed under a [Creative Commons Attribution 4.0
-International license](https://creativecommons.org/licenses/by/2.0/).
+repository are licensed under a CC0 1.0 Universal (CC0 1.0) Public
+Domain License. 
 
-You are free to:
-
-* **Share** - copy and redistribute the material in any medium or format
-* **Adapt** - remix, transform, and build upon the material
-
-for any purpose, even commercially.
-
-Under the following terms:
-
-**Attribution** - You must give appropriate credit to the author of
-the sticker(s, provide a link to the license, and indicate if changes
-were made. You may do so in any reasonable manner, but not in any way
-that suggests the licensor endorses you or your use.
+You can copy, modify, distribute and perform the work, even for
+commercial purposes, all without asking permission. See more details
+[here](https://creativecommons.org/publicdomain/zero/1.0/).
