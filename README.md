@@ -61,6 +61,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="pRoloc/README.md"><img src="pRoloc/pRolocdata.png" height="100"></a>
 <a href="pRoloc/README.md"><img src="pRoloc/pRolocGUI.png" height="100"></a>
 <a href="RCAS/README.md"><img src="RCAS/RCAS.png" height="100"></a>
+<a href="regsplice/README.md"><img src="regsplice/regsplice.png" height="100"></a>
 <a href="Rsamtools/README.md"><img src="Rsamtools/Rsamtools.png" height="100"></a>
 <a href="Rsubread/README.md"><img src="Rsubread/Rsubread.png" height="100"></a>
 <a href="RUV/README.md"><img src="RUV/RUV.png" height="100"></a>
