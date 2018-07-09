@@ -1,4 +1,4 @@
-# The `plyranges` packages sticker
+# The `plyranges` package sticker
 - Maintainer: [Stuart Lee](https://github.com/sa-lee/)
 - Designer: [Robbie Bonelli](https://github.com/Robbie90/)
 
