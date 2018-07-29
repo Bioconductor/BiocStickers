@@ -87,5 +87,5 @@ sticker(subplot,
         s_y=0.8, ## y axis location subplot
         s_width=0.7,
         s_height = 0.5,
-        h_fill="#f9690e",
+        h_fill="#F0E442",
         package="BiocParallel")
