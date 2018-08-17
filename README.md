@@ -75,6 +75,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="scran/README.md"><img src="scran/scran.png" height="100"></a>
 <a href="SingleCellExperiment/README.md"><img src="SingleCellExperiment/SingleCellExperiment.png" height="100"></a>
 <a href="singscore/README.md"><img src="singscore/singscore.png" height="100"></a>
+<a href="slingshot/README.md"><img src="slingshot/slingshot.png" height="100"></a>
 <a href="Splatter/README.md"><img src="Splatter/splatter_monochrome.png" height="100"></a>
 <a href="stageR/README.md"><img src="stageR/stageR.png" height="100"></a>
 <a href="SummarizedExperiment/README.md"><img src="SummarizedExperiment/SummarizedExperiment.png" height="100"></a>
