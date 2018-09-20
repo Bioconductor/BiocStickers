@@ -26,6 +26,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="ChIPseeker/README.md"><img src="ChIPseeker/ChIPseeker.png" height="100"></a>
 <a href="cleaver/README.md"><img src="cleaver/cleaver.png" height="100"></a>
 <a href="clusterProfiler/README.md"><img src="clusterProfiler/clusterProfiler.png" height="100"></a>
+<a href="consensus/README.md"><img src="consensus/consensus.png" height="100"></a>
 <a href="DEGreport/README.md"><img src="DEGreport/degreport.png" height="100"></a>
 <a href="DESeq2/README.md"><img src="DESeq2/DESeq2.png" height="100"></a>
 <a href="DEXSeq/README.md"><img src="DEXSeq/DEXSeq.png" height="100"></a>
