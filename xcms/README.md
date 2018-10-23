@@ -5,7 +5,6 @@
 * License: Creative Commons Attribution
   [CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to
   share and adapt, but don't forget to credit the author.
-* Order: https://www.stickermule.com/en/marketplace/17632-xcms
 
 <p align = "left">
 <img src="./xcms.png" height="200">
