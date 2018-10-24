@@ -35,7 +35,24 @@ sticker(img_file,
         spotlight = FALSE,
         url = "www.bioconductor.org",
         u_color = col_border,
-        filename="iSEE.png",
+        filename="iSEE.pdf"
+)
+
+sticker(img_file,
+        package="iSEE",
+        p_size = 9.3,
+        p_family = "Aller_Lt",
+        p_color = col_text,
+        s_x = 1,
+        s_y = 0.83,
+        s_width = 0.95,
+        # s_height = 1.1,
+        h_fill = col_bg,
+        h_color = col_border,
+        spotlight = FALSE,
+        url = "www.bioconductor.org",
+        u_color = col_border,
+        filename="iSEE.png"
 )
 
 
