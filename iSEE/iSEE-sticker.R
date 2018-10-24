@@ -16,6 +16,7 @@ col_text <- "#000000"    ## black
 
 img_file <- ("./glasses_empty.png")
 img_file <- ("./glasses_full_draft.png")
+img_file <- ("./glasses_full.png")
 img <- readPNG(img_file)
 # img_glasses <- rasterGrob(img, width = 1.0, x = 0.5, y = 0.6,
                        # interpolate = TRUE)
