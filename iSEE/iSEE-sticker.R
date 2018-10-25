@@ -594,8 +594,8 @@ plot.data <- subset(plot.data, subsetPointsByGrid(X, Y, resolution=200));
 ## lens 1   
 lens1plot <- 
   ggplot() +
-  geom_point(aes(x = X, y = Y, color = ColorBy), alpha=0.3, data=subset(plot.data, !SelectBy), size=1) +
-  geom_point(aes(x = X, y = Y, color = ColorBy), alpha=0.3, data=subset(plot.data, SelectBy), color="#FF7B00", size=1) +
+  geom_point(aes(x = X, y = Y, color = ColorBy), alpha=0.7, data=subset(plot.data, !SelectBy), size=1) +
+  geom_point(aes(x = X, y = Y, color = ColorBy), alpha=0.7, data=subset(plot.data, SelectBy), color="#FF7B00", size=1) +
   labs(x = "Dimension 1", y = "Dimension 2", color = "CancerType", title = "(2) TSNE") +
   coord_cartesian(xlim = range(plot.data.pre$X, na.rm = TRUE),
                   ylim = range(plot.data.pre$Y, na.rm = TRUE), expand = TRUE) +
