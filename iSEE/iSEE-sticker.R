@@ -18,7 +18,7 @@ col_text <- "#000000"    ## black
 # img_file <- ("./glasses_full_draft.png")
 # img_file <- ("./glasses_full.png")
 img_file <- ("./glassescc0_full.png")
-img_file <- ("./iSEE/glassescc0_full_opaque.png")
+img_file <- ("./glassescc0_full_opaque.png")
 img <- readPNG(img_file)
 # img_glasses <- rasterGrob(img, width = 1.0, x = 0.5, y = 0.6,
                        # interpolate = TRUE)
@@ -38,7 +38,7 @@ sticker(img_file,
         spotlight = FALSE,
         url = "www.bioconductor.org",
         u_color = col_border,
-        filename="iSEE.pdf"
+        filename="iSEE_opaque.pdf"
 )
 
 sticker(img_file,
@@ -596,8 +596,7 @@ plot.data <- subset(plot.data, subsetPointsByGrid(X, Y, resolution=200));
 ## lens 1   
 lens1plot <- 
   ggplot() +
-  geom_point(aes(x = X, y = Y, color = ColorBy), alpha=1, data=subset(plot.data, !SelectBy), size=1) +
-  geom_point(aes(x = X, y = Y, color = ColorBy), alpha=1, data=subset(plot.data, SelectBy), color="#FF7B00", size=1) +
+  geom_point(aes(x = X, y = Y, color = ColorBy), alpha=1, data=plot.data, size=1.5) +
   labs(x = "Dimension 1", y = "Dimension 2", color = "CancerType", title = "(2) TSNE") +
   coord_cartesian(xlim = range(plot.data.pre$X, na.rm = TRUE),
                   ylim = range(plot.data.pre$Y, na.rm = TRUE), expand = TRUE) +
@@ -635,8 +634,7 @@ plot.data <- subset(plot.data, subsetPointsByGrid(jitteredX, Y, resolution=200))
 lens2plot <- 
   ggplot() +
   geom_violin(aes(x = X, y = Y, group = GroupBy, color = ColorBy), alpha = 1, data=plot.data.pre, scale = 'width', width = 0.8) +
-  geom_point(aes(y = Y, color = ColorBy, x = jitteredX), alpha=1, data=subset(plot.data, !SelectBy), size=1) +
-  geom_point(aes(y = Y, color = ColorBy, x = jitteredX), alpha=1, data=subset(plot.data, SelectBy), color="#FF7B00", size=1) +
+  geom_point(aes(y = Y, color = ColorBy, x = jitteredX), alpha=1, data=plot.data, size=1) +
   labs(x = "CancerType", y = "ERBB2 (log2CPM)", color = "CancerType", title = "ERBB2 vs CancerType") +
   coord_cartesian(ylim = range(plot.data.pre$Y, na.rm=TRUE), expand = TRUE) +
   scale_color_manual(values=colDataColorMap(colormap, "CancerType", discrete=TRUE)(20), na.value='grey50', drop=FALSE) +
