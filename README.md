@@ -34,6 +34,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="DEXSeq/README.md"><img src="DEXSeq/DEXSeq.png" height="100"></a>
 <a href="diffcyt/README.md"><img src="diffcyt/diffcyt.png" height="100"></a>
 <a href="dmrseq/README.md"><img src="dmrseq/dmrseq.png" height="100"></a>
+<a href="drawProteins/README.md"><img src="drawProteins/drawProteins.png" height="100"></a>
 <a href="DRIMSeq/README.md"><img src="DRIMSeq/DRIMSeq.png" height="100"></a>
 <a href="DropletUtils/README.md"><img src="DropletUtils/DropletUtils.png" height="100"></a>
 <a href="edgeR/README.md"><img src="edgeR/edgeR.png" height="100"></a>
@@ -52,6 +53,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="iCOBRA/README.md"><img src="iCOBRA/iCOBRA.png" height="100"></a>
 <a href="IHW/README.md"><img src="IHW/IHW.png" height="100"></a>
 <a href="illuminaio/README.md"><img src="illuminaio/illuminaio.png" height="100"></a>
+<a href="iSEE/README.md"><img src="iSEE/iSEE.png" height="100"></a>
 <a href="isomirs/README.md"><img src="isomiRs/isomirs.png" height="100"></a>
 <a href="IRanges/README.md"><img src="IRanges/IRanges.png" height="100"></a>
 <a href="limma/README.md"><img src="limma/limma.png" height="100"></a>
@@ -92,7 +94,6 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="vsn/README.md"><img src="vsn/vsn.png" height="100"></a>
 <a href="xcms/README.md"><img src="xcms/xcms_hl.png" height="100"></a>
 <a href="zinbwave/README.md"><img src="zinbwave/zinbwave.png" height="100"></a>
-<a href="drawProteins/README.md"><img src="drawProteins/drawProteins.png" height="100"></a>
 </p>
 
 ## Stickers for *events*
