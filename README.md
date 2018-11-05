@@ -39,6 +39,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="edgeR/README.md"><img src="edgeR/edgeR.png" height="100"></a>
 <a href="EGSEA/README.md"><img src="EGSEA/EGSEA.png" height="100"></a>
 <a href="ensembldb/README.md"><img src="ensembldb/ensembldb.png" height="100"></a>
+<a href="ExperimentHub/README.md"><img src="ExperimentHub/ExperimentHub.png" height="100"></a>
 <a href="FamAgg/README.md"><img src="FamAgg/FamAgg_hl.png" height="100"></a>
 <a href="GenomicRanges/README.md"><img src="GenomicRanges/GenomicRanges.png" height="100"></a>
 <a href="GenomicScores/README.md"><img src="GenomicScores/GenomicScores.png" height="100"></a>
