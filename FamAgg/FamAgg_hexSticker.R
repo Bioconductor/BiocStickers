@@ -71,13 +71,14 @@ gg <- ggplot() +
 
 sticker(gg, package="FamAgg", p_size = 9, s_x = 0.99, s_y = 1.01, s_width = 1.5,
         s_height = 1.5, p_color = col_text, h_fill = col_bg,
-        h_color = col_border, filename="FamAgg.png", p_family = "Aller_Lt")
+        h_color = col_border, filename="FamAgg.png", p_family = "Aller_Lt",
+        u_color = col_border, url = "www.bioconductor.org")
 
 set.seed(123)
 sticker(gg, package="FamAgg", p_size = 9, s_x = 0.99, s_y = 1.01, s_width = 1.5,
         s_height = 1.5, p_color = col_text, h_fill = col_bg, spotlight = TRUE,
         h_color = col_border, filename="FamAgg_hl.png", p_family = "Aller_Lt",
-        l_x = 1.01)
+        l_x = 1.01, u_color = col_border, url = "www.bioconductor.org")
 
 
 ##################
