@@ -88,6 +88,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="SummarizedExperiment/README.md"><img src="SummarizedExperiment/SummarizedExperiment.png" height="100"></a>
 <a href="sva/README.md"><img src="sva/sva.png" height="100"></a>
 <a href="treeio/README.md"><img src="treeio/treeio.png" height="100"></a>
+<a href="tRNA/README.md"><img src="tRNA/tRNA.png" height="100"></a>
 <a href="tximeta/README.md"><img src="tximeta/tximeta.png" height="100"></a>
 <a href="tximport/README.md"><img src="tximport/tximport.png" height="100"></a>
 <a href="TVTB/README.md"><img src="TVTB/TVTB.png" height="100"></a>
@@ -142,7 +143,7 @@ to design your stickers manually in `Illustrator`.
 
 Except where otherwise stated, the content and the stickers in this
 repository are licensed under a CC0 1.0 Universal (CC0 1.0) Public
-Domain License. 
+Domain License.
 
 You can copy, modify, distribute and perform the work, even for
 commercial purposes, all without asking permission. See more details
