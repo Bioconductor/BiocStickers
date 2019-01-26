@@ -85,6 +85,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="slingshot/README.md"><img src="slingshot/slingshot.png" height="100"></a>
 <a href="Splatter/README.md"><img src="Splatter/splatter_monochrome.png" height="100"></a>
 <a href="stageR/README.md"><img src="stageR/stageR.png" height="100"></a>
+<a href="Structstrings/README.md"><img src="Structstrings/Structstrings.png" height="100"></a>
 <a href="SummarizedExperiment/README.md"><img src="SummarizedExperiment/SummarizedExperiment.png" height="100"></a>
 <a href="sva/README.md"><img src="sva/sva.png" height="100"></a>
 <a href="treeio/README.md"><img src="treeio/treeio.png" height="100"></a>
