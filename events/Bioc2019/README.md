@@ -1,6 +1,6 @@
 # The sticker for the BioC2019 conference in New York
 
-* Sticker designer: Johannes Rainer (@jotsetung).
+* Sticker designer: Johannes Rainer (@jorainer).
 * Contributions and Suggestions: Marcel Ramos (@LiNk-NY), Laurent Gatto
   (@lgatto), Martin Morgan (@mtmorgan), Levi Waldron (@lwaldron).
 * License for the sticker and all drawings and pictures in this folder: Creative
