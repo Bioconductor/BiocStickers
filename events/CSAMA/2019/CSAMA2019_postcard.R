@@ -17,7 +17,8 @@ gg <- ggplot() +
 
 col_text <- "#000000"    ## white
 col_border <- "#3792AD"  ## BioC blue
-col_bg <- "#dfdfe2"
+## col_bg <- "#dfdfe2"
+col_bg <- "#d7d7db"
 sticker(gg,
         package="CSAMA2019",
         p_size = 7.3,
