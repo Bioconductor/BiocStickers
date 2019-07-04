@@ -81,6 +81,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="RUVnormalizw/README.md"><img src="RUVnormalize/RUVnormalize.png" height="100"></a>
 <a href="RUVSeq/README.md"><img src="RUVSeq/RUVSeq.png" height="100"></a>
 <a href="SC3/README.md"><img src="SC3/SC3.png" height="100"></a>
+<a href="scDD/README.md"><img src="scDD/scDD.png" height="100"></a>
 <a href="scater/README.md"><img src="scater/scater.png" height="100"></a>
 <a href="scmap/README.md"><img src="scmap/scmap.png" height="100"></a>
 <a href="scPipe/README.md"><img src="scPipe/scPipe.png" height="100"></a>
