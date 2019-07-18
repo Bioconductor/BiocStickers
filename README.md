@@ -29,6 +29,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="clusterProfiler/README.md"><img src="clusterProfiler/clusterProfiler.png" height="100"></a>
 <a href="consensus/README.md"><img src="consensus/consensus.png" height="100"></a>
 <a href="countsimQC/README.md"><img src="countsimQC/countsimQC.png" height="100"></a>
+<a href="curatedTCGAData/README.md"><img src="curatedTCGAData/curatedTCGAData.png" height="100"></a>
 <a href="DEGreport/README.md"><img src="DEGreport/degreport.png" height="100"></a>
 <a href="DESeq2/README.md"><img src="DESeq2/DESeq2.png" height="100"></a>
 <a href="DEXSeq/README.md"><img src="DEXSeq/DEXSeq.png" height="100"></a>
@@ -65,6 +66,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="missMethyl/README.md"><img src="missMethyl/missMethyl.png" height="100"></a>
 <a href="Modstrings/README.md"><img src="Modstrings/Modstrings.png" height="100"></a>
 <a href="MSnbase/README.md"><img src="MSnbase/MSnbase.png" height="100"></a>
+<a href="MultiAssayExperiment/README.md"><img src="MultiAssayExperiment/MultiAssayExperiment.png" height="100"></a>
 <a href="mzR/README.md"><img src="mzR/mzR_hl.png" height="100"></a>
 <a href="plyranges/README.md"><img src="plyranges/plyranges.png" height="100"></a>
 <a href="pRoloc/README.md"><img src="pRoloc/pRoloc.png" height="100"></a>
