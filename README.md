@@ -29,6 +29,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="clusterProfiler/README.md"><img src="clusterProfiler/clusterProfiler.png" height="100"></a>
 <a href="consensus/README.md"><img src="consensus/consensus.png" height="100"></a>
 <a href="countsimQC/README.md"><img src="countsimQC/countsimQC.png" height="100"></a>
+<a href="curatedTCGAData/README.md"><img src="curatedTCGAData/curatedTCGAData.png" height="100"></a>
 <a href="DEGreport/README.md"><img src="DEGreport/degreport.png" height="100"></a>
 <a href="DESeq2/README.md"><img src="DESeq2/DESeq2.png" height="100"></a>
 <a href="DEXSeq/README.md"><img src="DEXSeq/DEXSeq.png" height="100"></a>
@@ -65,6 +66,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="missMethyl/README.md"><img src="missMethyl/missMethyl.png" height="100"></a>
 <a href="Modstrings/README.md"><img src="Modstrings/Modstrings.png" height="100"></a>
 <a href="MSnbase/README.md"><img src="MSnbase/MSnbase.png" height="100"></a>
+<a href="MultiAssayExperiment/README.md"><img src="MultiAssayExperiment/MultiAssayExperiment.png" height="100"></a>
 <a href="mzR/README.md"><img src="mzR/mzR_hl.png" height="100"></a>
 <a href="plyranges/README.md"><img src="plyranges/plyranges.png" height="100"></a>
 <a href="pRoloc/README.md"><img src="pRoloc/pRoloc.png" height="100"></a>
@@ -81,6 +83,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="RUVnormalizw/README.md"><img src="RUVnormalize/RUVnormalize.png" height="100"></a>
 <a href="RUVSeq/README.md"><img src="RUVSeq/RUVSeq.png" height="100"></a>
 <a href="SC3/README.md"><img src="SC3/SC3.png" height="100"></a>
+<a href="scDD/README.md"><img src="scDD/scDD.png" height="100"></a>
 <a href="scater/README.md"><img src="scater/scater.png" height="100"></a>
 <a href="scmap/README.md"><img src="scmap/scmap.png" height="100"></a>
 <a href="scPipe/README.md"><img src="scPipe/scPipe.png" height="100"></a>
@@ -114,6 +117,7 @@ Stickers for some of the Bioconductor events.
 <a href="events/EuroBioc2017/README.md"><img src="events/EuroBioc2017/EuroBioc2017.png" height="100"></a>
 <a href="events/CSAMA/2018/README.md"><img src="events/CSAMA/2018/CSAMA2018.png" height="100"></a>
 <a href="events/Bioc2018/README.md"><img src="events/Bioc2018/Bioc2018.png" height="100"></a>
+<a href="events/Bioc2019/README.md"><img src="events/Bioc2019/BioC2019_blue2.png" height="100"></a>
 <a href="BioCAsia/README.md"><img src="BioCAsia/BioCAsia.png" height="100"></a>
 <a href="events/BiocAsia2015/README.md"><img src="events/BiocAsia2015/biocasia2015.png" height="100"></a>
 <a href="events/BiocAsia2016/README.md"><img src="events/BiocAsia2016/biocasia2016.png" height="100"></a>
