@@ -7,5 +7,5 @@
   share and adapt, but don't forget to credit the author.
 
 <p>
-<img src="./rWikiPathways_sticker.png" height="200">
+<img src="./rWikiPathways-sticker.png" height="200">
 </p>
