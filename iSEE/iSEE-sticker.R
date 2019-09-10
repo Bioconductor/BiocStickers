@@ -1,3 +1,5 @@
+# Assembling all the pieces together --------------------------------------
+
 library(ggplot2)
 library(png)
 library(grid)
@@ -38,7 +40,7 @@ sticker(img_file,
         spotlight = FALSE,
         url = "www.bioconductor.org",
         u_color = col_border,
-        filename="iSEE_opaque.pdf"
+        filename="iSEE.pdf"
 )
 
 sticker(img_file,
@@ -57,12 +59,10 @@ sticker(img_file,
         u_color = col_border,
         filename="iSEE.png"
 )
+# actually I get beeter png images by converting manually via Preview in MacOS
 
 
 
-# gg <- ggplot() +
-#   annotation_custom(img) +
-#   theme_void()
 
 # generating the plots in the lenses via iSEE itself, using the TCGA data
 # following instance defined here: https://github.com/LTLA/iSEE2018/blob/master/tours/tcga/
