@@ -1,3 +1,5 @@
+<img src="GeneTonic.png" align="right" alt="" width="120" />
+
 # GeneTonic
 
 This folder contains material and instructions for the making of the sticker for the `GeneTonic` Bioconductor package.
