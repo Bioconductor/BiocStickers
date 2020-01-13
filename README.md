@@ -12,6 +12,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="AnnotationDbi/README.md"><img src="AnnotationDbi/AnnotationDbi.png" height="100"></a>
 <a href="AnnotationFilter/README.md"><img src="AnnotationFilter/AnnotationFilter_hl.png" height="100"></a>
 <a href="apeglm/README.md"><img src="apeglm/apeglm.png" height="100"></a>
+<a href="BANDITS/README.md"><img src="BANDITS/BANDITS.png" height="100"></a>
 <a href="BASiCS/README.md"><img src="BASiCS/BASiCS.png" height="100"></a>
 <a href="beadarray/README.md"><img src="beadarray/beadarray.png" height="100"></a>
 <a href="Biobase/README.md"><img src="Biobase/Biobase.png" height="100"></a>
