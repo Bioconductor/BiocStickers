@@ -5,7 +5,7 @@ library(hexSticker)
 
 ## Summer Sky
 col_text <- "#ffffff"
-col_border <- "#ffffff"
+col_border <- "#e8e8e8" # Mercury
 col_bg <- "#1e8bc3" # Summer Sky
 img <- readPNG("./images/CSAMA2020.png")
 img <- rasterGrob(img, width = 1, x = 0.5, y = 0.5,
