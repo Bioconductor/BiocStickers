@@ -77,6 +77,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="RCy3/README.md"><img src="RCy3/RCy3_sticker.png" height="100"></a>
 <a href="regsplice/README.md"><img src="regsplice/regsplice.png" height="100"></a>
 <a href="rhdf5/README.md"><img src="rhdf5/rhdf5.png" height="100"></a>
+<a href="RNAmodR/README.md"><img src="RNAmodR/RNAmodR.png" height="100"></a>
 <a href="Rsamtools/README.md"><img src="Rsamtools/Rsamtools.png" height="100"></a>
 <a href="Rsubread/README.md"><img src="Rsubread/Rsubread.png" height="100"></a>
 <a href="RUV/README.md"><img src="RUV/RUV.png" height="100"></a>
