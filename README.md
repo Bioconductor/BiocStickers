@@ -42,6 +42,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="edgeR/README.md"><img src="edgeR/edgeR.png" height="100"></a>
 <a href="EGSEA/README.md"><img src="EGSEA/EGSEA.png" height="100"></a>
 <a href="ensembldb/README.md"><img src="ensembldb/ensembldb.png" height="100"></a>
+<a href="EpiTxDb/README.md"><img src="EpiTxDb/EpiTxDb.png" height="100"></a>
 <a href="ExperimentHub/README.md"><img src="ExperimentHub/ExperimentHub.png" height="100"></a>
 <a href="FamAgg/README.md"><img src="FamAgg/FamAgg_hl.png" height="100"></a>
 <a href="fishpond/README.md"><img src="fishpond/fishpond.png" height="100"></a>
