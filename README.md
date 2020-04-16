@@ -12,6 +12,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="AnnotationDbi/README.md"><img src="AnnotationDbi/AnnotationDbi.png" height="100"></a>
 <a href="AnnotationFilter/README.md"><img src="AnnotationFilter/AnnotationFilter_hl.png" height="100"></a>
 <a href="apeglm/README.md"><img src="apeglm/apeglm.png" height="100"></a>
+<a href="BANDITS/README.md"><img src="BANDITS/BANDITS.png" height="100"></a>
 <a href="BASiCS/README.md"><img src="BASiCS/BASiCS.png" height="100"></a>
 <a href="beadarray/README.md"><img src="beadarray/beadarray.png" height="100"></a>
 <a href="Biobase/README.md"><img src="Biobase/Biobase.png" height="100"></a>
@@ -30,6 +31,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="consensus/README.md"><img src="consensus/consensus.png" height="100"></a>
 <a href="countsimQC/README.md"><img src="countsimQC/countsimQC.png" height="100"></a>
 <a href="curatedTCGAData/README.md"><img src="curatedTCGAData/curatedTCGAData.png" height="100"></a>
+<a href="cytomapper/README.md"><img src="cytomapper/cytomapper.png" height="100"></a>
 <a href="DEGreport/README.md"><img src="DEGreport/degreport.png" height="100"></a>
 <a href="DESeq2/README.md"><img src="DESeq2/DESeq2.png" height="100"></a>
 <a href="DEXSeq/README.md"><img src="DEXSeq/DEXSeq.png" height="100"></a>
@@ -41,6 +43,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="edgeR/README.md"><img src="edgeR/edgeR.png" height="100"></a>
 <a href="EGSEA/README.md"><img src="EGSEA/EGSEA.png" height="100"></a>
 <a href="ensembldb/README.md"><img src="ensembldb/ensembldb.png" height="100"></a>
+<a href="EpiTxDb/README.md"><img src="EpiTxDb/EpiTxDb.png" height="100"></a>
 <a href="ExperimentHub/README.md"><img src="ExperimentHub/ExperimentHub.png" height="100"></a>
 <a href="FamAgg/README.md"><img src="FamAgg/FamAgg_hl.png" height="100"></a>
 <a href="fishpond/README.md"><img src="fishpond/fishpond.png" height="100"></a>
@@ -76,6 +79,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="RCy3/README.md"><img src="RCy3/RCy3_sticker.png" height="100"></a>
 <a href="regsplice/README.md"><img src="regsplice/regsplice.png" height="100"></a>
 <a href="rhdf5/README.md"><img src="rhdf5/rhdf5.png" height="100"></a>
+<a href="RNAmodR/README.md"><img src="RNAmodR/RNAmodR.png" height="100"></a>
 <a href="Rsamtools/README.md"><img src="Rsamtools/Rsamtools.png" height="100"></a>
 <a href="Rsubread/README.md"><img src="Rsubread/Rsubread.png" height="100"></a>
 <a href="RUV/README.md"><img src="RUV/RUV.png" height="100"></a>
@@ -114,17 +118,20 @@ please open an issue and discuss changes with the sticker maintainer.
 Stickers for some of the Bioconductor events.
 
 <p align = "left">
-<a href="events/CSAMA/2017/README.md"><img src="events/CSAMA/2017/CSAMA2017.png" height="100"></a>
-<a href="events/EuroBioc2017/README.md"><img src="events/EuroBioc2017/EuroBioc2017.png" height="100"></a>
-<a href="events/CSAMA/2018/README.md"><img src="events/CSAMA/2018/CSAMA2018.png" height="100"></a>
-<a href="events/CSAMA/2019/README.md"><img src="events/CSAMA/2019/CSAMA2019.png" height="100"></a>
-<a href="events/Bioc2018/README.md"><img src="events/Bioc2018/Bioc2018.png" height="100"></a>
-<a href="events/Bioc2019/README.md"><img src="events/Bioc2019/BioC2019_blue2.png" height="100"></a>
 <a href="BioCAsia/README.md"><img src="BioCAsia/BioCAsia.png" height="100"></a>
 <a href="events/BiocAsia2015/README.md"><img src="events/BiocAsia2015/biocasia2015.png" height="100"></a>
 <a href="events/BiocAsia2016/README.md"><img src="events/BiocAsia2016/biocasia2016.png" height="100"></a>
+<a href="events/CSAMA/2017/README.md"><img src="events/CSAMA/2017/CSAMA2017.png" height="100"></a>
 <a href="events/BiocAsia2017/README.md"><img src="events/BiocAsia2017/biocasia2017.png" height="100"></a>
+<a href="events/EuroBioc2017/README.md"><img src="events/EuroBioc2017/EuroBioc2017.png" height="100"></a>
+<a href="events/CSAMA/2018/README.md"><img src="events/CSAMA/2018/CSAMA2018.png" height="100"></a>
+<a href="events/Bioc2018/README.md"><img src="events/Bioc2018/Bioc2018.png" height="100"></a>
 <a href="events/BiocAsia2018/README.md"><img src="events/BiocAsia2018/biocasia2018.png" height="100"></a>
+<a href="events/CSAMA/2019/README.md"><img src="events/CSAMA/2019/CSAMA2019.png" height="100"></a>
+<a href="events/Bioc2019/README.md"><img src="events/Bioc2019/BioC2019_blue2.png" height="100"></a>
+<a href="events/EuroBioc2019/README.md"><img src="events/EuroBioc2019/EuroBioc2019.png" height="100"></a>
+<a href="events/CSAMA/2020/README.md"><img src="events/CSAMA/2020/CSAMA2020.png" height="100"></a>
+<a href="events/Bioc2020/README.md"><img src="events/Bioc2020/BioC2020.png" height="100"></a>
 </p>
 
 # Sticker development guidelines
