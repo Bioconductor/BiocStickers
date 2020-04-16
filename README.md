@@ -31,6 +31,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="consensus/README.md"><img src="consensus/consensus.png" height="100"></a>
 <a href="countsimQC/README.md"><img src="countsimQC/countsimQC.png" height="100"></a>
 <a href="curatedTCGAData/README.md"><img src="curatedTCGAData/curatedTCGAData.png" height="100"></a>
+<a href="cytomapper/README.md"><img src="cytomapper/cytomapper.png" height="100"></a>
 <a href="DEGreport/README.md"><img src="DEGreport/degreport.png" height="100"></a>
 <a href="DESeq2/README.md"><img src="DESeq2/DESeq2.png" height="100"></a>
 <a href="DEXSeq/README.md"><img src="DEXSeq/DEXSeq.png" height="100"></a>
