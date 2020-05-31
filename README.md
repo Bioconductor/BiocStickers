@@ -107,6 +107,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="SummarizedExperiment/README.md"><img src="SummarizedExperiment/SummarizedExperiment.png" height="100"></a>
 <a href="sva/README.md"><img src="sva/sva.png" height="100"></a>
 <a href="systemPipeR/README.md"><img src="systemPipeR/systemPipeR.png" height="100"></a>
+<a href="tidybulk/README.md"><img src="tidybulk/tidybulk.png" height="100"></a>
 <a href="treeio/README.md"><img src="treeio/treeio.png" height="100"></a>
 <a href="tRNA/README.md"><img src="tRNA/tRNA.png" height="100"></a>
 <a href="tximeta/README.md"><img src="tximeta/tximeta.png" height="100"></a>
