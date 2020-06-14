@@ -5,7 +5,7 @@ this repo and create a pull request if you would like to add a sticker
 for your package too. If you would like to modify existing ones,
 please open an issue and discuss changes with the sticker maintainer.
 
-## Stickers:
+## Stickers
 
 <p align = "left">
 <a href="affy/README.md"><img src="affy/affy.png" height="100"></a>
@@ -139,6 +139,10 @@ Stickers for some of the Bioconductor events.
 <a href="events/CSAMA/2020/README.md"><img src="events/CSAMA/2020/CSAMA2020.png" height="100"></a>
 <a href="events/Bioc2020/README.md"><img src="events/Bioc2020/BioC2020.png" height="100"></a>
 </p>
+
+## Diversity-affirming stickers
+
+<a href="Bioconductor/README.md"><img src="Bioconductor/Bioconductor-rainbow.png" height="100"></a>
 
 # Sticker development guidelines
 
