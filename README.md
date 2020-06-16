@@ -143,6 +143,7 @@ Stickers for some of the Bioconductor events.
 ## Diversity-affirming stickers
 
 <a href="Bioconductor/README.md"><img src="Bioconductor/Bioconductor-rainbow.png" height="100"></a>
+<a href="Bioconductor/README.md"><img src="Bioconductor/Bioconductor-trans.png" height="100"></a>
 
 # Sticker development guidelines
 
