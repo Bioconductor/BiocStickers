@@ -1,12 +1,7 @@
-# The sticker for the BioC 2020 conference in Boston
+# The sticker for the virtual BioC 2020 conference
 
 * Sticker designer: Johannes Rainer (@jorainer).
-* The sticker shows [Paul Revere](https://en.wikipedia.org/wiki/Paul_Revere)
-  holding the Bioconductor logo in his hand and jumping through a *B* (for
-  Boston) with the Boston skyline in the background.
-* Contributions and Suggestions: Lucas Schifferl (@schifferl), Aedin Culhane
-  (@aedin), Marcel Ramos (@LiNk-NY), Vince Carey (@vjcitn), Charlotte Soneson
-  (csoneson) and Martin Morgan (@mtmorgan).
+* Contributions and Suggestions: Levi Waldron @lwaldron.
 * License for the sticker and all drawings and pictures in this folder: Creative
   Commons Attribution
   [CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to share and
