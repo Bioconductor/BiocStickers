@@ -25,6 +25,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="bsseq/README.md"><img src="bsseq/bsseq.png" height="100"></a>
 <a href="CATALYST/README.md"><img src="CATALYST/CATALYST.png" height="100"></a>
 <a href="CellBench/README.md"><img src="CellBench/CellBench.png" height="100"></a>
+<a href="celldex/README.md"><img src="celldex/celldex_sticker.png" height="100"></a>
 <a href="ChIPseeker/README.md"><img src="ChIPseeker/ChIPseeker.png" height="100"></a>
 <a href="cleaver/README.md"><img src="cleaver/cleaver.png" height="100"></a>
 <a href="clusterProfiler/README.md"><img src="clusterProfiler/clusterProfiler.png" height="100"></a>
