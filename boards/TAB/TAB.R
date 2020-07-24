@@ -18,9 +18,9 @@ stckr <- sticker(gg,
                  package = NA,
                  p_size = 7.3,
                  s_x = 0.945,
-                 s_y = 0.775,
+                 s_y = 0.81,
                  s_width = 1.5,
-                 s_height = 1.5,
+                 s_height = 1.6,
                  h_fill = col_bg,
                  h_color = bioc_blue,
                  p_family = "Aller_Lt",
@@ -29,7 +29,7 @@ stckr <- sticker(gg,
                  url = NA,
                  u_color = col_bg
                  )
-text_x <- 0.84
+text_x <- 0.8
 text_y <- 0.12
 stckr <- stckr +
     geom_url(url = "T", x = text_x + 0.215, y = text_y + 1.39,
