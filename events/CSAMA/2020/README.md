@@ -7,7 +7,7 @@
   ([Peitlerkofel](https://en.wikipedia.org/wiki/Peitlerkofel) and the [Aferer
   Geisler](https://de.wikipedia.org/wiki/Aferer_Geisler)); the logo of
   Bioconductor is hinted in the sky (as a cloud).
-* Sticker designer: Johannes Rainer (@jorainer).
+* Sticker designer: Johannes Rainer (@jo_rainer).
 * License for the sticker and all drawings and pictures in this folder: Creative
   Commons Attribution
   [CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to share and
