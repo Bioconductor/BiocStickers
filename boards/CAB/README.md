@@ -10,6 +10,6 @@
   [CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to share and
   adapt, but don't forget to credit the author.
 
-<img src="./CAB_logo_drawing.png" height="200">
+<img src="./CAB_logo_drawing.png" height="300">
 
 
