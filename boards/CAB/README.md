@@ -11,5 +11,6 @@
   adapt, but don't forget to credit the author.
 
 <img src="./CAB_logo_drawing.png" height="300">
+<img src="./CAB.png" height="200">
 
 
