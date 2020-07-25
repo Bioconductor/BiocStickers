@@ -3,7 +3,7 @@
 * This is the logo and sticker for the Bioconductor [Community Advisory
   Board](https://bioconductor.org/about/community-advisory-board/).
 * Sticker designer: Johannes Rainer (@jorainer; twitter: @jo_rainer).
-* Contributions and Suggestions: Leonardo Collado-Torres, Aedin Culhane, Mike
+* Contributions and Suggestions: Leonardo Collado-Torres, Aedin Culhane, Matt
   Ritchie, Kozo Nishida.
 * License for the sticker and all drawings and pictures in this folder: Creative
   Commons Attribution
