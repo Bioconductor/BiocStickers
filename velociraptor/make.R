@@ -17,5 +17,11 @@ img_matrix[img_matrix >= 0.9 * quantile(img_matrix, 0.5)] <- 0
 
 img_matrix <- log(img_matrix + 1)
 
-# heatmap(img_matrix, Rowv = NA, Colv = NA, scale = "none", col = c("white", "black"))
+heatmap(img_matrix, Rowv = NA, Colv = NA, scale = "none", col = c("white", "black"))
 
+xy_coord <- as.data.frame(which(img_matrix > 0, arr.ind = TRUE))
+
+library(ggplot2)
+ggplot(xy_coord) +
+  geom_point(aes(col, row)) +
+  theme_void()
