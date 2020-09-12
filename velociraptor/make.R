@@ -98,7 +98,6 @@ S <- SlingshotDataSet(sce)
 library(ggplot2)
 gg <- ggplot(plot_data, aes(x, y)) +
   geom_point(aes(color = color)) +
-  # geom_jitter(aes(color = color), width = 1, height = 1) +
   guides(color = "none") +
   scale_color_viridis_c() +
   theme_void()
@@ -107,8 +106,10 @@ for (curve_name in names(S@curves)) {
     as_tibble(S@curves[[curve_name]]$s),
     color = S@curves[[curve_name]]$lambda
   )
-  df %<>% arrange(color)
-  gg <- gg + geom_path(aes(col, row), df, size = 0.5)
+  df %<>% arrange(color) %>% 
+    head(floor(nrow(df) * 0.96))
+  gg <- gg + geom_path(aes(col, row), df,
+                       size = 1, arrow = arrow(angle = 20, length = unit(0.1, "inches")))
 }
 gg
 ggsave("velociraptor_curves.pdf", width = 9, height = 7)
@@ -164,7 +165,6 @@ ggsave("velociraptor_field.pdf", width = 9, height = 7)
 library(ggplot2)
 gg <- ggplot(plot_data, aes(x, y)) +
   geom_point(aes(color = color), alpha = 0.5) +
-  # geom_jitter(aes(color = color), width = 1, height = 1) +
   guides(color = "none") +
   scale_color_viridis_c() +
   theme_void()
@@ -175,4 +175,19 @@ gg <- gg + geom_segment(
   size = 1.1
   )
 gg
-ggsave("velociraptor_pseudotime_field.pdf", width = 9, height = 7)
+ggsave("velociraptor_pseudotime_fieldblack.pdf", width = 9, height = 7)
+
+library(ggplot2)
+gg <- ggplot(plot_data, aes(x, y)) +
+  geom_point(aes(color = color), alpha = 0.5) +
+  guides(color = "none") +
+  scale_color_viridis_c() +
+  theme_void()
+gg <- gg + geom_segment(
+  aes(x, y, xend = x + x_gradient * 10, yend = y + y_gradient * 10),
+  vector_field2,
+  arrow = arrow(angle = 25, length = unit(0.1, "inches")),
+  size = 1.1, color = "white"
+)
+gg
+ggsave("velociraptor_pseudotime_fieldwhite.pdf", width = 9, height = 7)
