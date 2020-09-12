@@ -1,4 +1,5 @@
 library(magick)
+library(tidyverse)
 
 img_original <- image_read("original.jpeg")
 
@@ -17,28 +18,57 @@ img_matrix[img_matrix >= 0.9 * quantile(img_matrix, 0.5)] <- 0
 
 img_matrix <- log(img_matrix + 1)
 
-heatmap(img_matrix, Rowv = NA, Colv = NA, scale = "none", col = c("white", "black"))
+# heatmap(img_matrix, Rowv = NA, Colv = NA, scale = "none", col = c("white", "black"))
 
-xy_coord <- as.data.frame(which(img_matrix > 0, arr.ind = TRUE))
+xy_coord <- as_tibble(which(img_matrix > 0, arr.ind = TRUE))
+
+library(iSEE)
+keep <- subsetPointsByGrid(
+  X = xy_coord$row,
+  Y = xy_coord$col,
+  resolution = 100
+)
+xy_coord <- xy_coord[keep,]
+
+set.seed(1)
+K <- kmeans(xy_coord, centers = 8)
+xy_coord$cluster <- as.factor(K$cluster)
 
 # library(ggplot2)
 # ggplot(xy_coord) +
-#   geom_point(aes(col, row)) +
+#   geom_point(aes(col, row, color = cluster)) +
 #   theme_void()
 
-which.max(xy_coord$col)
-origin_point <- xy_coord[which.max(xy_coord$col), , drop=FALSE]
+start_cluster <- xy_coord %>% 
+  group_by(cluster) %>% 
+  summarise(mean_col = mean(col)) %>% 
+  top_n(1, mean_col) %>% 
+  pull(cluster)
 
-# library(ggplot2)
-# ggplot(xy_coord, aes(col, row)) +
-#   geom_point() +
-#   geom_point(data = origin_point, color = "red") +
-#   theme_void()
+library(SingleCellExperiment)
+sce <- SingleCellExperiment(
+  assays = list(matrix(NA, nrow = 0, ncol = nrow(xy_coord))),
+  reducedDims = list(layout = as.matrix(xy_coord[, c("col", "row")])),
+  colData = DataFrame(cluster = xy_coord$cluster)
+)
 
-xy_coord$pseudotime <- sqrt((xy_coord$row - origin_point$row)^2 + (xy_coord$col - origin_point$col)^2)
+library(slingshot)
+S <- slingshot(sce, clusterLabels = "cluster", reducedDim = "layout", start.clus = start_cluster)
+
+pseudotime_columns <- grep("slingPseudotime_", names(colData(S)), value = TRUE)
+
+plot_data <- tibble(
+  x = reducedDim(sce)[, "col"],
+  y = reducedDim(sce)[, "row"],
+  color = rowMeans(as.matrix(colData(S)[, pseudotime_columns]), na.rm = TRUE)
+)
 
 library(ggplot2)
-ggplot(xy_coord) +
-  geom_point(aes(col, row, color = pseudotime), show.legend = FALSE) +
+ggplot(plot_data, aes(x, y, color = color)) +
+  # geom_point() +
+  geom_jitter(width = 1, height = 1) +
+  guides(color = "none") +
   scale_color_viridis_c() +
   theme_void()
+
+ggsave("velociraptor_for_sticker.pdf", width = 9, height = 7)
