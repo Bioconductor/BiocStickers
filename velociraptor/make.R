@@ -1,5 +1,6 @@
 library(magick)
 library(tidyverse)
+library(magr)
 
 img_original <- image_read("original.jpeg")
 
@@ -21,6 +22,8 @@ img_matrix <- log(img_matrix + 1)
 # heatmap(img_matrix, Rowv = NA, Colv = NA, scale = "none", col = c("white", "black"))
 
 xy_coord <- as_tibble(which(img_matrix > 0, arr.ind = TRUE))
+
+xy_coord %<>% mutate_all(function(x) {x + runif(length(x), -1, 1)})
 
 library(iSEE)
 keep <- subsetPointsByGrid(
@@ -53,22 +56,42 @@ sce <- SingleCellExperiment(
 )
 
 library(slingshot)
-S <- slingshot(sce, clusterLabels = "cluster", reducedDim = "layout", start.clus = start_cluster)
+sce <- slingshot(sce, clusterLabels = "cluster", reducedDim = "layout", start.clus = start_cluster)
 
 pseudotime_columns <- grep("slingPseudotime_", names(colData(S)), value = TRUE)
 
 plot_data <- tibble(
   x = reducedDim(sce)[, "col"],
   y = reducedDim(sce)[, "row"],
-  color = rowMeans(as.matrix(colData(S)[, pseudotime_columns]), na.rm = TRUE)
+  color = rowMeans(as.matrix(colData(sce)[, pseudotime_columns]), na.rm = TRUE)
 )
 
 library(ggplot2)
-ggplot(plot_data, aes(x, y, color = color)) +
-  # geom_point() +
-  geom_jitter(width = 1, height = 1) +
+gg <- ggplot(plot_data, aes(x, y)) +
+  geom_point(aes(color = color)) +
+  # geom_jitter(aes(color = color), width = 1, height = 1) +
   guides(color = "none") +
   scale_color_viridis_c() +
   theme_void()
+gg
+ggsave("velociraptor_pseudotime.pdf", width = 9, height = 7)
 
-ggsave("velociraptor_for_sticker.pdf", width = 9, height = 7)
+S <- SlingshotDataSet(sce)
+
+library(ggplot2)
+gg <- ggplot(plot_data, aes(x, y)) +
+  geom_point(aes(color = color)) +
+  # geom_jitter(aes(color = color), width = 1, height = 1) +
+  guides(color = "none") +
+  scale_color_viridis_c() +
+  theme_void()
+for (curve_name in names(S@curves)) {
+  df <- bind_cols(
+    as_tibble(S@curves[[curve_name]]$s),
+    color = S@curves[[curve_name]]$lambda
+  )
+  df %<>% arrange(color)
+  gg <- gg + geom_path(aes(col, row), df, size = 0.5)
+}
+gg
+ggsave("velociraptor_curves.pdf", width = 9, height = 7)
