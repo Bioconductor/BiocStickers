@@ -2,6 +2,8 @@ library(magick)
 library(tidyverse)
 library(magr)
 
+# Load and preprocess image ----
+
 img_original <- image_read("original.jpeg")
 
 # img_original <- image_flatten(img_original, 'Modulate')
@@ -25,6 +27,8 @@ xy_coord <- as_tibble(which(img_matrix > 0, arr.ind = TRUE))
 
 xy_coord %<>% mutate_all(function(x) {x + runif(length(x), -1, 1)})
 
+# Downsample resolution ----
+
 library(iSEE)
 keep <- subsetPointsByGrid(
   X = xy_coord$row,
@@ -32,6 +36,18 @@ keep <- subsetPointsByGrid(
   resolution = 100
 )
 xy_coord <- xy_coord[keep,]
+
+library(ggplot2)
+gg <- ggplot(plot_data, aes(x, y)) +
+  geom_point(aes(color = color)) +
+  # geom_jitter(aes(color = color), width = 1, height = 1) +
+  guides(color = "none") +
+  scale_color_viridis_c() +
+  theme_void()
+gg
+ggsave("velociraptor_pseudotime.pdf", width = 9, height = 7)
+
+# Compute pseudotime ----
 
 set.seed(1)
 K <- kmeans(xy_coord, centers = 8)
@@ -76,6 +92,8 @@ gg <- ggplot(plot_data, aes(x, y)) +
 gg
 ggsave("velociraptor_pseudotime.pdf", width = 9, height = 7)
 
+# Compute principal curves ----
+
 S <- SlingshotDataSet(sce)
 
 library(ggplot2)
@@ -95,3 +113,5 @@ for (curve_name in names(S@curves)) {
 }
 gg
 ggsave("velociraptor_curves.pdf", width = 9, height = 7)
+
+# Compute velocity vectors ----
