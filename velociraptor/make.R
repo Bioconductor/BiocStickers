@@ -21,7 +21,24 @@ heatmap(img_matrix, Rowv = NA, Colv = NA, scale = "none", col = c("white", "blac
 
 xy_coord <- as.data.frame(which(img_matrix > 0, arr.ind = TRUE))
 
+# library(ggplot2)
+# ggplot(xy_coord) +
+#   geom_point(aes(col, row)) +
+#   theme_void()
+
+which.max(xy_coord$col)
+origin_point <- xy_coord[which.max(xy_coord$col), , drop=FALSE]
+
+# library(ggplot2)
+# ggplot(xy_coord, aes(col, row)) +
+#   geom_point() +
+#   geom_point(data = origin_point, color = "red") +
+#   theme_void()
+
+xy_coord$pseudotime <- sqrt((xy_coord$row - origin_point$row)^2 + (xy_coord$col - origin_point$col)^2)
+
 library(ggplot2)
 ggplot(xy_coord) +
-  geom_point(aes(col, row)) +
+  geom_point(aes(col, row, color = pseudotime), show.legend = FALSE) +
+  scale_color_viridis_c() +
   theme_void()
