@@ -76,6 +76,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="minfi/README.md"><img src="minfi/minfi.png" height="100"></a>
 <a href="missMethyl/README.md"><img src="missMethyl/missMethyl.png" height="100"></a>
 <a href="Modstrings/README.md"><img src="Modstrings/Modstrings.png" height="100"></a>
+<a href="MsCoreUtils/README.md"><img src="MsCoreUtils/MsCoreUtils.png" height="100"></a>
 <a href="MSnbase/README.md"><img src="MSnbase/MSnbase.png" height="100"></a>
 <a href="MultiAssayExperiment/README.md"><img src="MultiAssayExperiment/MultiAssayExperiment.png" height="100"></a>
 <a href="mzR/README.md"><img src="mzR/mzR_hl.png" height="100"></a>
@@ -105,6 +106,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="SingleR/README.md"><img src="SingleR/SingleR_sticker_invert.png" height="100"></a>
 <a href="singscore/README.md"><img src="singscore/singscore.png" height="100"></a>
 <a href="slingshot/README.md"><img src="slingshot/slingshot.png" height="100"></a>
+<a href="Spectra/README.md"><img src="Spectra/Spectra.png" height="100"></a>
 <a href="Splatter/README.md"><img src="Splatter/splatter_monochrome.png" height="100"></a>
 <a href="stageR/README.md"><img src="stageR/stageR.png" height="100"></a>
 <a href="Structstrings/README.md"><img src="Structstrings/Structstrings.png" height="100"></a>
