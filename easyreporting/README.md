@@ -2,4 +2,4 @@
 
 * Maintainers: [Dario Righelli](https://github.com/drighelli)
 
-<img src="easyreporting.png" align="right" alt="" width="120" />
+<img src="easyreporting.png" height="200" />

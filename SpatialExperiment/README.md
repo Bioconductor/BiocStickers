@@ -2,4 +2,4 @@
 
 * Maintainers: [Dario Righelli](https://github.com/drighelli)
 
-<img src="SpatialExperiment.png" align="right" alt="" width="120" />
+<img src="SpatialExperiment.png" height="200" />
