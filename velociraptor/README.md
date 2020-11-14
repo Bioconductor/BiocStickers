@@ -6,7 +6,6 @@
 [CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to
 share and adapt, but don't forget to credit the author.
 
-
 <p align = "left">
 <img src="./velociraptor_sticker.png" height="200">
 </p>
