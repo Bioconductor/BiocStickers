@@ -147,14 +147,14 @@ grid_y <- seq(min(plot_data$y), max(plot_data$y), length.out = field_resolution)
 
 vector_field <- as_tibble(expand.grid(x = grid_x, y = grid_y))
 
-out <- t(sapply(seq_len(nrow(vector_field)), function(i) get_gradient(plot_data, vector_field$x[i], vector_field$y[i], resolution = 50, min.neighbours = 10)))
+out <- t(sapply(seq_len(nrow(vector_field)), function(i) get_gradient(plot_data, vector_field$x[i], vector_field$y[i], resolution = field_resolution * 2, min.neighbours = 5)))
 colnames(out) <- c("x_gradient", "y_gradient")
 # out
 
 vector_field2 <- bind_cols(vector_field, as_tibble(out))
 vector_field2 <- subset(vector_field2, !is.na(vector_field2$x_gradient))
 
-gradient_expand <- 5
+gradient_expand <- 4
 
 gg <- ggplot(vector_field2, aes(x, y, xend = x + x_gradient * gradient_expand, yend = y + y_gradient * gradient_expand)) +
   geom_segment(arrow = arrow(angle = 20, length = unit(0.05, "inches"))) +
@@ -164,12 +164,12 @@ ggsave("velociraptor_field.pdf", width = 9, height = 7)
 
 library(ggplot2)
 gg <- ggplot(plot_data, aes(x, y)) +
-  geom_point(aes(color = color), alpha = 0.5) +
+  geom_point(aes(color = color), alpha = 0.7) +
   guides(color = "none") +
   scale_color_viridis_c() +
   theme_void()
 gg <- gg + geom_segment(
-  aes(x, y, xend = x + x_gradient * 10, yend = y + y_gradient * 10),
+  aes(x, y, xend = x + x_gradient * gradient_expand, yend = y + y_gradient * gradient_expand),
   vector_field2,
   arrow = arrow(angle = 25, length = unit(0.1, "inches")),
   size = 1.1
@@ -179,12 +179,12 @@ ggsave("velociraptor_pseudotime_fieldblack.pdf", width = 9, height = 7)
 
 library(ggplot2)
 gg <- ggplot(plot_data, aes(x, y)) +
-  geom_point(aes(color = color), alpha = 0.5) +
+  geom_point(aes(color = color), alpha = 1) +
   guides(color = "none") +
   scale_color_viridis_c() +
   theme_void()
 gg <- gg + geom_segment(
-  aes(x, y, xend = x + x_gradient * 10, yend = y + y_gradient * 10),
+  aes(x, y, xend = x + x_gradient * gradient_expand, yend = y + y_gradient * gradient_expand),
   vector_field2,
   arrow = arrow(angle = 25, length = unit(0.1, "inches")),
   size = 1.1, color = "white"
