@@ -153,6 +153,7 @@ Stickers for some of the Bioconductor events.
 <a href="events/EuroBioc2019/README.md"><img src="events/EuroBioc2019/EuroBioc2019.png" height="100"></a>
 <a href="events/Bioc2020/README.md"><img src="events/Bioc2020/BioC2020.png" height="100"></a>
 <a href="events/EuroBioc2020/README.md"><img src="events/EuroBioc2020/EuroBioc2020.png" height="100"></a>
+<a href="events/Bioc2021/README.md"><img src="events/Bioc2021/Bioc2021.png" height="100"></a>
 </p>
 
 ## Diversity-affirming stickers
