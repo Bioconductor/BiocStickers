@@ -30,6 +30,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="ChIPseeker/README.md"><img src="ChIPseeker/ChIPseeker.png" height="100"></a>
 <a href="cleaver/README.md"><img src="cleaver/cleaver.png" height="100"></a>
 <a href="clusterProfiler/README.md"><img src="clusterProfiler/clusterProfiler.png" height="100"></a>
+<a href="CNVRanger/README.md"><img src="CNVRanger/CNVRanger.png" height="100"></a>
 <a href="consensus/README.md"><img src="consensus/consensus.png" height="100"></a>
 <a href="corral/README.md"><img src="corral/corral_sticker.png" height="100"></a>
 <a href="countsimQC/README.md"><img src="countsimQC/countsimQC.png" height="100"></a>
