@@ -135,6 +135,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="vulcan/README.md"><img src="vulcan/vulcan.png" height="100"></a>
 <a href="xcms/README.md"><img src="xcms/xcms_hl.png" height="100"></a>
 <a href="zinbwave/README.md"><img src="zinbwave/zinbwave.png" height="100"></a>
+<a href="zellkonverter/README.md"><img src="zellkonverter/zellkonverter.png" height="100"></a>
 </p>
 
 ## Stickers for *events*
