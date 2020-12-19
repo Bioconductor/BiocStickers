@@ -79,6 +79,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="isomirs/README.md"><img src="isomiRs/isomirs.png" height="100"></a>
 <a href="IRanges/README.md"><img src="IRanges/IRanges.png" height="100"></a>
 <a href="limma/README.md"><img src="limma/limma.png" height="100"></a>
+<a href="mbkmeans/README.md"><img src="mbkmeans/mbkmeans.png" height="100"></a>
 <a href="methylKit/README.md"><img src="methylKit/methylKit.png" height="100"></a>
 <a href="minfi/README.md"><img src="minfi/minfi.png" height="100"></a>
 <a href="missMethyl/README.md"><img src="missMethyl/missMethyl.png" height="100"></a>
