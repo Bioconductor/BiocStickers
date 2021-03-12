@@ -85,6 +85,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="minfi/README.md"><img src="minfi/minfi.png" height="100"></a>
 <a href="missMethyl/README.md"><img src="missMethyl/missMethyl.png" height="100"></a>
 <a href="Modstrings/README.md"><img src="Modstrings/Modstrings.png" height="100"></a>
+<a href="MsBackendMassbank/README.md"><img src="MsBackendMassbank/MsBackendMassbank.png" height="100"></a>
 <a href="MsCoreUtils/README.md"><img src="MsCoreUtils/MsCoreUtils.png" height="100"></a>
 <a href="MsFeatures/README.md"><img src="MsFeatures/MsFeatures.png" height="100"></a>
 <a href="MSnbase/README.md"><img src="MSnbase/MSnbase.png" height="100"></a>
