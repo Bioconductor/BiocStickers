@@ -112,6 +112,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="RUVnormalizw/README.md"><img src="RUVnormalize/RUVnormalize.png" height="100"></a>
 <a href="RUVSeq/README.md"><img src="RUVSeq/RUVSeq.png" height="100"></a>
 <a href="rWikiPathways/README.md"><img src="rWikiPathways/rWikiPathways-sticker.png" height="100"></a>
+<a href="satuRn/README.md"><img src="satuRn/satuRn.png" height="100"></a>
 <a href="SC3/README.md"><img src="SC3/SC3.png" height="100"></a>
 <a href="scDD/README.md"><img src="scDD/scDD.png" height="100"></a>
 <a href="scater/README.md"><img src="scater/scater.png" height="100"></a>
