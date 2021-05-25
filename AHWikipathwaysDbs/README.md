@@ -9,4 +9,4 @@ inside, and the [AnnotationHub sticker](https://github.com/Bioconductor/BiocStic
 * The author of the logo in the center of this sticker is [Mike Love](https://github.com/mikelove).
 (See [The AnnotationHub package sticker README](https://github.com/Bioconductor/BiocStickers/tree/master/AnnotationHub).)
 
-<img src=AHWikipathwaysDbs.png height="200">
+![sticker](AHWikipathwaysDbs.png)
