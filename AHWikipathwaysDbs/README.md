@@ -8,3 +8,5 @@ share and adapt, but don't forget to credit the author.
 inside, and the [AnnotationHub sticker](https://github.com/Bioconductor/BiocStickers/tree/master/AnnotationHub) license is CC-BY.)
 * The author of the logo in the center of this sticker is [Mike Love](https://github.com/mikelove).
 (See [The AnnotationHub package sticker README](https://github.com/Bioconductor/BiocStickers/tree/master/AnnotationHub).)
+
+<img src=AHWikipathwaysDbs.png height="200">
