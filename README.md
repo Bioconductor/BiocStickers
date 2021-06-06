@@ -136,6 +136,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="systemPipeR/README.md"><img src="systemPipeR/systemPipeR.png" height="100"></a>
 <a href="TCGAutils/README.md"><img src="TCGAutils/TCGAutils.png" height="100"></a>
 <a href="tradeSeq/README.md"><img src="tradeSeq/tradeSeq.png" height="100"></a>
+<a href="transomics2cytoscape/README.md"><img src="transomics2cytoscape/transomics2cytoscape.png" height="100"></a>
 <a href="tidybulk/README.md"><img src="tidybulk/tidybulk.png" height="100"></a>
 <a href="treeio/README.md"><img src="treeio/treeio.png" height="100"></a>
 <a href="tRNA/README.md"><img src="tRNA/tRNA.png" height="100"></a>
