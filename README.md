@@ -9,6 +9,7 @@ please open an issue and discuss changes with the sticker maintainer.
 
 <p align = "left">
 <a href="affy/README.md"><img src="affy/affy.png" height="100"></a>
+<a href="AHPathbankDbs/README.md"><img src="AHPathbankDbs/AHPathbankDbs.png" height="100"></a>
 <a href="AHWikipathwaysDbs/README.md"><img src="AHWikipathwaysDbs/AHWikipathwaysDbs.png" height="100"></a>
 <a href="AnnotationDbi/README.md"><img src="AnnotationDbi/AnnotationDbi.png" height="100"></a>
 <a href="AnnotationFilter/README.md"><img src="AnnotationFilter/AnnotationFilter_hl.png" height="100"></a>
