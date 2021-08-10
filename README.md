@@ -46,6 +46,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="diffcyt/README.md"><img src="diffcyt/diffcyt.png" height="100"></a>
 <a href="distinct/README.md"><img src="distinct/distinct.png" height="100"></a>
 <a href="dittoSeq/README.md"><img src="dittoSeq/dittoSeqSticker.png" height="100"></a>
+<a href="DMRcate/README.md"><img src="DMRcate/DMRcate.png" height="100"></a>
 <a href="dmrseq/README.md"><img src="dmrseq/dmrseq.png" height="100"></a>
 <a href="drawProteins/README.md"><img src="drawProteins/drawProteins.png" height="100"></a>
 <a href="DRIMSeq/README.md"><img src="DRIMSeq/DRIMSeq.png" height="100"></a>
