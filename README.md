@@ -5,7 +5,7 @@ this repo and create a pull request if you would like to add a sticker
 for your package too. If you would like to modify existing ones,
 please open an issue and discuss changes with the sticker maintainer.
 
-## Stickers
+## Package stickers
 
 <p align = "left">
 <a href="affy/README.md"><img src="affy/affy.png" height="100"></a>
@@ -171,13 +171,24 @@ Stickers for some of the Bioconductor events.
 <a href="events/EuroBioc2019/README.md"><img src="events/EuroBioc2019/EuroBioc2019.png" height="100"></a>
 <a href="events/Bioc2020/README.md"><img src="events/Bioc2020/BioC2020.png" height="100"></a>
 <a href="events/EuroBioc2020/README.md"><img src="events/EuroBioc2020/EuroBioc2020.png" height="100"></a>
+<a href="events/H3Africa2021/README.md"><img src="events/H3Africa2021/BiocH3Africa2021.png" height="100"></a>
 <a href="events/Bioc2021/README.md"><img src="events/Bioc2021/BioC2021.png" height="100"></a>
+<a href="Bioconductor/BioC20th/README.md"><img src="Bioconductor/BioC20th/BioC20th.png" height="100"></a>
 </p>
 
 ## Diversity-affirming stickers
 
 <a href="Bioconductor/README.md"><img src="Bioconductor/Bioconductor-rainbow.png" height="100"></a>
 <a href="Bioconductor/README.md"><img src="Bioconductor/Bioconductor-trans.png" height="100"></a>
+
+
+## Stickers for boards and organizations
+
+<a href="boards/BiocTeaching/README.md"><img src="boards/BiocTeaching/BiocTeaching.png" height="100"></a>
+<a href="boards/CAB/README.md"><img src="boards/CAB/CAB.png" height="100"></a>
+<a href="boards/TAB/README.md"><img src="boards/TAB/TAB.png" height="100"></a>
+<a href="boards/EuroBioC/README.md"><img src="boards/EuroBioC/EuroBioC.png" height="100"></a>
+
 
 # Sticker development guidelines
 
