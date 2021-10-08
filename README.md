@@ -170,12 +170,12 @@ Stickers for some of the Bioconductor events.
 <a href="events/Bioc2019/README.md"><img src="events/Bioc2019/BioC2019_blue2.png" height="100"></a>
 <a href="events/EuroBioc2019/README.md"><img src="events/EuroBioc2019/EuroBioc2019.png" height="100"></a>
 <a href="events/Bioc2020/README.md"><img src="events/Bioc2020/BioC2020.png" height="100"></a>
-<a href="events/BioCAsia2020/README.md"><img src="events/BioCAsia2020/BioCAsia2020.png" height="100"></a>
+<a href="events/BiocAsia2020/README.md"><img src="events/BiocAsia2020/BiocAsia2020.png" height="100"></a>
 <a href="events/EuroBioc2020/README.md"><img src="events/EuroBioc2020/EuroBioc2020.png" height="100"></a>
 <a href="events/H3Africa2021/README.md"><img src="events/H3Africa2021/BiocH3Africa2021.png" height="100"></a>
 <a href="events/Bioc2021/README.md"><img src="events/Bioc2021/BioC2021.png" height="100"></a>
 <a href="Bioconductor/BioC20th/README.md"><img src="Bioconductor/BioC20th/BioC20th.png" height="100"></a>
-<a href="events/BioCAsia2021/README.md"><img src="events/BioCAsia2021/BioCAsia2021Hokusai.png" height="100"></a>
+<a href="events/BiocAsia2021/README.md"><img src="events/BiocAsia2021/BiocAsia2021Hokusai.png" height="100"></a>
 </p>
 
 ## Diversity-affirming stickers
