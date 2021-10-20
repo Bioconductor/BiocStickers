@@ -14,5 +14,7 @@
   adapt, but don't forget to credit the author.
 
 <img src="./EuroBioC2022.png" height="200">
+<img src="./EuroBioC2022-a.png" height="200">
+<img src="./EuroBioC2022-b.png" height="200">
 
 
