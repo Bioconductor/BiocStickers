@@ -95,3 +95,91 @@ hex <- ggplot() +
     theme_sticker()
 save_sticker("EuroBioC2022.png", hex, dpi = 300)
 
+## Rainbow sticker
+red <- "#ff0000"
+orange <- "#ffa52c"
+yellow <- "#ead018"
+green <- "#007e15"
+blue <- "#0505f9"
+purple <- "#86007d"
+
+hex <- ggplot() +
+    geom_hexagon(size = 1.2, fill = col_yellow2, color = NA) +  # full
+    hex_segment2(size = 0, fill = col_yellow1,  # right upper
+                 from_radius = 0, to_radius = 1,
+                 from_angle = 330, to_angle = 30) +
+    hex_segment2(size = 0, fill = col_yellow1,
+                 from_radius = 0, to_radius = 1,
+                 from_angle = 30, to_angle = 90) +
+    hex_segment2(size = 0, fill = col_yellow1,
+                 from_radius = 0, to_radius = 1,
+                 from_angle = 90, to_angle = 150) +
+    hex_segment2(size = 0, fill = purple, # right upper
+                 from_radius = 0.9, to_radius = 1,
+                 from_angle = 330, to_angle = 30) +
+    hex_segment2(size = 0, fill = blue,
+                 from_radius = 0.9, to_radius = 1,
+                 from_angle = 30, to_angle = 90) +
+    hex_segment2(size = 0, fill = green,
+                 from_radius = 0.9, to_radius = 1,
+                 from_angle = 90, to_angle = 150) +
+    hex_segment2(size = 0, fill = yellow,
+                 from_radius = 0.9, to_radius = 1,
+                 from_angle = 150, to_angle = 210) +
+    hex_segment2(size = 0, fill = orange,
+                 from_radius = 0.9, to_radius = 1,
+                 from_angle = 210, to_angle = 270) +
+    hex_segment2(size = 0, fill = red,
+                 from_radius = 0.9, to_radius = 1,
+                 from_angle = 270, to_angle = 330) +
+    geom_subview(subview = img, x = 1, y = 1.01,
+                 width = 1.21, height = 1.21) +
+    geom_url(url = "EuroBioC2022", x = 0.35, y = 1.575,
+             family = "Aller", size = 7, color = col_yellow1) + 
+    geom_url(url = "www.bioconductor.org", size = 5, color = col_outerspace,
+             x = 1.14, y = 0.134, angle = 30) +
+    theme_sticker()
+save_sticker("EuroBioC2022-a.png", hex, dpi = 300)
+
+
+lb <- "#5bcefa"
+lr <- "#f5a9b8"
+lg <- "#d9d9d9"
+
+hex <- ggplot() +
+    geom_hexagon(size = 1.2, fill = col_yellow2, color = NA) +  # full
+    hex_segment2(size = 0, fill = col_yellow1,  # right upper
+                 from_radius = 0, to_radius = 1,
+                 from_angle = 330, to_angle = 30) +
+    hex_segment2(size = 0, fill = col_yellow1,
+                 from_radius = 0, to_radius = 1,
+                 from_angle = 30, to_angle = 90) +
+    hex_segment2(size = 0, fill = col_yellow1,
+                 from_radius = 0, to_radius = 1,
+                 from_angle = 90, to_angle = 150) +
+    hex_segment2(size = 0, fill = lb, # right upper
+                 from_radius = 0.9, to_radius = 1,
+                 from_angle = 330, to_angle = 30) +
+    hex_segment2(size = 0, fill = lr,
+                 from_radius = 0.9, to_radius = 1,
+                 from_angle = 30, to_angle = 90) +
+    hex_segment2(size = 0, fill = lg,
+                 from_radius = 0.9, to_radius = 1,
+                 from_angle = 90, to_angle = 150) +
+    hex_segment2(size = 0, fill = lb,
+                 from_radius = 0.9, to_radius = 1,
+                 from_angle = 150, to_angle = 210) +
+    hex_segment2(size = 0, fill = lr,
+                 from_radius = 0.9, to_radius = 1,
+                 from_angle = 210, to_angle = 270) +
+    hex_segment2(size = 0, fill = lg,
+                 from_radius = 0.9, to_radius = 1,
+                 from_angle = 270, to_angle = 330) +
+    geom_subview(subview = img, x = 1, y = 1.01,
+                 width = 1.21, height = 1.21) +
+    geom_url(url = "EuroBioC2022", x = 0.35, y = 1.575,
+             family = "Aller", size = 7, color = col_outerspace) + 
+    geom_url(url = "www.bioconductor.org", size = 5, color = col_outerspace,
+             x = 1.14, y = 0.134, angle = 30) +
+    theme_sticker()
+save_sticker("EuroBioC2022-b.png", hex, dpi = 300)
