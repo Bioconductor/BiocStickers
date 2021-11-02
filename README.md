@@ -9,7 +9,10 @@ please open an issue and discuss changes with the sticker maintainer.
 
 <p align = "left">
 <a href="affy/README.md"><img src="affy/affy.png" height="100"></a>
+<a href="AHLRBaseDbs/README.md"><img src="AHLRBaseDbs/AHLRBaseDbs.png" height="100"></a>
+<a href="AHMeSHDbs/README.md"><img src="AHMeSHDbs/AHMeSHDbs.png" height="100"></a>
 <a href="AHPathbankDbs/README.md"><img src="AHPathbankDbs/AHPathbankDbs.png" height="100"></a>
+<a href="AHPubMedDbs/README.md"><img src="AHPubMedDbs/AHPubMedDbs.png" height="100"></a>
 <a href="AHWikipathwaysDbs/README.md"><img src="AHWikipathwaysDbs/AHWikipathwaysDbs.png" height="100"></a>
 <a href="AnnotationDbi/README.md"><img src="AnnotationDbi/AnnotationDbi.png" height="100"></a>
 <a href="AnnotationFilter/README.md"><img src="AnnotationFilter/AnnotationFilter_hl.png" height="100"></a>
@@ -41,6 +44,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="curatedTCGAData/README.md"><img src="curatedTCGAData/curatedTCGAData.png" height="100"></a>
 <a href="cytomapper/README.md"><img src="cytomapper/cytomapper.png" height="100"></a>
 <a href="DEGreport/README.md"><img src="DEGreport/degreport.png" height="100"></a>
+<a href="DelayedTensor/README.md"><img src="DelayedTensor/DelayedTensor.png" height="100"></a>
 <a href="DEScan2/README.md"><img src="DEScan2/DEScan2.png" height="100"></a>
 <a href="DESeq2/README.md"><img src="DESeq2/DESeq2.png" height="100"></a>
 <a href="DEXSeq/README.md"><img src="DEXSeq/DEXSeq.png" height="100"></a>
@@ -84,8 +88,12 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="isomirs/README.md"><img src="isomiRs/isomirs.png" height="100"></a>
 <a href="IRanges/README.md"><img src="IRanges/IRanges.png" height="100"></a>
 <a href="limma/README.md"><img src="limma/limma.png" height="100"></a>
+<a href="LRBaseDbi/README.md"><img src="LRBaseDbi/LRBaseDbi.png" height="100"></a>
 <a href="mbkmeans/README.md"><img src="mbkmeans/mbkmeans.png" height="100"></a>
 <a href="MetaboCoreUtils/README.md"><img src="MetaboCoreUtils/MetaboCoreUtils.png" height="100"></a>
+<a href="MeSHDbi/README.md"><img src="MeSHDbi/MeSHDbi.png" height="100"></a>
+<a href="meshr/README.md"><img src="meshr/meshr.png" height="100"></a>
+<a href="metaSeq/README.md"><img src="metaSeq/metaSeq.png" height="100"></a>
 <a href="methylKit/README.md"><img src="methylKit/methylKit.png" height="100"></a>
 <a href="minfi/README.md"><img src="minfi/minfi.png" height="100"></a>
 <a href="missMethyl/README.md"><img src="missMethyl/missMethyl.png" height="100"></a>
@@ -125,6 +133,8 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="scPipe/README.md"><img src="scPipe/scPipe.png" height="100"></a>
 <a href="scran/README.md"><img src="scran/scran.png" height="100"></a>
 <a href="scry/README.md"><img src="scry/scry.png" height="100"></a>
+<a href="scTGIF/README.md"><img src="scTGIF/scTGIF.png" height="100"></a>
+<a href="scTensor/README.md"><img src="scTensor/scTensor.png" height="100"></a>
 <a href="SingleCellExperiment/README.md"><img src="SingleCellExperiment/SingleCellExperiment.png" height="100"></a>
 <a href="SingleR/README.md"><img src="SingleR/SingleR_sticker_invert.png" height="100"></a>
 <a href="singscore/README.md"><img src="singscore/singscore.png" height="100"></a>
