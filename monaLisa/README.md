@@ -1,4 +1,4 @@
-<img src="monaLisa.png" align="right" alt="" width="120"/>
+<img src="monaLisa.png" align="right" alt="" width="150"/>
 
 # The `monaLisa` package sticker
 
