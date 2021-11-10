@@ -17,7 +17,7 @@
    width="41.526356mm"
    height="47.837666mm"
    viewBox="0 0 156.95001 180.80378"
-   sodipodi:docname="OUTRIDERsvg.svg"
+   sodipodi:docname="OUTRIDER.svg"
    inkscape:export-filename="/data/ouga/home/ag_gagneur/mertes/bitmap.png"
    inkscape:export-xdpi="600.02155"
    inkscape:export-ydpi="600.02155"><metadata
@@ -168,12 +168,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="4.0000001"
-     inkscape:cx="64.63014"
-     inkscape:cy="70.791449"
+     inkscape:cx="-12.615492"
+     inkscape:cy="69.791449"
      inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      inkscape:snap-center="true"
      units="mm"
      inkscape:snap-global="true"
@@ -204,7 +204,14 @@
      id="layer1"
      inkscape:label="Title"
      style="display:inline"
-     transform="translate(-270.99066,703.48432)"><g
+     transform="translate(-270.99066,703.48432)"><path
+   d="m 271.61566,-657.92305 v 89.68125 l 77.85001,44.83999 77.85,-44.84 v -14.48085 -75.2004 l -77.85,-44.84 z"
+   style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.25;stroke-opacity:0"
+   id="path34-1-8-2-5-6-3-3"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cccccccc"
+   inkscape:export-xdpi="600.02155"
+   inkscape:export-ydpi="600.02155" /><g
    id="g4868"
    transform="matrix(0.9484652,0,0,0.91301241,34.616449,-51.297763)" /><text
    xml:space="preserve"
@@ -217,6 +224,7 @@
      x="260.81277"
      y="-138.28409"
      style="font-size:40px;line-height:1.25;stroke-width:1px"> </tspan></text>
+
 
 <g
    style="display:inline"
@@ -231,11 +239,11 @@
          id="path30-4-5-5-8-9-9"
          style="opacity:0.8;fill:url(#radialGradient5307-11-3-1-4-7-3);fill-opacity:0.95294118;fill-rule:nonzero;stroke:#32a437;stroke-opacity:1"
          d="m 2.422,38.688 v 68.945 l 59.858,34.478 59.859,-34.478 V 38.688 L 62.28,4.211 Z" /></g></g></g><path
-   d="m 271.61566,-657.92305 v 89.68125 l 77.85001,44.83999 77.85,-44.84 v -14.48085 -75.2004 l -77.85,-44.84 z m 6.055,86.18125 v -82.68126 l 71.79501,-41.3525 71.795,41.3525 v 82.68125 l -71.795,41.35249 z"
+   d="m 271.61566,-657.92305 v 89.68125 l 77.85001,44.83999 77.85,-44.84 v -14.48085 -75.2004 l -77.85,-44.84 z m 6.055,86.18125 v -82.68126 l 71.79501,-41.3525 71.795,41.3525 v 25.49252 57.18873 l -71.795,41.35249 z"
    style="display:inline;fill:#391f9b;fill-opacity:0.85314684;fill-rule:nonzero;stroke:#1d5d69;stroke-width:1.25;stroke-opacity:0"
    id="path34-1-8-2-5-6-3"
    inkscape:connector-curvature="0"
-   sodipodi:nodetypes="ccccccccccccccc"
+   sodipodi:nodetypes="cccccccccccccccc"
    inkscape:export-xdpi="600.02155"
    inkscape:export-ydpi="600.02155" /><g
    style="display:inline"
@@ -254,6 +262,7 @@
      id="tspan248-8-6-1-2-0-4"
      style="font-size:4.00000095px;line-height:1.25">www.bioconductor.orgwww.bioconductor.org</tspan></text>
 
+
 </g></g><text
    transform="scale(1.0000201,0.99997991)"
    style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Aller Light';-inkscape-font-specification:Aller-Light;writing-mode:lr-tb;display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
@@ -267,6 +276,7 @@
      x="292.28564"
      y="-567.66797"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79843712px;line-height:1.25;font-family:'Aller Light';-inkscape-font-specification:'Aller Light, ';stroke-width:1">OUTRIDER</tspan></text>
+
 
 
 
