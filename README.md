@@ -67,6 +67,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="FamAgg/README.md"><img src="FamAgg/FamAgg_hl.png" height="100"></a>
 <a href="fedup/README.md"><img src="fedup/fedup.png" height="100"></a>
 <a href="fishpond/README.md"><img src="fishpond/fishpond.png" height="100"></a>
+<a href="FRASER/README.md"><img src="FRASER/FRASER.png" height="100"></a>
 <a href="GeneTonic/README.md"><img src="GeneTonic/GeneTonic.png" height="100"></a>
 <a href="GenomicRanges/README.md"><img src="GenomicRanges/GenomicRanges.png" height="100"></a>
 <a href="GenomicScores/README.md"><img src="GenomicScores/GenomicScores.png" height="100"></a>
@@ -108,6 +109,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="mzR/README.md"><img src="mzR/mzR_hl.png" height="100"></a>
 <a href="NanoMethViz/README.md"><img src="NanoMethViz/NanoMethViz.png" height="100"></a>
 <a href="nullranges/README.md"><img src="nullranges/nullranges.png" height="100"></a>
+<a href="OUTRIDER/README.md"><img src="OUTRIDER/OUTRIDER.png" height="100"></a>
 <a href="plyranges/README.md"><img src="plyranges/plyranges.png" height="100"></a>
 <a href="pRoloc/README.md"><img src="pRoloc/pRoloc.png" height="100"></a>
 <a href="pRoloc/README.md"><img src="pRoloc/pRolocdata.png" height="100"></a>
