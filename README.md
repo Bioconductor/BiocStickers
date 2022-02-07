@@ -38,6 +38,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="cleaver/README.md"><img src="cleaver/cleaver.png" height="100"></a>
 <a href="clusterProfiler/README.md"><img src="clusterProfiler/clusterProfiler.png" height="100"></a>
 <a href="CNVRanger/README.md"><img src="CNVRanger/CNVRanger.png" height="100"></a>
+<a href="CompoundDb/README.md"><img src="CompoundDb/CompoundDb.png" height="100"></a>
 <a href="consensus/README.md"><img src="consensus/consensus.png" height="100"></a>
 <a href="corral/README.md"><img src="corral/corral_sticker.png" height="100"></a>
 <a href="countsimQC/README.md"><img src="countsimQC/countsimQC.png" height="100"></a>
@@ -91,6 +92,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="limma/README.md"><img src="limma/limma.png" height="100"></a>
 <a href="LRBaseDbi/README.md"><img src="LRBaseDbi/LRBaseDbi.png" height="100"></a>
 <a href="mbkmeans/README.md"><img src="mbkmeans/mbkmeans.png" height="100"></a>
+<a href="MetaboAnnotation/README.md"><img src="MetaboAnnotation/MetaboAnnotation.png" height="100"></a>
 <a href="MetaboCoreUtils/README.md"><img src="MetaboCoreUtils/MetaboCoreUtils.png" height="100"></a>
 <a href="MeSHDbi/README.md"><img src="MeSHDbi/MeSHDbi.png" height="100"></a>
 <a href="meshr/README.md"><img src="meshr/meshr.png" height="100"></a>
