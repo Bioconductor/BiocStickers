@@ -1,8 +1,7 @@
 # The `scPipe` package sticker
 
 * Maintainer: [Roberto Bonelli](https://github.com/Robbie90/)
-* License: Creative Commons Attribution
-[CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to
-share and adapt, but don't forget to credit the author.
+* License: CC0 1.0 Universal (CC0 1.0) Public Domain License. You can copy, modify, distribute and perform the work, even for
+commercial purposes, all without asking permission. See more details [here](https://creativecommons.org/publicdomain/zero/1.0/).
 
 <img src=scPipe.png height="200">

@@ -5,3 +5,7 @@ MSnbase/TMT_Erwinia_1uLSike_Top10HCD_isol2_45stepped_60min_01-20141210.mzML
 .Rproj.user
 BiocStickers.Rproj
 *.html
+# renv
+.Rprofile
+renv
+renv.lock
