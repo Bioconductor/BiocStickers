@@ -163,6 +163,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="TVTB/README.md"><img src="TVTB/TVTB.png" height="100"></a>
 <a href="VariantAnnotation/README.md"><img src="VariantAnnotation/VariantAnnotation.png" height="100"></a>
 <a href="velociraptor/README.md"><img src="velociraptor/velociraptor_sticker.png" height="100"></a>
+<a href="vissE/README.md"><img src="vissE/vissE.png" height="100"></a>
 <a href="vulcan/README.md"><img src="vulcan/vulcan.png" height="100"></a>
 <a href="xcms/README.md"><img src="xcms/xcms_hl.png" height="100"></a>
 <a href="zinbwave/README.md"><img src="zinbwave/zinbwave.png" height="100"></a>
