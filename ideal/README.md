@@ -6,6 +6,8 @@ This folder contains material and instructions for the making of the sticker for
 
 ## Credits
 
-* subsequent steps have been performed with Microsoft PowerPoint and GIMP (https://www.gimp.org)
+* Credits for this artwork go to Arsenij Ustjanzew (@arsenij-ust)
 
-* the code for assembling the different components into the final sticker is based on the `hexSticker` package, by Guangchuang Yu
+* ~~subsequent steps have been performed with Microsoft PowerPoint and GIMP (https://www.gimp.org)~~
+
+* ~~the code for assembling the different components into the final sticker is based on the `hexSticker` package, by Guangchuang Yu~~
