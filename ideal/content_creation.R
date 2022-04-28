@@ -111,7 +111,7 @@ sticker(img_file,
         url = "www.bioconductor.org",
         u_color = col_border,
         white_around_sticker = TRUE,
-        filename="ideal.pdf"
+        filename="ideal_older.pdf"
 )
 
 
