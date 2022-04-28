@@ -102,6 +102,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="minfi/README.md"><img src="minfi/minfi.png" height="100"></a>
 <a href="missMethyl/README.md"><img src="missMethyl/missMethyl.png" height="100"></a>
 <a href="Modstrings/README.md"><img src="Modstrings/Modstrings.png" height="100"></a>
+<a href="MobilityTransformR/README.md"><img src="MobilityTransformR/MobilityTransformR.png" height="100"></a>
 <a href="monaLisa/README.md"><img src="monaLisa/monaLisa.png" height="100"></a>
 <a href="MsBackendMassbank/README.md"><img src="MsBackendMassbank/MsBackendMassbank.png" height="100"></a>
 <a href="MsBackendMgf/README.md"><img src="MsBackendMgf/MsBackendMgf.png" height="100"></a>
@@ -199,6 +200,7 @@ Stickers for some of the Bioconductor events.
 <a href="events/BiocAsia2021/README.md"><img src="events/BiocAsia2021/BiocAsia2021Hokusai.png" height="100"></a>
 <a href="events/H3Africa2021b/README.md"><img src="events/H3Africa2021b/BiocH3Africa2021b.png" height="100"></a>
 <a href="events/EuroBioc2022/README.md"><img src="events/EuroBioc2022/EuroBioC2022.png" height="100"></a>
+<a href="events/CSAMA/2022/README.md"><img src="events/CSAMA/2022/CSAMA2022.png" height="100"></a>
 </p>
 
 ## Diversity-affirming stickers
