@@ -89,8 +89,8 @@ hex <- ggplot() +
     geom_subview(subview = img, x = 1.0, y = 1,
                  width = 0.95, height = 0.95) +
     ## font size for linux: 6.5, macOS
-    geom_url("www.bioconductor.eu", x = 1.05, y = 0.08,
-             color = col_jellybean, size = 2.1) + 
+    geom_url("https://bioconductor.eu", x = 0.25, y = 1.43,
+             color = col_jellybean, size = 6.3) + 
     theme_sticker()
 save_sticker(filename = "EuroBioC.png", hex)
 

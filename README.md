@@ -50,6 +50,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="DESeq2/README.md"><img src="DESeq2/DESeq2.png" height="100"></a>
 <a href="DEXSeq/README.md"><img src="DEXSeq/DEXSeq.png" height="100"></a>
 <a href="diffcyt/README.md"><img src="diffcyt/diffcyt.png" height="100"></a>
+<a href="DifferentialRegulation/README.md"><img src="DifferentialRegulation/DifferentialRegulation.png" height="100"></a>
 <a href="distinct/README.md"><img src="distinct/distinct.png" height="100"></a>
 <a href="dittoSeq/README.md"><img src="dittoSeq/dittoSeqSticker.png" height="100"></a>
 <a href="DMRcate/README.md"><img src="DMRcate/DMRcate.png" height="100"></a>
@@ -201,6 +202,7 @@ Stickers for some of the Bioconductor events.
 <a href="events/H3Africa2021b/README.md"><img src="events/H3Africa2021b/BiocH3Africa2021b.png" height="100"></a>
 <a href="events/EuroBioc2022/README.md"><img src="events/EuroBioc2022/EuroBioC2022.png" height="100"></a>
 <a href="events/CSAMA/2022/README.md"><img src="events/CSAMA/2022/CSAMA2022.png" height="100"></a>
+<a href="events/BiocAsia2022/README.md"><img src="events/BiocAsia2022/BiocAsia2022_sticker.png" height="100"></a>
 </p>
 
 ## Diversity-affirming stickers
