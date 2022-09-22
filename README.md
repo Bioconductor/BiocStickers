@@ -83,6 +83,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="HPAanalyze/README.md"><img src="HPAanalyze/HPAanalyze.png" height="100"></a>
 <a href="hypeR/README.md"><img src="hypeR/hypeR.png" height="100"></a>
 <a href="iCOBRA/README.md"><img src="iCOBRA/iCOBRA.png" height="100"></a>
+<a href="ideal/README.md"><img src="ideal/ideal.png" height="100"></a>
 <a href="IHW/README.md"><img src="IHW/IHW.png" height="100"></a>
 <a href="illuminaio/README.md"><img src="illuminaio/illuminaio.png" height="100"></a>
 <a href="imcRtools/README.md"><img src="imcRtools/imcRtools.png" height="100"></a>
@@ -114,6 +115,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="NanoMethViz/README.md"><img src="NanoMethViz/NanoMethViz.png" height="100"></a>
 <a href="nullranges/README.md"><img src="nullranges/nullranges.png" height="100"></a>
 <a href="OUTRIDER/README.md"><img src="OUTRIDER/OUTRIDER.png" height="100"></a>
+<a href="pcaExplorer/README.md"><img src="pcaExplorer/pcaExplorer.png" height="100"></a>
 <a href="plyranges/README.md"><img src="plyranges/plyranges.png" height="100"></a>
 <a href="pRoloc/README.md"><img src="pRoloc/pRoloc.png" height="100"></a>
 <a href="pRoloc/README.md"><img src="pRoloc/pRolocdata.png" height="100"></a>
