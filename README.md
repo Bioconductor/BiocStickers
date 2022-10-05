@@ -191,6 +191,7 @@ Stickers for some of the Bioconductor events.
 <a href="events/BiocAsia2018/README.md"><img src="events/BiocAsia2018/biocasia2018.png" height="100"></a>
 <a href="events/CSAMA/2019/README.md"><img src="events/CSAMA/2019/CSAMA2019.png" height="100"></a>
 <a href="events/Bioc2019/README.md"><img src="events/Bioc2019/BioC2019_blue2.png" height="100"></a>
+<a href="events/BiocAsia2019/README.md"><img src="events/BiocAsia2019/biocasia2019.png" height="100"></a>
 <a href="events/EuroBioc2019/README.md"><img src="events/EuroBioc2019/EuroBioc2019.png" height="100"></a>
 <a href="events/Bioc2020/README.md"><img src="events/Bioc2020/BioC2020.png" height="100"></a>
 <a href="events/BiocAsia2020/README.md"><img src="events/BiocAsia2020/BiocAsia2020.png" height="100"></a>
