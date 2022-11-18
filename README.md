@@ -67,6 +67,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="EpiTxDb/README.md"><img src="EpiTxDb/EpiTxDb.png" height="100"></a>
 <a href="ExperimentHub/README.md"><img src="ExperimentHub/ExperimentHub.png" height="100"></a>
 <a href="ExploreModelMatrix/README.md"><img src="ExploreModelMatrix/ExploreModelMatrix.png" height="100"></a>
+<a href="extraChIPs/README.md"><img src="extraChIPs/extraChIPs.png" height="100"></a>
 <a href="FamAgg/README.md"><img src="FamAgg/FamAgg_hl.png" height="100"></a>
 <a href="fedup/README.md"><img src="fedup/fedup.png" height="100"></a>
 <a href="fishpond/README.md"><img src="fishpond/fishpond.png" height="100"></a>
@@ -114,6 +115,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="MultiAssayExperiment/README.md"><img src="MultiAssayExperiment/MultiAssayExperiment.png" height="100"></a>
 <a href="mzR/README.md"><img src="mzR/mzR_hl.png" height="100"></a>
 <a href="NanoMethViz/README.md"><img src="NanoMethViz/NanoMethViz.png" height="100"></a>
+<a href="ngsReports/README.md"><img src="ngsReports/ngsReports.png" height="100"></a>
 <a href="nullranges/README.md"><img src="nullranges/nullranges.png" height="100"></a>
 <a href="OUTRIDER/README.md"><img src="OUTRIDER/OUTRIDER.png" height="100"></a>
 <a href="pcaExplorer/README.md"><img src="pcaExplorer/pcaExplorer.png" height="100"></a>
