@@ -151,6 +151,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="SingleCellExperiment/README.md"><img src="SingleCellExperiment/SingleCellExperiment.png" height="100"></a>
 <a href="SingleR/README.md"><img src="SingleR/SingleR_sticker_invert.png" height="100"></a>
 <a href="singscore/README.md"><img src="singscore/singscore.png" height="100"></a>
+<a href="sSNAPPY/README.md"><img src="sSNAPPY/sSNAPPY.png" height="100"></a>
 <a href="slingshot/README.md"><img src="slingshot/slingshot.png" height="100"></a>
 <a href="SpatialExperiment/README.md"><img src="SpatialExperiment/SpatialExperiment.png" height="100"></a>
 <a href="Spectra/README.md"><img src="Spectra/Spectra.png" height="100"></a>
