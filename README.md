@@ -218,6 +218,7 @@ Stickers for some of the Bioconductor events.
 
 ## Stickers for boards and organizations
 
+<a href="boards/BiocReviewer/README.md"><img src="boards/BiocReviewer/BiocReviewer.png" height="100"></a>
 <a href="boards/BiocTeaching/README.md"><img src="boards/BiocTeaching/BiocTeaching.png" height="100"></a>
 <a href="boards/CAB/README.md"><img src="boards/CAB/CAB.png" height="100"></a>
 <a href="boards/TAB/README.md"><img src="boards/TAB/TAB.png" height="100"></a>
