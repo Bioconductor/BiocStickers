@@ -109,6 +109,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="monaLisa/README.md"><img src="monaLisa/monaLisa.png" height="100"></a>
 <a href="MsBackendMassbank/README.md"><img src="MsBackendMassbank/MsBackendMassbank.png" height="100"></a>
 <a href="MsBackendMgf/README.md"><img src="MsBackendMgf/MsBackendMgf.png" height="100"></a>
+<a href="MsBackendSql/README.md"><img src="MsBackendSql/MsBackendSql.png" height="100"></a>
 <a href="MsCoreUtils/README.md"><img src="MsCoreUtils/MsCoreUtils.png" height="100"></a>
 <a href="MsFeatures/README.md"><img src="MsFeatures/MsFeatures.png" height="100"></a>
 <a href="MSnbase/README.md"><img src="MSnbase/MSnbase.png" height="100"></a>
