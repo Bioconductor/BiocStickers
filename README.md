@@ -45,6 +45,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="countsimQC/README.md"><img src="countsimQC/countsimQC.png" height="100"></a>
 <a href="curatedTCGAData/README.md"><img src="curatedTCGAData/curatedTCGAData.png" height="100"></a>
 <a href="cytomapper/README.md"><img src="cytomapper/cytomapper.png" height="100"></a>
+<a href="cytoviewer/README.md"><img src="cytoviewer/cytoviewer.png" height="100"></a>
 <a href="DEGreport/README.md"><img src="DEGreport/degreport.png" height="100"></a>
 <a href="DelayedTensor/README.md"><img src="DelayedTensor/DelayedTensor.png" height="100"></a>
 <a href="DEScan2/README.md"><img src="DEScan2/DEScan2.png" height="100"></a>
