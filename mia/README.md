@@ -4,4 +4,4 @@
 
 <img src=mia.png height="200">
 
-License: [Artistic License 2.0](https://github.com/microbiome/mia/blob/master/LICENSE).
+License: License: Creative Commons Attribution [CC-BY](https://creativecommons.org/licenses/by/2.0/).
