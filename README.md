@@ -103,6 +103,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="meshr/README.md"><img src="meshr/meshr.png" height="100"></a>
 <a href="metaSeq/README.md"><img src="metaSeq/metaSeq.png" height="100"></a>
 <a href="methylKit/README.md"><img src="methylKit/methylKit.png" height="100"></a>
+<a href="mia/README.md"><img src="mia/mia.png" height="100"></a>
 <a href="minfi/README.md"><img src="minfi/minfi.png" height="100"></a>
 <a href="missMethyl/README.md"><img src="missMethyl/missMethyl.png" height="100"></a>
 <a href="Modstrings/README.md"><img src="Modstrings/Modstrings.png" height="100"></a>
