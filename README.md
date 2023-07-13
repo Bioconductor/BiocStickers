@@ -50,6 +50,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="DelayedTensor/README.md"><img src="DelayedTensor/DelayedTensor.png" height="100"></a>
 <a href="DEScan2/README.md"><img src="DEScan2/DEScan2.png" height="100"></a>
 <a href="DESeq2/README.md"><img src="DESeq2/DESeq2.png" height="100"></a>
+<a href="DESpace/README.md"><img src="DESpace/DESpace.png" height="100"></a>
 <a href="DEXSeq/README.md"><img src="DEXSeq/DEXSeq.png" height="100"></a>
 <a href="diffcyt/README.md"><img src="diffcyt/diffcyt.png" height="100"></a>
 <a href="DifferentialRegulation/README.md"><img src="DifferentialRegulation/DifferentialRegulation.png" height="100"></a>
