@@ -249,6 +249,9 @@ to design your stickers manually in `Illustrator`.
 + Each folder should also contain a *README.md* providing at least the name of
   the package and the designer/maintainer of the sticker (which is not
   necessarily the maintainer of the package).
++ Also add a licence under which you share your sticker in the README.md file. A
+  [CC-BY-type licence](https://creativecommons.org/share-your-work/cclicenses/)
+  would be a sensible choice here. Otherwise, CC0 applies (see below).
 + The height of the final png should be 5cm, resolution should be at least
   300dpi.
 + While it is not mandatory, it is suggested to use the *Aller* font for the
