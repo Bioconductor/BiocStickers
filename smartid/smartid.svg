@@ -1,0 +1,165 @@
+<svg viewBox="0 -1 120 141" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hexagon Background with no fill -->
+  <path d="M60 0 L120 34.64 L120 103.92 L60 138.56 L0 103.92 L0 34.64 Z" fill="none" stroke="#2c3e50" stroke-width="2" />
+
+  <!-- Inner Hexagon (Reduced by 2px from previous) -->
+  <path d="M60 6 L114 37.64 L114 100.92 L60 132.56 L6 100.92 L6 37.64 Z" fill="#2c3e50" />
+
+  <!-- Cell Clusters Representation with Batch Effect -->
+  <g transform="translate(0, 0)">
+    <!-- Cell Cluster 1 - Batch 1 (Blue, circles) -->
+    <circle cx="25" cy="45" r="2.5" fill="#3498db" opacity="0.8" />
+    <circle cx="20" cy="48" r="2.5" fill="#3498db" opacity="0.8" />
+    <circle cx="28" cy="51" r="2.5" fill="#3498db" opacity="0.8" />
+    <circle cx="32" cy="47" r="2.5" fill="#3498db" opacity="0.8" />
+    <circle cx="24" cy="40" r="2.5" fill="#3498db" opacity="0.8" />
+    <circle cx="35" cy="42" r="2.5" fill="#3498db" opacity="0.8" />
+    <circle cx="22" cy="43" r="2.5" fill="#3498db" opacity="0.8" />
+    <circle cx="27" cy="35" r="2.5" fill="#3498db" opacity="0.8" />
+    <circle cx="35" cy="50" r="2.5" fill="#3498db" opacity="0.8" />
+    <circle cx="18" cy="45" r="2.5" fill="#3498db" opacity="0.8" />
+    
+    <!-- Cell Cluster 1 - Batch 2 (Blue, squares) -->
+    <rect x="30" y="38" width="4" height="4" fill="#3498db" opacity="0.8" />
+    <rect x="33" y="35" width="4" height="4" fill="#3498db" opacity="0.8" />
+    <rect x="38" y="38" width="4" height="4" fill="#3498db" opacity="0.8" />
+    <rect x="26" y="55" width="4" height="4" fill="#3498db" opacity="0.8" />
+    <rect x="21" y="52" width="4" height="4" fill="#3498db" opacity="0.8" />
+    <rect x="40" y="44" width="4" height="4" fill="#3498db" opacity="0.8" />
+    <rect x="40" y="50" width="4" height="4" fill="#3498db" opacity="0.8" />
+    <rect x="22" y="36" width="4" height="4" fill="#3498db" opacity="0.8" />
+    <rect x="32" y="53" width="4" height="4" fill="#3498db" opacity="0.8" />
+    <rect x="36" y="32" width="4" height="4" fill="#3498db" opacity="0.8" />
+    
+    <!-- Cell Cluster 2 - Batch 1 (Purple, circles) -->
+    <circle cx="48" cy="35" r="2.5" fill="#9b59b6" opacity="0.8" />
+    <circle cx="50" cy="39" r="2.5" fill="#9b59b6" opacity="0.8" />
+    <circle cx="54" cy="36" r="2.5" fill="#9b59b6" opacity="0.8" />
+    <circle cx="44" cy="33" r="2.5" fill="#9b59b6" opacity="0.8" />
+    <circle cx="50" cy="30" r="2.5" fill="#9b59b6" opacity="0.8" />
+    <circle cx="55" cy="40" r="2.5" fill="#9b59b6" opacity="0.8" />
+    <circle cx="48" cy="47" r="2.5" fill="#9b59b6" opacity="0.8" />
+    <circle cx="60" cy="43" r="2.5" fill="#9b59b6" opacity="0.8" />
+    <circle cx="52" cy="28" r="2.5" fill="#9b59b6" opacity="0.8" />
+    <circle cx="58" cy="47" r="2.5" fill="#9b59b6" opacity="0.8" />
+    <circle cx="65" cy="40" r="2.5" fill="#9b59b6" opacity="0.8" />
+    <circle cx="70" cy="39" r="2.5" fill="#9b59b6" opacity="0.8" />
+    
+    <!-- Cell Cluster 2 - Batch 2 (Purple, squares) -->
+    <rect x="43" y="40" width="4" height="4" fill="#9b59b6" opacity="0.8" />
+    <rect x="45" y="44" width="4" height="4" fill="#9b59b6" opacity="0.8" />
+    <rect x="39" y="29" width="4" height="4" fill="#9b59b6" opacity="0.8" />
+    <rect x="53" y="45" width="4" height="4" fill="#9b59b6" opacity="0.8" />
+    <rect x="44" y="48" width="4" height="4" fill="#9b59b6" opacity="0.8" />
+    <rect x="59" y="38" width="4" height="4" fill="#9b59b6" opacity="0.8" />
+    <rect x="57" y="31" width="4" height="4" fill="#9b59b6" opacity="0.8" />
+    <rect x="62" y="35" width="4" height="4" fill="#9b59b6" opacity="0.8" />
+    <rect x="51" y="50" width="4" height="4" fill="#9b59b6" opacity="0.8" />
+    <rect x="64" y="46" width="4" height="4" fill="#9b59b6" opacity="0.8" />
+    <rect x="68" y="34" width="4" height="4" fill="#9b59b6" opacity="0.8" />
+    <rect x="72" y="44" width="4" height="4" fill="#9b59b6" opacity="0.8" />
+    <rect x="67" y="48" width="4" height="4" fill="#9b59b6" opacity="0.8" />
+    
+    <!-- Rare Cell Population - Batch 1 (Orange, circles) -->
+    <circle cx="82" cy="39" r="2.5" fill="#e74c3c" opacity="0.9" />
+    <circle cx="85" cy="42" r="2.5" fill="#e74c3c" opacity="0.9" />
+    <circle cx="84" cy="37" r="2.5" fill="#e74c3c" opacity="0.9" />
+    
+    <!-- Rare Cell Population - Batch 2 (Orange, squares) -->
+    <rect x="88" y="40" width="4" height="4" fill="#e74c3c" opacity="0.9" />
+    <rect x="86" y="45" width="4" height="4" fill="#e74c3c" opacity="0.9" />
+    
+    <!-- Highlight element for rare cells -->
+    <circle cx="85" cy="41" r="8" fill="none" stroke="#f39c12" stroke-width="1" stroke-dasharray="2,1" />
+    
+    <!-- Arrow definitions -->
+    <defs>
+      <marker id="arrowhead" markerWidth="5" markerHeight="3.5" refX="0" refY="1.75" orient="auto">
+        <polygon points="0 0, 5 1.75, 0 3.5" fill="#f39c12"/>
+      </marker>
+    </defs>
+    
+    <!-- Arrow from Cell Cluster to Markers - extended properly -->
+    <line x1="85" y1="41" x2="103" y2="51" stroke="#f39c12" stroke-width="0.4" marker-end="url(#arrowhead)" />
+    
+    <!-- Unified Markers (Star symbol) - 1/2 of original size -->
+    <text x="103" y="53" font-family="Arial, sans-serif" font-size="5" fill="#f39c12">✦</text>
+    <text x="107" y="50" font-family="Arial, sans-serif" font-size="5" fill="#f39c12">✦</text>
+    <text x="105" y="56" font-family="Arial, sans-serif" font-size="5" fill="#f39c12">✦</text>
+    
+    <!-- Arrow from Markers to Scoring - extended properly -->
+    <line x1="105" y1="53" x2="85" y2="65" stroke="#f39c12" stroke-width="0.4" marker-end="url(#arrowhead)" />
+    
+    <!-- Gene Set Scoring Visualization (Heat map style) moved up by 1px more (total of -1px) -->
+    <g transform="translate(0, -1)">
+      <!-- Gene Expression Heatmap -->
+      <rect x="30" y="70" width="60" height="25" fill="none" stroke="#ffffff" stroke-width="0.5" />
+      
+      <!-- Gene rows (horizontal lines) -->
+      <line x1="30" y1="75" x2="90" y2="75" stroke="#ffffff" stroke-width="0.3" />
+      <line x1="30" y1="80" x2="90" y2="80" stroke="#ffffff" stroke-width="0.3" />
+      <line x1="30" y1="85" x2="90" y2="85" stroke="#ffffff" stroke-width="0.3" />
+      <line x1="30" y1="90" x2="90" y2="90" stroke="#ffffff" stroke-width="0.3" />
+      
+      <!-- Cells (vertical lines) -->
+      <line x1="40" y1="70" x2="40" y2="95" stroke="#ffffff" stroke-width="0.3" />
+      <line x1="50" y1="70" x2="50" y2="95" stroke="#ffffff" stroke-width="0.3" />
+      <line x1="60" y1="70" x2="60" y2="95" stroke="#ffffff" stroke-width="0.3" />
+      <line x1="70" y1="70" x2="70" y2="95" stroke="#ffffff" stroke-width="0.3" />
+      <line x1="80" y1="70" x2="80" y2="95" stroke="#ffffff" stroke-width="0.3" />
+      
+      <!-- Expression levels (colored squares) -->
+      <!-- Row 1 -->
+      <rect x="30" y="70" width="10" height="5" fill="#1abc9c" opacity="0.4" />
+      <rect x="40" y="70" width="10" height="5" fill="#1abc9c" opacity="0.7" />
+      <rect x="50" y="70" width="10" height="5" fill="#1abc9c" opacity="0.2" />
+      <rect x="60" y="70" width="10" height="5" fill="#1abc9c" opacity="0.5" />
+      <rect x="70" y="70" width="10" height="5" fill="#e74c3c" opacity="0.9" />
+      <rect x="80" y="70" width="10" height="5" fill="#e74c3c" opacity="0.8" />
+      
+      <!-- Row 2 -->
+      <rect x="30" y="75" width="10" height="5" fill="#1abc9c" opacity="0.3" />
+      <rect x="40" y="75" width="10" height="5" fill="#1abc9c" opacity="0.6" />
+      <rect x="50" y="75" width="10" height="5" fill="#1abc9c" opacity="0.5" />
+      <rect x="60" y="75" width="10" height="5" fill="#1abc9c" opacity="0.2" />
+      <rect x="70" y="75" width="10" height="5" fill="#e74c3c" opacity="0.8" />
+      <rect x="80" y="75" width="10" height="5" fill="#e74c3c" opacity="0.9" />
+      
+      <!-- Row 3 -->
+      <rect x="30" y="80" width="10" height="5" fill="#1abc9c" opacity="0.4" />
+      <rect x="40" y="80" width="10" height="5" fill="#1abc9c" opacity="0.2" />
+      <rect x="50" y="80" width="10" height="5" fill="#1abc9c" opacity="0.5" />
+      <rect x="60" y="80" width="10" height="5" fill="#1abc9c" opacity="0.3" />
+      <rect x="70" y="80" width="10" height="5" fill="#e74c3c" opacity="0.7" />
+      <rect x="80" y="80" width="10" height="5" fill="#e74c3c" opacity="0.8" />
+      
+      <!-- Row 4 -->
+      <rect x="30" y="85" width="10" height="5" fill="#1abc9c" opacity="0.1" />
+      <rect x="40" y="85" width="10" height="5" fill="#1abc9c" opacity="0.3" />
+      <rect x="50" y="85" width="10" height="5" fill="#1abc9c" opacity="0.2" />
+      <rect x="60" y="85" width="10" height="5" fill="#1abc9c" opacity="0.4" />
+      <rect x="70" y="85" width="10" height="5" fill="#e74c3c" opacity="0.9" />
+      <rect x="80" y="85" width="10" height="5" fill="#e74c3c" opacity="0.7" />
+      
+      <!-- Row 5 -->
+      <rect x="30" y="90" width="10" height="5" fill="#1abc9c" opacity="0.5" />
+      <rect x="40" y="90" width="10" height="5" fill="#1abc9c" opacity="0.4" />
+      <rect x="50" y="90" width="10" height="5" fill="#1abc9c" opacity="0.3" />
+      <rect x="60" y="90" width="10" height="5" fill="#1abc9c" opacity="0.2" />
+      <rect x="70" y="90" width="10" height="5" fill="#e74c3c" opacity="0.8" />
+      <rect x="80" y="90" width="10" height="5" fill="#e74c3c" opacity="0.9" />
+      
+      <!-- Score colorbar -->
+      <defs>
+        <linearGradient id="scoreGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" style="stop-color:#1abc9c;stop-opacity:0.8" />
+          <stop offset="100%" style="stop-color:#e74c3c;stop-opacity:0.8" />
+        </linearGradient>
+      </defs>
+      <rect x="40" y="98" width="40" height="3" fill="url(#scoreGradient)" rx="1" ry="1" />
+    </g>
+  </g>
+
+  <!-- Logo Text moved up by 2px -->
+  <text x="60" y="113" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">smartid</text>
+</svg>
