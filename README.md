@@ -101,6 +101,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="IRanges/README.md"><img src="IRanges/IRanges.png" height="100"></a>
 <a href="limma/README.md"><img src="limma/limma.png" height="100"></a>
 <a href="LRBaseDbi/README.md"><img src="LRBaseDbi/LRBaseDbi.png" height="100"></a>
+<a href="mastR/README.md"><img src="mastR/mastR.svg" height="100"></a>
 <a href="mbkmeans/README.md"><img src="mbkmeans/mbkmeans.png" height="100"></a>
 <a href="MetaboAnnotation/README.md"><img src="MetaboAnnotation/MetaboAnnotation.png" height="100"></a>
 <a href="MetaboCoreUtils/README.md"><img src="MetaboCoreUtils/MetaboCoreUtils.png" height="100"></a>
