@@ -133,6 +133,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="OUTRIDER/README.md"><img src="OUTRIDER/OUTRIDER.png" height="100"></a>
 <a href="pcaExplorer/README.md"><img src="pcaExplorer/pcaExplorer.png" height="100"></a>
 <a href="plyranges/README.md"><img src="plyranges/plyranges.png" height="100"></a>
+<a href="plyxp/README.md"><img src="plyxp/plyxp.png" height="100"></a>
 <a href="pRoloc/README.md"><img src="pRoloc/pRoloc.png" height="100"></a>
 <a href="pRoloc/README.md"><img src="pRoloc/pRolocdata.png" height="100"></a>
 <a href="pRoloc/README.md"><img src="pRoloc/pRolocGUI.png" height="100"></a>
