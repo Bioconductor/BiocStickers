@@ -169,6 +169,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="sSNAPPY/README.md"><img src="sSNAPPY/sSNAPPY.png" height="100"></a>
 <a href="slingshot/README.md"><img src="slingshot/slingshot.png" height="100"></a>
 <a href="smartid/README.md"><img src="smartid/smartid.svg" height="100"></a>
+<a href="SparseArray/README.md"><img src="SparseArray/SparseArray.png" height="100"></a>
 <a href="SpatialExperiment/README.md"><img src="SpatialExperiment/SpatialExperiment.png" height="100"></a>
 <a href="SpatialExperimentIO/README.md"><img src="SpatialExperimentIO/SpatialExperimentIO.png" height="100"></a>
 <a href="Spectra/README.md"><img src="Spectra/Spectra.png" height="100"></a>
