@@ -238,12 +238,15 @@ Stickers for some of the Bioconductor events.
 <a href="events/CSAMA/2023/README.md"><img src="events/CSAMA/2023/CSAMA2023.png" height="100"></a>
 <a href="events/Bioc2023/README.md"><img src="events/Bioc2023/BioC2023-a.png" height="100"></a>
 <a href="events/EuroBioc2023/README.md"><img src="events/EuroBioc2023/EuroBioC2023.png" height="100"></a>
+<a href="events/BiocAsia2023/README.md"><img src="events/BiocAsia2023/biocAsiaSticker2023.png" height="100"></a>
 <a href="events/CSAMA/2024/README.md"><img src="events/CSAMA/2024/CSAMA2024.png" height="100"></a>
 <a href="events/EuroBioc2024/README.md"><img src="events/EuroBioc2024/EuroBioC2024.png" height="100"></a>
 <a href="events/Bioc2024/README.md"><img src="events/Bioc2024/Bioc2024.png" height="100"></a>
+<a href="events/BiocAsia2024/README.md"><img src="events/BiocAsia2024/BioCAsia2024.png" height="100"></a>
 <a href="events/GBCC2025/README.md"><img src="events/GBCC2025/GBCC2025.png" height="100"></a>
 <a href="events/CSAMA/2025/README.md"><img src="events/CSAMA/2025/CSAMA2025.png" height="100"></a>
 <a href="events/EuroBioc2025/README.md"><img src="events/EuroBioc2025/EuroBioC2025.png" height="100"></a>
+<a href="events/BiocAsia2025/README.md"><img src="events/BiocAsia2025/biocasia-2025.png" height="100"></a>
 </p>
 
 ## Diversity-affirming stickers
