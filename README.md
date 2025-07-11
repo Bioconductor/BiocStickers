@@ -170,6 +170,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="SingleCellMultiModal/README.md"><img src="SingleCellMultiModal/SingleCellMultiModal.png" height="100"></a>
 <a href="SingleR/README.md"><img src="SingleR/SingleR_sticker_invert.png" height="100"></a>
 <a href="singscore/README.md"><img src="singscore/singscore.png" height="100"></a>
+<a href="sketchR/README.md"><img src="sketchR/sketchR.png" height="100"></a>
 <a href="sSNAPPY/README.md"><img src="sSNAPPY/sSNAPPY.png" height="100"></a>
 <a href="slingshot/README.md"><img src="slingshot/slingshot.png" height="100"></a>
 <a href="smartid/README.md"><img src="smartid/smartid.svg" height="100"></a>
