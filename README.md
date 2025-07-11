@@ -133,6 +133,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="NanoMethViz/README.md"><img src="NanoMethViz/NanoMethViz.png" height="100"></a>
 <a href="ngsReports/README.md"><img src="ngsReports/ngsReports.png" height="100"></a>
 <a href="nullranges/README.md"><img src="nullranges/nullranges.png" height="100"></a>
+<a href="orthos/README.md"><img src="orthos/orthos.png" height="100"></a>
 <a href="OUTRIDER/README.md"><img src="OUTRIDER/OUTRIDER.png" height="100"></a>
 <a href="pcaExplorer/README.md"><img src="pcaExplorer/pcaExplorer.png" height="100"></a>
 <a href="plyranges/README.md"><img src="plyranges/plyranges.png" height="100"></a>
