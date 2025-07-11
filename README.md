@@ -14,6 +14,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="AHPathbankDbs/README.md"><img src="AHPathbankDbs/AHPathbankDbs.png" height="100"></a>
 <a href="AHPubMedDbs/README.md"><img src="AHPubMedDbs/AHPubMedDbs.png" height="100"></a>
 <a href="AHWikipathwaysDbs/README.md"><img src="AHWikipathwaysDbs/AHWikipathwaysDbs.png" height="100"></a>
+<a href="alevinQC/README.md"><img src="alevinQC/alevinQC.png" height="100"></a>
 <a href="AnnotationDbi/README.md"><img src="AnnotationDbi/AnnotationDbi.png" height="100"></a>
 <a href="AnnotationFilter/README.md"><img src="AnnotationFilter/AnnotationFilter_hl.png" height="100"></a>
 <a href="AnnotationHub/README.md"><img src="AnnotationHub/AnnotationHub.png" height="100"></a>
