@@ -191,6 +191,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="transomics2cytoscape/README.md"><img src="transomics2cytoscape/transomics2cytoscape.png" height="100"></a>
 <a href="tidybulk/README.md"><img src="tidybulk/tidybulk.png" height="100"></a>
 <a href="tidyomics/README.md"><img src="tidyomics/tidyomics.png" height="100"></a>
+<a href="treeclimbR/README.md"><img src="treeclimbR/treeclimbR.png" height="100"></a>
 <a href="treeio/README.md"><img src="treeio/treeio.png" height="100"></a>
 <a href="tRNA/README.md"><img src="tRNA/tRNA.png" height="100"></a>
 <a href="tximeta/README.md"><img src="tximeta/tximeta.png" height="100"></a>
