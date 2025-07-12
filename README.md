@@ -56,6 +56,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="cytoviewer/README.md"><img src="cytoviewer/cytoviewer.png" height="100"></a>
 <a href="DEGreport/README.md"><img src="DEGreport/degreport.png" height="100"></a>
 <a href="DelayedTensor/README.md"><img src="DelayedTensor/DelayedTensor.png" height="100"></a>
+<a href="demuxSNP/README.md"><img src="demuxSNP/demuxSNP.png" height="100"></a>
 <a href="DEScan2/README.md"><img src="DEScan2/DEScan2.png" height="100"></a>
 <a href="DESeq2/README.md"><img src="DESeq2/DESeq2.png" height="100"></a>
 <a href="DESpace/README.md"><img src="DESpace/DESpace.png" height="100"></a>
