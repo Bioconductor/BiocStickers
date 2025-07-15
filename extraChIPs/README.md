@@ -2,9 +2,9 @@
 
 *Additional functions to enable ChIP-Seq analysis*
 
-* Maintainer: [Stephen Pederson](https://github.com/steveped/)
+* Maintainer: [Stevie Pederson](https://github.com/smped/)
 * Package URL: https://www.bioconductor.org/packages/release/bioc/html/extraChIPs.html
-* GitHub: https://github.com/steveped/extraChIPs
+* GitHub: https://github.com/smped/extraChIPs
 
 <img src=extraChIPs.png height="200">
 

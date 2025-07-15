@@ -129,6 +129,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="MoleculeExperiment/README.md"><img src="MoleculeExperiment/1200_logo.png" height="100"></a>
 <a href="monaLisa/README.md"><img src="monaLisa/monaLisa.png" height="100"></a>
 <a href="MotifPeeker/README.md"><img src="MotifPeeker/MotifPeeker.png" height="100"></a>
+<a href="motifTestR/README.md"><img src="motifTestR/motifTestR.png" height="100"></a>
 <a href="MsBackendMassbank/README.md"><img src="MsBackendMassbank/MsBackendMassbank.png" height="100"></a>
 <a href="MsBackendMgf/README.md"><img src="MsBackendMgf/MsBackendMgf.png" height="100"></a>
 <a href="MsBackendSql/README.md"><img src="MsBackendSql/MsBackendSql.png" height="100"></a>
@@ -137,6 +138,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="MSnbase/README.md"><img src="MSnbase/MSnbase.png" height="100"></a>
 <a href="mspms/README.md"><img src="mspms/mspms_logo.png" height="100"></a>
 <a href="MultiAssayExperiment/README.md"><img src="MultiAssayExperiment/MultiAssayExperiment.png" height="100"></a>
+<a href="muscat/README.md"><img src="muscat/muscat.png" height="100"></a>
 <a href="mzR/README.md"><img src="mzR/mzR_hl.png" height="100"></a>
 <a href="NanoMethViz/README.md"><img src="NanoMethViz/NanoMethViz.png" height="100"></a>
 <a href="ngsReports/README.md"><img src="ngsReports/ngsReports.png" height="100"></a>
@@ -198,6 +200,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="systemPipeR/README.md"><img src="systemPipeR/systemPipeR.png" height="100"></a>
 <a href="TCGAutils/README.md"><img src="TCGAutils/TCGAutils.png" height="100"></a>
 <a href="tradeSeq/README.md"><img src="tradeSeq/tradeSeq.png" height="100"></a>
+<a href="transmogR/README.md"><img src="transmogR/transmogR.png" height="100"></a>
 <a href="transomics2cytoscape/README.md"><img src="transomics2cytoscape/transomics2cytoscape.png" height="100"></a>
 <a href="tidybulk/README.md"><img src="tidybulk/tidybulk.png" height="100"></a>
 <a href="tidyomics/README.md"><img src="tidyomics/tidyomics.png" height="100"></a>
