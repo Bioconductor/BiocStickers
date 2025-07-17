@@ -198,6 +198,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="SurfR/README.md"><img src="SurfR/SurfR_logo_inkscape.png" height="100"></a>
 <a href="sva/README.md"><img src="sva/sva.png" height="100"></a>
 <a href="systemPipeR/README.md"><img src="systemPipeR/systemPipeR.png" height="100"></a>
+<a href="TaxSEA/README.md"><img src="TaxSEA/TaxSEA.png" height="100"></a>
 <a href="TCGAutils/README.md"><img src="TCGAutils/TCGAutils.png" height="100"></a>
 <a href="tradeSeq/README.md"><img src="tradeSeq/tradeSeq.png" height="100"></a>
 <a href="transmogR/README.md"><img src="transmogR/transmogR.png" height="100"></a>
