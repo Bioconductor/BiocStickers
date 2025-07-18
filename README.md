@@ -95,6 +95,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="GEOquery/README.md"><img src="GEOquery/GEOquery.png" height="100"></a>
 <a href="ggspavis/README.md"><img src="ggspavis/ggspavis.png" height="100"></a>
 <a href="ggtree/README.md"><img src="ggtree/ggtree.png" height="100"></a>
+<a href="gINTomics/README.md"><img src="gINTomics/gINTomics.png" height="100"></a>
 <a href="Glimma/README.md"><img src="Glimma/Glimma.png" height="100"></a>
 <a href="GOexpress/README.md"><img src="GOexpress/GOexpress.png" height="100"></a>
 <a href="GSVA/README.md"><img src="GSVA/GSVA.png" height="100"></a>
