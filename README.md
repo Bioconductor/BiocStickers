@@ -107,6 +107,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="ideal/README.md"><img src="ideal/ideal.png" height="100"></a>
 <a href="IHW/README.md"><img src="IHW/IHW.png" height="100"></a>
 <a href="illuminaio/README.md"><img src="illuminaio/illuminaio.png" height="100"></a>
+<a href="imageTCGA/README.md"><img src="imageTCGA/imageTCGA.png" height="100"></a>
 <a href="imcRtools/README.md"><img src="imcRtools/imcRtools.png" height="100"></a>
 <a href="InterMineR/README.md"><img src="InterMineR/InterMineR.png" height="100"></a>
 <a href="iSEE/README.md"><img src="iSEE/iSEE.png" height="100"></a>
