@@ -1,0 +1,16 @@
+---
+title: "The `MOSClip` package sticker"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- Maintainer: [Paolo Martini](https://github.com/cavei)
+- Sticker designer: [Anna Tanada](https://github.com/AnnaTanada) & [Anna Bortolato](https://github.com/AnnaBortolato)
+
+## Credits:
+- Sticker made with [Canva.com](https://www.canva.com/)
+
+<img src=MOSClip.png height="200">
