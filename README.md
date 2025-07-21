@@ -43,6 +43,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="Biostrings/README.md"><img src="Biostrings/Biostrings.png" height="100"></a>
 <a href="bsseq/README.md"><img src="bsseq/bsseq.png" height="100"></a>
 <a href="CATALYST/README.md"><img src="CATALYST/CATALYST.png" height="100"></a>
+<a href="CatsCradle/README.md"><img src="CatsCradle/CatsCradle.png" height="100"></a>
 <a href="CellBench/README.md"><img src="CellBench/CellBench.png" height="100"></a>
 <a href="celldex/README.md"><img src="celldex/celldex_sticker.png" height="100"></a>
 <a href="ChIPseeker/README.md"><img src="ChIPseeker/ChIPseeker.png" height="100"></a>
