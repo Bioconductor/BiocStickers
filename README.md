@@ -194,6 +194,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="SparseArray/README.md"><img src="SparseArray/SparseArray.png" height="100"></a>
 <a href="SpatialExperiment/README.md"><img src="SpatialExperiment/SpatialExperiment.png" height="100"></a>
 <a href="SpatialExperimentIO/README.md"><img src="SpatialExperimentIO/SpatialExperimentIO.png" height="100"></a>
+<a href="spatialFDA/README.md"><img src="spatialFDA/spatialFDA.png" height="100"></a>
 <a href="Spectra/README.md"><img src="Spectra/Spectra.png" height="100"></a>
 <a href="Splatter/README.md"><img src="Splatter/splatter_monochrome.png" height="100"></a>
 <a href="stageR/README.md"><img src="stageR/stageR.png" height="100"></a>
