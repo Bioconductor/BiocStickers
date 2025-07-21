@@ -102,6 +102,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="Gviz/README.md"><img src="Gviz/Gviz.png" height="100"></a>
 <a href="HiCDOC/README.md"><img src="HiCDOC/HiCDOC.png" height="100"></a>
 <a href="HiCParser/README.md"><img src="HiCParser/HiCParser.png" height="100"></a>
+<a href="hoodscanR/README.md"><img src="hoodscanR/hoodscanR.png" height="100"></a>
 <a href="HPAanalyze/README.md"><img src="HPAanalyze/HPAanalyze.png" height="100"></a>
 <a href="hypeR/README.md"><img src="hypeR/hypeR.png" height="100"></a>
 <a href="iCOBRA/README.md"><img src="iCOBRA/iCOBRA.png" height="100"></a>
@@ -177,6 +178,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="SC3/README.md"><img src="SC3/SC3.png" height="100"></a>
 <a href="scDD/README.md"><img src="scDD/scDD.png" height="100"></a>
 <a href="scater/README.md"><img src="scater/scater.png" height="100"></a>
+<a href="scider/README.md"><img src="scider/scider.png" height="100"></a>
 <a href="scmap/README.md"><img src="scmap/scmap.png" height="100"></a>
 <a href="scPipe/README.md"><img src="scPipe/scPipe.png" height="100"></a>
 <a href="scran/README.md"><img src="scran/scran.png" height="100"></a>
@@ -197,6 +199,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="Spectra/README.md"><img src="Spectra/Spectra.png" height="100"></a>
 <a href="Splatter/README.md"><img src="Splatter/splatter_monochrome.png" height="100"></a>
 <a href="stageR/README.md"><img src="stageR/stageR.png" height="100"></a>
+<a href="standR/README.md"><img src="standR/standR.png" height="100"></a>
 <a href="STexampleData/README.md"><img src="STexampleData/STexampleData.png" height="100"></a>
 <a href="Structstrings/README.md"><img src="Structstrings/Structstrings.png" height="100"></a>
 <a href="SummarizedExperiment/README.md"><img src="SummarizedExperiment/SummarizedExperiment.png" height="100"></a>
@@ -226,9 +229,6 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="zinbwave/README.md"><img src="zinbwave/zinbwave.png" height="100"></a>
 <a href="zellkonverter/README.md"><img src="zellkonverter/zellkonverter.png" height="100"></a>
 <a href="vmrseq/README.md"><img src="vmrseq/vmrseq.png" height="100"></a>
-<a href="standR/README.md"><img src="standR/standR.png" height="100"></a>
-<a href="hoodscanR/README.md"><img src="hoodscanR/hoodscanR.png" height="100"></a>
-<a href="scider/README.md"><img src="scider/scider.png" height="100"></a>
 </p>
 
 ## Stickers for *events*
