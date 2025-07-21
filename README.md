@@ -14,11 +14,11 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="AHPathbankDbs/README.md"><img src="AHPathbankDbs/AHPathbankDbs.png" height="100"></a>
 <a href="AHPubMedDbs/README.md"><img src="AHPubMedDbs/AHPubMedDbs.png" height="100"></a>
 <a href="AHWikipathwaysDbs/README.md"><img src="AHWikipathwaysDbs/AHWikipathwaysDbs.png" height="100"></a>
+<a href="airpart/README.md"><img src="airpart/airpart.png" height="100"></a>
 <a href="alevinQC/README.md"><img src="alevinQC/alevinQC.png" height="100"></a>
 <a href="AnnotationDbi/README.md"><img src="AnnotationDbi/AnnotationDbi.png" height="100"></a>
 <a href="AnnotationFilter/README.md"><img src="AnnotationFilter/AnnotationFilter_hl.png" height="100"></a>
 <a href="AnnotationHub/README.md"><img src="AnnotationHub/AnnotationHub.png" height="100"></a>
-<a href="airpart/README.md"><img src="airpart/airpart.png" height="100"></a>
 <a href="apeglm/README.md"><img src="apeglm/apeglm.png" height="100"></a>
 <a href="atena/README.md"><img src="atena/atena.png" height="100"></a>
 <a href="BANDITS/README.md"><img src="BANDITS/BANDITS.png" height="100"></a>
@@ -28,8 +28,8 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="bettr/README.md"><img src="bettr/bettr.png" height="100"></a>
 <a href="Biobase/README.md"><img src="Biobase/Biobase.png" height="100"></a>
 <a href="BiocCheck/README.md"><img src="BiocCheck/BiocCheck.png" height="100"></a>
-<a href="BiocManager/README.md"><img src="BiocManager/BiocManager.png" height="100"></a>
 <a href="BiocFileCache/README.md"><img src="BiocFileCache/BiocFileCache.png" height="100"></a>
+<a href="BiocManager/README.md"><img src="BiocManager/BiocManager.png" height="100"></a>
 <a href="Bioconductor/README.md"><img src="Bioconductor/Bioconductor_original.png" height="100"></a>
 <a href="BioCor/README.md"><img src="BioCor/BioCor.png" height="100"></a>
 <a href="BiocParallel/README.md"><img src="BiocParallel/BiocParallel.png" height="100"></a>
