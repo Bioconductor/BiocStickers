@@ -226,6 +226,9 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="zinbwave/README.md"><img src="zinbwave/zinbwave.png" height="100"></a>
 <a href="zellkonverter/README.md"><img src="zellkonverter/zellkonverter.png" height="100"></a>
 <a href="vmrseq/README.md"><img src="vmrseq/vmrseq.png" height="100"></a>
+<a href="standR/README.md"><img src="standR/standR.png" height="100"></a>
+<a href="hoodscanR/README.md"><img src="hoodscanR/hoodscanR.png" height="100"></a>
+<a href="scider/README.md"><img src="scider/scider.png" height="100"></a>
 </p>
 
 ## Stickers for *events*
