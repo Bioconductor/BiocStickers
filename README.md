@@ -128,6 +128,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="mia/README.md"><img src="mia/mia.png" height="100"></a>
 <a href="minfi/README.md"><img src="minfi/minfi.png" height="100"></a>
 <a href="missMethyl/README.md"><img src="missMethyl/missMethyl.png" height="100"></a>
+<a href="mitology/README.md"><img src="mitology/mitology.png" height="100"></a>
 <a href="Modstrings/README.md"><img src="Modstrings/Modstrings.png" height="100"></a>
 <a href="MobilityTransformR/README.md"><img src="MobilityTransformR/MobilityTransformR.png" height="100"></a>
 <a href="mogsa/README.md"><img src="mogsa/mogsa.png" height="100"></a>
@@ -183,6 +184,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="scry/README.md"><img src="scry/scry.png" height="100"></a>
 <a href="scTGIF/README.md"><img src="scTGIF/scTGIF.png" height="100"></a>
 <a href="scTensor/README.md"><img src="scTensor/scTensor.png" height="100"></a>
+<a href="signifinder/README.md"><img src="signifinder/signifinder.png" height="100"></a>
 <a href="SingleCellExperiment/README.md"><img src="SingleCellExperiment/SingleCellExperiment.png" height="100"></a>
 <a href="SingleCellMultiModal/README.md"><img src="SingleCellMultiModal/SingleCellMultiModal.png" height="100"></a>
 <a href="SingleR/README.md"><img src="SingleR/SingleR_sticker_invert.png" height="100"></a>
