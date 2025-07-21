@@ -2,7 +2,10 @@
 
 This repository contains stickers for some Bioconductor packages. Fork
 this repo and create a pull request if you would like to add a sticker
-for your package too. If you would like to modify existing ones,
+for your package too. Please also add your sticker to the main REAMDE file 
+(ordered alphabetically).
+
+If you would like to modify existing ones,
 please open an issue and discuss changes with the sticker maintainer.
 
 ## Package stickers
@@ -14,22 +17,23 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="AHPathbankDbs/README.md"><img src="AHPathbankDbs/AHPathbankDbs.png" height="100"></a>
 <a href="AHPubMedDbs/README.md"><img src="AHPubMedDbs/AHPubMedDbs.png" height="100"></a>
 <a href="AHWikipathwaysDbs/README.md"><img src="AHWikipathwaysDbs/AHWikipathwaysDbs.png" height="100"></a>
+<a href="airpart/README.md"><img src="airpart/airpart.png" height="100"></a>
 <a href="alevinQC/README.md"><img src="alevinQC/alevinQC.png" height="100"></a>
 <a href="AnnotationDbi/README.md"><img src="AnnotationDbi/AnnotationDbi.png" height="100"></a>
 <a href="AnnotationFilter/README.md"><img src="AnnotationFilter/AnnotationFilter_hl.png" height="100"></a>
 <a href="AnnotationHub/README.md"><img src="AnnotationHub/AnnotationHub.png" height="100"></a>
-<a href="airpart/README.md"><img src="airpart/airpart.png" height="100"></a>
 <a href="apeglm/README.md"><img src="apeglm/apeglm.png" height="100"></a>
 <a href="atena/README.md"><img src="atena/atena.png" height="100"></a>
 <a href="BANDITS/README.md"><img src="BANDITS/BANDITS.png" height="100"></a>
 <a href="bandle/README.md"><img src="bandle/bandle.png" height="100"></a>
 <a href="BASiCS/README.md"><img src="BASiCS/BASiCS.png" height="100"></a>
 <a href="beadarray/README.md"><img src="beadarray/beadarray.png" height="100"></a>
+<a href="benchdamic/README.md"><img src="benchdamic/benchdamic.png" height="100"></a>
 <a href="bettr/README.md"><img src="bettr/bettr.png" height="100"></a>
 <a href="Biobase/README.md"><img src="Biobase/Biobase.png" height="100"></a>
 <a href="BiocCheck/README.md"><img src="BiocCheck/BiocCheck.png" height="100"></a>
-<a href="BiocManager/README.md"><img src="BiocManager/BiocManager.png" height="100"></a>
 <a href="BiocFileCache/README.md"><img src="BiocFileCache/BiocFileCache.png" height="100"></a>
+<a href="BiocManager/README.md"><img src="BiocManager/BiocManager.png" height="100"></a>
 <a href="Bioconductor/README.md"><img src="Bioconductor/Bioconductor_original.png" height="100"></a>
 <a href="BioCor/README.md"><img src="BioCor/BioCor.png" height="100"></a>
 <a href="BiocParallel/README.md"><img src="BiocParallel/BiocParallel.png" height="100"></a>
@@ -89,9 +93,9 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="FRASER/README.md"><img src="FRASER/FRASER.png" height="100"></a>
 <a href="gDNAx/README.md"><img src="gDNAx/gDNAx.png" height="100"></a>
 <a href="GeneTonic/README.md"><img src="GeneTonic/GeneTonic.png" height="100"></a>
+<a href="genomation/README.md"><img src="genomation/genomation.png" height="100"></a>
 <a href="GenomicRanges/README.md"><img src="GenomicRanges/GenomicRanges.png" height="100"></a>
 <a href="GenomicScores/README.md"><img src="GenomicScores/GenomicScores.png" height="100"></a>
-<a href="genomation/README.md"><img src="genomation/genomation.png" height="100"></a>
 <a href="GEOquery/README.md"><img src="GEOquery/GEOquery.png" height="100"></a>
 <a href="ggspavis/README.md"><img src="ggspavis/ggspavis.png" height="100"></a>
 <a href="ggtree/README.md"><img src="ggtree/ggtree.png" height="100"></a>
@@ -102,6 +106,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="Gviz/README.md"><img src="Gviz/Gviz.png" height="100"></a>
 <a href="HiCDOC/README.md"><img src="HiCDOC/HiCDOC.png" height="100"></a>
 <a href="HiCParser/README.md"><img src="HiCParser/HiCParser.png" height="100"></a>
+<a href="hoodscanR/README.md"><img src="hoodscanR/hoodscanR.png" height="100"></a>
 <a href="HPAanalyze/README.md"><img src="HPAanalyze/HPAanalyze.png" height="100"></a>
 <a href="hypeR/README.md"><img src="hypeR/hypeR.png" height="100"></a>
 <a href="iCOBRA/README.md"><img src="iCOBRA/iCOBRA.png" height="100"></a>
@@ -111,28 +116,30 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="imageTCGA/README.md"><img src="imageTCGA/imageTCGA.png" height="100"></a>
 <a href="imcRtools/README.md"><img src="imcRtools/imcRtools.png" height="100"></a>
 <a href="InterMineR/README.md"><img src="InterMineR/InterMineR.png" height="100"></a>
+<a href="IRanges/README.md"><img src="IRanges/IRanges.png" height="100"></a>
 <a href="iSEE/README.md"><img src="iSEE/iSEE.png" height="100"></a>
 <a href="iSEEu/README.md"><img src="iSEEu/iSEEu.png" height="100"></a>
 <a href="isomiRs/README.md"><img src="isomiRs/isomirs.png" height="100"></a>
-<a href="IRanges/README.md"><img src="IRanges/IRanges.png" height="100"></a>
 <a href="limma/README.md"><img src="limma/limma.png" height="100"></a>
 <a href="LRBaseDbi/README.md"><img src="LRBaseDbi/LRBaseDbi.png" height="100"></a>
 <a href="mastR/README.md"><img src="mastR/mastR.svg" height="100"></a>
 <a href="mbkmeans/README.md"><img src="mbkmeans/mbkmeans.png" height="100"></a>
-<a href="MetaboAnnotation/README.md"><img src="MetaboAnnotation/MetaboAnnotation.png" height="100"></a>
-<a href="MetaboCoreUtils/README.md"><img src="MetaboCoreUtils/MetaboCoreUtils.png" height="100"></a>
 <a href="MeSHDbi/README.md"><img src="MeSHDbi/MeSHDbi.png" height="100"></a>
 <a href="meshr/README.md"><img src="meshr/meshr.png" height="100"></a>
+<a href="MetaboAnnotation/README.md"><img src="MetaboAnnotation/MetaboAnnotation.png" height="100"></a>
+<a href="MetaboCoreUtils/README.md"><img src="MetaboCoreUtils/MetaboCoreUtils.png" height="100"></a>
 <a href="metaSeq/README.md"><img src="metaSeq/metaSeq.png" height="100"></a>
 <a href="methylKit/README.md"><img src="methylKit/methylKit.png" height="100"></a>
 <a href="mia/README.md"><img src="mia/mia.png" height="100"></a>
 <a href="minfi/README.md"><img src="minfi/minfi.png" height="100"></a>
 <a href="missMethyl/README.md"><img src="missMethyl/missMethyl.png" height="100"></a>
-<a href="Modstrings/README.md"><img src="Modstrings/Modstrings.png" height="100"></a>
+<a href="mitology/README.md"><img src="mitology/mitology.png" height="100"></a>
 <a href="MobilityTransformR/README.md"><img src="MobilityTransformR/MobilityTransformR.png" height="100"></a>
+<a href="Modstrings/README.md"><img src="Modstrings/Modstrings.png" height="100"></a>
 <a href="mogsa/README.md"><img src="mogsa/mogsa.png" height="100"></a>
 <a href="MoleculeExperiment/README.md"><img src="MoleculeExperiment/1200_logo.png" height="100"></a>
 <a href="monaLisa/README.md"><img src="monaLisa/monaLisa.png" height="100"></a>
+<a href="MOSClip/README.md"><img src="MOSClip/MOSClip.png" height="100"></a>
 <a href="MotifPeeker/README.md"><img src="MotifPeeker/MotifPeeker.png" height="100"></a>
 <a href="motifTestR/README.md"><img src="motifTestR/motifTestR.png" height="100"></a>
 <a href="MsBackendMassbank/README.md"><img src="MsBackendMassbank/MsBackendMassbank.png" height="100"></a>
@@ -148,6 +155,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="NanoMethViz/README.md"><img src="NanoMethViz/NanoMethViz.png" height="100"></a>
 <a href="ngsReports/README.md"><img src="ngsReports/ngsReports.png" height="100"></a>
 <a href="nullranges/README.md"><img src="nullranges/nullranges.png" height="100"></a>
+<a href="ontoProc/README.md"><img src="ontoProc/ontoProcHex.png" height="100"></a>
 <a href="orthogene/README.md"><img src="orthogene/orthogene.png" height="100"></a>
 <a href="orthos/README.md"><img src="orthos/orthos.png" height="100"></a>
 <a href="OUTRIDER/README.md"><img src="OUTRIDER/OUTRIDER.png" height="100"></a>
@@ -175,28 +183,33 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="rWikiPathways/README.md"><img src="rWikiPathways/rWikiPathways-sticker.png" height="100"></a>
 <a href="satuRn/README.md"><img src="satuRn/satuRn.png" height="100"></a>
 <a href="SC3/README.md"><img src="SC3/SC3.png" height="100"></a>
-<a href="scDD/README.md"><img src="scDD/scDD.png" height="100"></a>
 <a href="scater/README.md"><img src="scater/scater.png" height="100"></a>
+<a href="scDD/README.md"><img src="scDD/scDD.png" height="100"></a>
+<a href="scider/README.md"><img src="scider/scider.png" height="100"></a>
 <a href="scmap/README.md"><img src="scmap/scmap.png" height="100"></a>
 <a href="scPipe/README.md"><img src="scPipe/scPipe.png" height="100"></a>
 <a href="scran/README.md"><img src="scran/scran.png" height="100"></a>
 <a href="scry/README.md"><img src="scry/scry.png" height="100"></a>
-<a href="scTGIF/README.md"><img src="scTGIF/scTGIF.png" height="100"></a>
 <a href="scTensor/README.md"><img src="scTensor/scTensor.png" height="100"></a>
+<a href="scTGIF/README.md"><img src="scTGIF/scTGIF.png" height="100"></a>
+<a href="signifinder/README.md"><img src="signifinder/signifinder.png" height="100"></a>
 <a href="SingleCellExperiment/README.md"><img src="SingleCellExperiment/SingleCellExperiment.png" height="100"></a>
 <a href="SingleCellMultiModal/README.md"><img src="SingleCellMultiModal/SingleCellMultiModal.png" height="100"></a>
 <a href="SingleR/README.md"><img src="SingleR/SingleR_sticker_invert.png" height="100"></a>
 <a href="singscore/README.md"><img src="singscore/singscore.png" height="100"></a>
 <a href="sketchR/README.md"><img src="sketchR/sketchR.png" height="100"></a>
-<a href="sSNAPPY/README.md"><img src="sSNAPPY/sSNAPPY.png" height="100"></a>
 <a href="slingshot/README.md"><img src="slingshot/slingshot.png" height="100"></a>
 <a href="smartid/README.md"><img src="smartid/smartid.svg" height="100"></a>
+<a href="sosta/README.md"><img src="sosta/sosta.svg" height="100"></a>
 <a href="SparseArray/README.md"><img src="SparseArray/SparseArray.png" height="100"></a>
 <a href="SpatialExperiment/README.md"><img src="SpatialExperiment/SpatialExperiment.png" height="100"></a>
 <a href="SpatialExperimentIO/README.md"><img src="SpatialExperimentIO/SpatialExperimentIO.png" height="100"></a>
+<a href="spatialFDA/README.md"><img src="spatialFDA/spatialFDA.png" height="100"></a>
 <a href="Spectra/README.md"><img src="Spectra/Spectra.png" height="100"></a>
 <a href="Splatter/README.md"><img src="Splatter/splatter_monochrome.png" height="100"></a>
+<a href="sSNAPPY/README.md"><img src="sSNAPPY/sSNAPPY.png" height="100"></a>
 <a href="stageR/README.md"><img src="stageR/stageR.png" height="100"></a>
+<a href="standR/README.md"><img src="standR/standR.png" height="100"></a>
 <a href="STexampleData/README.md"><img src="STexampleData/STexampleData.png" height="100"></a>
 <a href="Structstrings/README.md"><img src="Structstrings/Structstrings.png" height="100"></a>
 <a href="SummarizedExperiment/README.md"><img src="SummarizedExperiment/SummarizedExperiment.png" height="100"></a>
@@ -206,26 +219,26 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="tadar/README.md"><img src="tadar/tadar.png" height="100"></a>
 <a href="TaxSEA/README.md"><img src="TaxSEA/TaxSEA.png" height="100"></a>
 <a href="TCGAutils/README.md"><img src="TCGAutils/TCGAutils.png" height="100"></a>
+<a href="tidybulk/README.md"><img src="tidybulk/tidybulk.png" height="100"></a>
+<a href="tidyomics/README.md"><img src="tidyomics/tidyomics.png" height="100"></a>
 <a href="tradeSeq/README.md"><img src="tradeSeq/tradeSeq.png" height="100"></a>
 <a href="transmogR/README.md"><img src="transmogR/transmogR.png" height="100"></a>
 <a href="transomics2cytoscape/README.md"><img src="transomics2cytoscape/transomics2cytoscape.png" height="100"></a>
-<a href="tidybulk/README.md"><img src="tidybulk/tidybulk.png" height="100"></a>
-<a href="tidyomics/README.md"><img src="tidyomics/tidyomics.png" height="100"></a>
 <a href="treeclimbR/README.md"><img src="treeclimbR/treeclimbR.png" height="100"></a>
 <a href="treeio/README.md"><img src="treeio/treeio.png" height="100"></a>
 <a href="tRNA/README.md"><img src="tRNA/tRNA.png" height="100"></a>
+<a href="TVTB/README.md"><img src="TVTB/TVTB.png" height="100"></a>
 <a href="tximeta/README.md"><img src="tximeta/tximeta.png" height="100"></a>
 <a href="tximport/README.md"><img src="tximport/tximport.png" height="100"></a>
-<a href="TVTB/README.md"><img src="TVTB/TVTB.png" height="100"></a>
 <a href="VariantAnnotation/README.md"><img src="VariantAnnotation/VariantAnnotation.png" height="100"></a>
 <a href="velociraptor/README.md"><img src="velociraptor/velociraptor_sticker.png" height="100"></a>
 <a href="vissE/README.md"><img src="vissE/vissE.png" height="100"></a>
+<a href="vmrseq/README.md"><img src="vmrseq/vmrseq.png" height="100"></a>
 <a href="vsn/README.md"><img src="vsn/vsn.png" height="100"></a>
 <a href="vulcan/README.md"><img src="vulcan/vulcan.png" height="100"></a>
 <a href="xcms/README.md"><img src="xcms/xcms_hl.png" height="100"></a>
-<a href="zinbwave/README.md"><img src="zinbwave/zinbwave.png" height="100"></a>
 <a href="zellkonverter/README.md"><img src="zellkonverter/zellkonverter.png" height="100"></a>
-<a href="vmrseq/README.md"><img src="vmrseq/vmrseq.png" height="100"></a>
+<a href="zinbwave/README.md"><img src="zinbwave/zinbwave.png" height="100"></a>
 </p>
 
 ## Stickers for *events*
