@@ -27,6 +27,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="BANDITS/README.md"><img src="BANDITS/BANDITS.png" height="100"></a>
 <a href="bandle/README.md"><img src="bandle/bandle.png" height="100"></a>
 <a href="BASiCS/README.md"><img src="BASiCS/BASiCS.png" height="100"></a>
+<a href="BatChef/README.md"><img src="BatChef/batchef.png" height="100"></a>
 <a href="beadarray/README.md"><img src="beadarray/beadarray.png" height="100"></a>
 <a href="benchdamic/README.md"><img src="benchdamic/benchdamic.png" height="100"></a>
 <a href="bettr/README.md"><img src="bettr/bettr.png" height="100"></a>
