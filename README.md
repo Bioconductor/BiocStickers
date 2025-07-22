@@ -118,6 +118,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="InterMineR/README.md"><img src="InterMineR/InterMineR.png" height="100"></a>
 <a href="IRanges/README.md"><img src="IRanges/IRanges.png" height="100"></a>
 <a href="iSEE/README.md"><img src="iSEE/iSEE.png" height="100"></a>
+<a href="iSEEfier/README.md"><img src="iSEEfier/iSEEfier.png" height="100"></a>
 <a href="iSEEu/README.md"><img src="iSEEu/iSEEu.png" height="100"></a>
 <a href="isomiRs/README.md"><img src="isomiRs/isomirs.png" height="100"></a>
 <a href="limma/README.md"><img src="limma/limma.png" height="100"></a>
