@@ -26,6 +26,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="atena/README.md"><img src="atena/atena.png" height="100"></a>
 <a href="BANDITS/README.md"><img src="BANDITS/BANDITS.png" height="100"></a>
 <a href="bandle/README.md"><img src="bandle/bandle.png" height="100"></a>
+<a href="barbieQ/README.md"><img src="barbieQ/barbieQ.png" height="100"></a>
 <a href="BASiCS/README.md"><img src="BASiCS/BASiCS.png" height="100"></a>
 <a href="beadarray/README.md"><img src="beadarray/beadarray.png" height="100"></a>
 <a href="benchdamic/README.md"><img src="benchdamic/benchdamic.png" height="100"></a>
