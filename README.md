@@ -140,7 +140,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="MobilityTransformR/README.md"><img src="MobilityTransformR/MobilityTransformR.png" height="100"></a>
 <a href="Modstrings/README.md"><img src="Modstrings/Modstrings.png" height="100"></a>
 <a href="mogsa/README.md"><img src="mogsa/mogsa.png" height="100"></a>
-<a href="MoleculeExperiment/README.md"><img src="MoleculeExperiment/1200_logo.png" height="100"></a>
+<a href="MoleculeExperiment/README.md"><img src="MoleculeExperiment/400_pxsinch_logo.png" height="100"></a>
 <a href="monaLisa/README.md"><img src="monaLisa/monaLisa.png" height="100"></a>
 <a href="MOSClip/README.md"><img src="MOSClip/MOSClip.png" height="100"></a>
 <a href="MotifPeeker/README.md"><img src="MotifPeeker/MotifPeeker.png" height="100"></a>
