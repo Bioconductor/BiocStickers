@@ -5,4 +5,4 @@
 * Contributions: [Shila Ghazanfar](https://github.com/shazanfar)
 * License: [CCO](license.md)
 
-<img src="./1200_logo.png" height="200">
+<img src="./400_pxsinch_logo.png" height="200">
