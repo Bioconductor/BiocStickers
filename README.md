@@ -117,7 +117,6 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="illuminaio/README.md"><img src="illuminaio/illuminaio.png" height="100"></a>
 <a href="imageTCGA/README.md"><img src="imageTCGA/imageTCGA.png" height="100"></a>
 <a href="imcRtools/README.md"><img src="imcRtools/imcRtools.png" height="100"></a>
-<a href="InterMineR/README.md"><img src="InterMineR/InterMineR.png" height="100"></a>
 <a href="IRanges/README.md"><img src="IRanges/IRanges.png" height="100"></a>
 <a href="iSEE/README.md"><img src="iSEE/iSEE.png" height="100"></a>
 <a href="iSEEfier/README.md"><img src="iSEEfier/iSEEfier.png" height="100"></a>
@@ -137,7 +136,6 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="minfi/README.md"><img src="minfi/minfi.png" height="100"></a>
 <a href="missMethyl/README.md"><img src="missMethyl/missMethyl.png" height="100"></a>
 <a href="mitology/README.md"><img src="mitology/mitology.png" height="100"></a>
-<a href="MobilityTransformR/README.md"><img src="MobilityTransformR/MobilityTransformR.png" height="100"></a>
 <a href="Modstrings/README.md"><img src="Modstrings/Modstrings.png" height="100"></a>
 <a href="mogsa/README.md"><img src="mogsa/mogsa.png" height="100"></a>
 <a href="MoleculeExperiment/README.md"><img src="MoleculeExperiment/400_pxsinch_logo.png" height="100"></a>
@@ -146,7 +144,9 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="MotifPeeker/README.md"><img src="MotifPeeker/MotifPeeker.png" height="100"></a>
 <a href="motifTestR/README.md"><img src="motifTestR/motifTestR.png" height="100"></a>
 <a href="MsBackendMassbank/README.md"><img src="MsBackendMassbank/MsBackendMassbank.png" height="100"></a>
+<a href="MsBackendMetaboLights/README.md"><img src="MsBackendMetaboLights/MsBackendMetaboLights.png" height="100"></a>
 <a href="MsBackendMgf/README.md"><img src="MsBackendMgf/MsBackendMgf.png" height="100"></a>
+<a href="MsBackendMsp/README.md"><img src="MsBackendMsp/MsBackendMsp.png" height="100"></a>
 <a href="MsBackendSql/README.md"><img src="MsBackendSql/MsBackendSql.png" height="100"></a>
 <a href="MsCoreUtils/README.md"><img src="MsCoreUtils/MsCoreUtils.png" height="100"></a>
 <a href="MsFeatures/README.md"><img src="MsFeatures/MsFeatures.png" height="100"></a>
@@ -208,7 +208,8 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="SpatialExperimentIO/README.md"><img src="SpatialExperimentIO/SpatialExperimentIO.png" height="100"></a>
 <a href="spatialFDA/README.md"><img src="spatialFDA/spatialFDA.png" height="100"></a>
 <a href="Spectra/README.md"><img src="Spectra/Spectra.png" height="100"></a>
-<a href="Splatter/README.md"><img src="Splatter/splatter_monochrome.png" height="100"></a>
+<a href="SpectriPy/README.md"><img src="SpectriPy/SpectriPy.png" height="100"></a>
+<a href="splatter/README.md"><img src="splatter/splatter_monochrome.png" height="100"></a>
 <a href="sSNAPPY/README.md"><img src="sSNAPPY/sSNAPPY.png" height="100"></a>
 <a href="stageR/README.md"><img src="stageR/stageR.png" height="100"></a>
 <a href="standR/README.md"><img src="standR/standR.png" height="100"></a>
