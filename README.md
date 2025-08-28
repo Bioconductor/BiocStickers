@@ -161,6 +161,8 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="ontoProc/README.md"><img src="ontoProc/ontoProcHex.png" height="100"></a>
 <a href="orthogene/README.md"><img src="orthogene/orthogene.png" height="100"></a>
 <a href="orthos/README.md"><img src="orthos/orthos.png" height="100"></a>
+<a href="OSTA.data/README.md"><img src="OSTA.data/OSTA.data.png" height="100"></a>
+<a href="OSTA/README.md"><img src="OSTA/OSTA.png" height="100"></a>
 <a href="OUTRIDER/README.md"><img src="OUTRIDER/OUTRIDER.png" height="100"></a>
 <a href="pcaExplorer/README.md"><img src="pcaExplorer/pcaExplorer.png" height="100"></a>
 <a href="Pedixplorer/README.md"><img src="Pedixplorer/Pedixplorer_logo.png" height="100"></a>
