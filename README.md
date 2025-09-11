@@ -215,6 +215,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="stageR/README.md"><img src="stageR/stageR.png" height="100"></a>
 <a href="standR/README.md"><img src="standR/standR.png" height="100"></a>
 <a href="STexampleData/README.md"><img src="STexampleData/STexampleData.png" height="100"></a>
+<a href="stPipe/README.md"><img src="stPipe/stPipe.png" height="100"></a>
 <a href="Structstrings/README.md"><img src="Structstrings/Structstrings.png" height="100"></a>
 <a href="SummarizedExperiment/README.md"><img src="SummarizedExperiment/SummarizedExperiment.png" height="100"></a>
 <a href="SurfR/README.md"><img src="SurfR/SurfR_logo_inkscape.png" height="100"></a>
