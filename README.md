@@ -121,7 +121,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="iSEE/README.md"><img src="iSEE/iSEE.png" height="100"></a>
 <a href="iSEEfier/README.md"><img src="iSEEfier/iSEEfier.png" height="100"></a>
 <a href="iSEEu/README.md"><img src="iSEEu/iSEEu.png" height="100"></a>
-<a href="IsoBayes/README.md"><img src="IsoBayes/IsoBayes" height="100"></a>
+<a href="IsoBayes/README.md"><img src="IsoBayes/IsoBayes.png" height="100"></a>
 <a href="isomiRs/README.md"><img src="isomiRs/isomirs.png" height="100"></a>
 <a href="limma/README.md"><img src="limma/limma.png" height="100"></a>
 <a href="LRBaseDbi/README.md"><img src="LRBaseDbi/LRBaseDbi.png" height="100"></a>
