@@ -2,8 +2,8 @@
 
 This repository contains stickers for some Bioconductor packages. Fork
 this repo and create a pull request if you would like to add a sticker
-for your package too. Please also add your sticker to the main REAMDE file
-(ordered alphabetically). Please limite the sticker file size(s) to 500KB.
+for your package too. Please also add your sticker to the main README file
+(ordered alphabetically). Please limit the sticker file size(s) to 500KB.
 
 If you would like to modify existing ones,
 please open an issue and discuss changes with the sticker maintainer.
@@ -121,6 +121,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="iSEE/README.md"><img src="iSEE/iSEE.png" height="100"></a>
 <a href="iSEEfier/README.md"><img src="iSEEfier/iSEEfier.png" height="100"></a>
 <a href="iSEEu/README.md"><img src="iSEEu/iSEEu.png" height="100"></a>
+<a href="IsoBayes/README.md"><img src="IsoBayes/IsoBayes.png" height="100"></a>
 <a href="isomiRs/README.md"><img src="isomiRs/isomirs.png" height="100"></a>
 <a href="limma/README.md"><img src="limma/limma.png" height="100"></a>
 <a href="LRBaseDbi/README.md"><img src="LRBaseDbi/LRBaseDbi.png" height="100"></a>
@@ -171,6 +172,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="pRoloc/README.md"><img src="pRoloc/pRoloc.png" height="100"></a>
 <a href="pRoloc/README.md"><img src="pRoloc/pRolocdata.png" height="100"></a>
 <a href="pRoloc/README.md"><img src="pRoloc/pRolocGUI.png" height="100"></a>
+<a href="PSMatch/README.md"><img src="PSMatch/PSMatch.png" height="100"></a>
 <a href="QuasR/README.md"><img src="QuasR/QuasR.png" height="100"></a>
 <a href="RaggedExperiment/README.md"><img src="RaggedExperiment/RaggedExperiment.png" height="100"></a>
 <a href="rawrr/README.md"><img src="rawrr/rawrr.png" height="100"></a>
@@ -216,6 +218,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="stageR/README.md"><img src="stageR/stageR.png" height="100"></a>
 <a href="standR/README.md"><img src="standR/standR.png" height="100"></a>
 <a href="STexampleData/README.md"><img src="STexampleData/STexampleData.png" height="100"></a>
+<a href="stPipe/README.md"><img src="stPipe/stPipe.png" height="100"></a>
 <a href="Structstrings/README.md"><img src="Structstrings/Structstrings.png" height="100"></a>
 <a href="SummarizedExperiment/README.md"><img src="SummarizedExperiment/SummarizedExperiment.png" height="100"></a>
 <a href="SurfR/README.md"><img src="SurfR/SurfR_logo_inkscape.png" height="100"></a>
