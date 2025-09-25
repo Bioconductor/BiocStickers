@@ -5,6 +5,8 @@ on:
   pull_request:
     branches:
       - 'devel'
+    paths:
+      - '**.svg'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -28,14 +30,24 @@ jobs:
         with:
           packages: any::xml2
 
+
+      - name: Get changed svg files
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        id: changed-svg
+        run: echo "CHANGED=$(gh pr diff $PR_NUMBER --name-only | grep '\.svg$' | tr '\n' ';')" >> $GITHUB_OUTPUT
+
+
       - name: Check if svg contains text
+        env:
+          CHANGED_SVG_FILES: ${{ steps.changed-svg.outputs.CHANGED }}
         shell: Rscript {0}
         run: |
-          svg_logos <- list.files(
-            pattern = "\\.svg$",
-            recursive = TRUE,
-            full.names = TRUE
-          )
+          svg_logos <- Sys.getenv("CHANGED_SVG_FILES") |>
+            strsplit(";", fixed = TRUE) |>
+            unlist() |>
+            trimws()
           res <- svg_logos |>
             lapply(function(x) {
               xml2::read_xml(x) |>
