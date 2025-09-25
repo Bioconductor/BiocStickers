@@ -1,0 +1,52 @@
+name: check-svg-text
+
+on:
+  workflow_dispatch:
+  pull_request:
+    branches:
+      - 'devel'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check-logo-text:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout repos
+        uses: actions/checkout@v5
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: any::xml2
+
+      - name: Check if svg contains text
+        shell: Rscript {0}
+        run: |
+          svg_logos <- list.files(
+            pattern = "\\.svg$",
+            recursive = TRUE,
+            full.names = TRUE
+          )
+          res <- svg_logos |>
+            lapply(function(x) {
+              xml2::read_xml(x) |>
+                xml2::xml_find_all("//*[starts-with(local-name(), 'text')]")
+            })
+          if (any(lengths(res) >= 1)) {
+            stop(
+              "You are adding logos that contain text. ",
+              "All text should be converted to outline. ",
+              "Problematic logos:\n  ",
+              paste(svg_logos[lengths(res) >= 1], collapse = "\n  "),
+              call. = FALSE
+            )
+          }
