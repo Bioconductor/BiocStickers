@@ -171,6 +171,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="pRoloc/README.md"><img src="pRoloc/pRolocdata.png" height="100"></a>
 <a href="pRoloc/README.md"><img src="pRoloc/pRolocGUI.png" height="100"></a>
 <a href="PSMatch/README.md"><img src="PSMatch/PSMatch.png" height="100"></a>
+<a href="PTMods/README.md"><img src="PTMods/PTMods.png" height="100"></a>
 <a href="QuasR/README.md"><img src="QuasR/QuasR.png" height="100"></a>
 <a href="RaggedExperiment/README.md"><img src="RaggedExperiment/RaggedExperiment.png" height="100"></a>
 <a href="rawrr/README.md"><img src="rawrr/rawrr.png" height="100"></a>
