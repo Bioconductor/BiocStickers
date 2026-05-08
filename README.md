@@ -92,6 +92,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="fedup/README.md"><img src="fedup/fedup.png" height="100"></a>
 <a href="fishpond/README.md"><img src="fishpond/fishpond.png" height="100"></a>
 <a href="FLAMES/README.md"><img src="FLAMES/FLAMES.png" height="100"></a>
+<a href="fourSynergy/README.md"><img src="fourSynergy/fourSynergy_logo.png" height="100"></a>
 <a href="FRASER/README.md"><img src="FRASER/FRASER.png" height="100"></a>
 <a href="gDNAx/README.md"><img src="gDNAx/gDNAx.png" height="100"></a>
 <a href="GeneTonic/README.md"><img src="GeneTonic/GeneTonic.png" height="100"></a>
