@@ -6,4 +6,4 @@
     
 License: Creative Commons Attribution CC-BY. 
 
-<img src=fourSynergy_logo.png height="200">
+<img src=fourSynergy.png height="200">
