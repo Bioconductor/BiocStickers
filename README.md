@@ -48,6 +48,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="CellBench/README.md"><img src="CellBench/CellBench.png" height="100"></a>
 <a href="celldex/README.md"><img src="celldex/celldex_sticker.png" height="100"></a>
 <a href="ChIPseeker/README.md"><img src="ChIPseeker/ChIPseeker.png" height="100"></a>
+<a href="Chromatograms/README.md"><img src="Chromatograms/Chromatograms.png" height="100"></a>
 <a href="cleaver/README.md"><img src="cleaver/cleaver.png" height="100"></a>
 <a href="clusterProfiler/README.md"><img src="clusterProfiler/clusterProfiler.png" height="100"></a>
 <a href="CNVRanger/README.md"><img src="CNVRanger/CNVRanger.png" height="100"></a>
@@ -92,6 +93,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="fedup/README.md"><img src="fedup/fedup.png" height="100"></a>
 <a href="fishpond/README.md"><img src="fishpond/fishpond.png" height="100"></a>
 <a href="FLAMES/README.md"><img src="FLAMES/FLAMES.png" height="100"></a>
+<a href="fourSynergy/README.md"><img src="fourSynergy/fourSynergy.png" height="100"></a>
 <a href="FRASER/README.md"><img src="FRASER/FRASER.png" height="100"></a>
 <a href="gDNAx/README.md"><img src="gDNAx/gDNAx.png" height="100"></a>
 <a href="GeneTonic/README.md"><img src="GeneTonic/GeneTonic.png" height="100"></a>
@@ -173,6 +175,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="pRoloc/README.md"><img src="pRoloc/pRolocdata.png" height="100"></a>
 <a href="pRoloc/README.md"><img src="pRoloc/pRolocGUI.png" height="100"></a>
 <a href="PSMatch/README.md"><img src="PSMatch/PSMatch.png" height="100"></a>
+<a href="PTMods/README.md"><img src="PTMods/PTMods.png" height="100"></a>
 <a href="QuasR/README.md"><img src="QuasR/QuasR.png" height="100"></a>
 <a href="RaggedExperiment/README.md"><img src="RaggedExperiment/RaggedExperiment.png" height="100"></a>
 <a href="rawrr/README.md"><img src="rawrr/rawrr.png" height="100"></a>
@@ -290,6 +293,7 @@ Stickers for some of the Bioconductor events.
 <a href="events/CSAMA/2025/README.md"><img src="events/CSAMA/2025/CSAMA2025.png" height="100"></a>
 <a href="events/EuroBioc2025/README.md"><img src="events/EuroBioc2025/EuroBioC2025.png" height="100"></a>
 <a href="events/BiocAsia2025/README.md"><img src="events/BiocAsia2025/biocasia-2025.png" height="100"></a>
+<a href="events/BiocLatamSeminars/README.md"><img src="events/BiocLatamSeminars/BiocLATAMSeminars_sticker.png" height="100"></a>
 </p>
 
 ## Diversity-affirming stickers
