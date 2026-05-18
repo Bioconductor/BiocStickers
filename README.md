@@ -216,7 +216,9 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="spatialFDA/README.md"><img src="spatialFDA/spatialFDA.png" height="100"></a>
 <a href="Spectra/README.md"><img src="Spectra/Spectra.png" height="100"></a>
 <a href="SpectriPy/README.md"><img src="SpectriPy/SpectriPy.png" height="100"></a>
-<a href="splatter/README.md"><img src="splatter/splatter_monochrome.png" height="100"></a>
+<a href="splatter/README.md"><img src="splatter/splatter_monochrome.png"
+height="100"></a>
+<a href="splicelogic/README.md"><img src="splicelogic/splicelogic.png" height="100"></a>
 <a href="sSNAPPY/README.md"><img src="sSNAPPY/sSNAPPY.png" height="100"></a>
 <a href="stageR/README.md"><img src="stageR/stageR.png" height="100"></a>
 <a href="standR/README.md"><img src="standR/standR.png" height="100"></a>
