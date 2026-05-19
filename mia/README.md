@@ -1,6 +1,6 @@
 # The `mia` package sticker
 
-* Maintainers: [Tuomas Borman](https://github.com/TuomasBorman) and [Daena Rys](https://github.com/Daenarys8/)
+* Maintainers: [Tuomas Borman](https://github.com/TuomasBorman) and [Muluh](https://github.com/0xMuluh)
 
 <img src=mia.png height="200">
 
