@@ -6,4 +6,4 @@
 
 <img src=Coralysis.png height="200">
 
-License: License: Creative Commons Attribution [CC-BY](https://creativecommons.org/licenses/by/2.0/). eel free to share and adapt, but don't forget to credit the author.
+License: Creative Commons Attribution [CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to share and adapt, but don't forget to credit the author.
