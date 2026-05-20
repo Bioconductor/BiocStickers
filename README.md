@@ -54,6 +54,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="CNVRanger/README.md"><img src="CNVRanger/CNVRanger.png" height="100"></a>
 <a href="CompoundDb/README.md"><img src="CompoundDb/CompoundDb.png" height="100"></a>
 <a href="consensus/README.md"><img src="consensus/consensus.png" height="100"></a>
+<a href="Coralysis/README.md"><img src="Coralysis/Coralysis.png" height="100"></a>
 <a href="coRdon/README.md"><img src="coRdon/coRdon.png" height="100"></a>
 <a href="corral/README.md"><img src="corral/corral_sticker.png" height="100"></a>
 <a href="countsimQC/README.md"><img src="countsimQC/countsimQC.png" height="100"></a>
