@@ -185,6 +185,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="regsplice/README.md"><img src="regsplice/regsplice.png" height="100"></a>
 <a href="rhdf5/README.md"><img src="rhdf5/rhdf5.png" height="100"></a>
 <a href="RNAmodR/README.md"><img src="RNAmodR/RNAmodR.png" height="100"></a>
+<a href="ROTS/README.md"><img src="ROTS/ROTS.png" height="100"></a>
 <a href="Rsamtools/README.md"><img src="Rsamtools/Rsamtools.png" height="100"></a>
 <a href="Rsubread/README.md"><img src="Rsubread/Rsubread.png" height="100"></a>
 <a href="RUVcorr/README.md"><img src="RUVcorr/RUVcorr.png" height="100"></a>
