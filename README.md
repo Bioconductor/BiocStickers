@@ -42,6 +42,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="BiocStyle/README.md"><img src="BiocStyle/BiocStyle.png" height="100"></a>
 <a href="biomaRt/README.md"><img src="biomaRt/biomaRt.png" height="100"></a>
 <a href="Biostrings/README.md"><img src="Biostrings/Biostrings.png" height="100"></a>
+<a href="broadSeq/README.md"><img src="broadSeq/broadSeq.png" height="100"></a>
 <a href="bsseq/README.md"><img src="bsseq/bsseq.png" height="100"></a>
 <a href="CATALYST/README.md"><img src="CATALYST/CATALYST.png" height="100"></a>
 <a href="CatsCradle/README.md"><img src="CatsCradle/CatsCradle.png" height="100"></a>
@@ -65,7 +66,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="dearseq/README.md"><img src="dearseq/dearseq.png" height="100"></a>
 <a href="DEGreport/README.md"><img src="DEGreport/degreport.png" height="100"></a>
 <a href="DelayedTensor/README.md"><img src="DelayedTensor/DelayedTensor.png" height="100"></a>
-<a href="DELocal/README.md"><img src="DELocal/DELocal.png" height="100"></a>
+<a href="DELocal/README.md"><img src="DELocal/DelayedTensor.png" height="100"></a>
 <a href="demuxSNP/README.md"><img src="demuxSNP/demuxSNP.png" height="100"></a>
 <a href="DEScan2/README.md"><img src="DEScan2/DEScan2.png" height="100"></a>
 <a href="DESeq2/README.md"><img src="DESeq2/DESeq2.png" height="100"></a>
