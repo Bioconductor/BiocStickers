@@ -5,3 +5,5 @@
 - Sticker maintainer: Sophie Wind
 
 License: Creative Commons Attribution CC-BY.
+
+<img src=scafari.png height="200">
