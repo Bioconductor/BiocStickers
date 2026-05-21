@@ -109,6 +109,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="ggtree/README.md"><img src="ggtree/ggtree.png" height="100"></a>
 <a href="gINTomics/README.md"><img src="gINTomics/gINTomics.png" height="100"></a>
 <a href="Glimma/README.md"><img src="Glimma/Glimma.png" height="100"></a>
+<a href="GOaGO/README.md"><img src="GOaGO/GOaGO.png" height="100"></a>
 <a href="GOexpress/README.md"><img src="GOexpress/GOexpress.png" height="100"></a>
 <a href="GSVA/README.md"><img src="GSVA/GSVA.png" height="100"></a>
 <a href="Gviz/README.md"><img src="Gviz/Gviz.png" height="100"></a>
