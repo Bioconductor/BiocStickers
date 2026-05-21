@@ -201,7 +201,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="scPipe/README.md"><img src="scPipe/scPipe.png" height="100"></a>
 <a href="scran/README.md"><img src="scran/scran.png" height="100"></a>
 <a href="scry/README.md"><img src="scry/scry.png" height="100"></a>
-<a href="seqpac/README.md"><img src="seqpac/Seqpac_sticker.png" height="100"></a>  
+<a href="seqpac/README.md"><img src="seqpac/seqpac.png" height="100"></a>  
 <a href="scTensor/README.md"><img src="scTensor/scTensor.png" height="100"></a>
 <a href="scTGIF/README.md"><img src="scTGIF/scTGIF.png" height="100"></a>
 <a href="signifinder/README.md"><img src="signifinder/signifinder.png" height="100"></a>
