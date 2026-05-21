@@ -7,4 +7,4 @@
 share and adapt, but don't forget to credit the author.
 License: Creative Commons Attribution [CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to share and adapt, but don't forget to credit the author.
 
-<img src=Seqpac_sticker.png height="200">
+<img src=seqpac.png height="200">
