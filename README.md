@@ -128,6 +128,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="isomiRs/README.md"><img src="isomiRs/isomirs.png" height="100"></a>
 <a href="limma/README.md"><img src="limma/limma.png" height="100"></a>
 <a href="LRBaseDbi/README.md"><img src="LRBaseDbi/LRBaseDbi.png" height="100"></a>
+<a href="markeR/README.md"><img src="markeR/markeR.png" height="100"></a>
 <a href="mastR/README.md"><img src="mastR/mastR.svg" height="100"></a>
 <a href="mbkmeans/README.md"><img src="mbkmeans/mbkmeans.png" height="100"></a>
 <a href="MeSHDbi/README.md"><img src="MeSHDbi/MeSHDbi.png" height="100"></a>
