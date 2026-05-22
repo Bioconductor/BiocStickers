@@ -122,7 +122,9 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="ideal/README.md"><img src="ideal/ideal.png" height="100"></a>
 <a href="IHW/README.md"><img src="IHW/IHW.png" height="100"></a>
 <a href="illuminaio/README.md"><img src="illuminaio/illuminaio.png" height="100"></a>
+<a href="imageFeatureTCGA/README.md"><img src="imageFeatureTCGA/imageFeatureTCGA.png" height="100"></a>
 <a href="imageTCGA/README.md"><img src="imageTCGA/imageTCGA.png" height="100"></a>
+<a href="imageTCGAutils/README.md"><img src="imageTCGAutils/imageTCGAutils.png" height="100"></a>
 <a href="imcRtools/README.md"><img src="imcRtools/imcRtools.png" height="100"></a>
 <a href="IRanges/README.md"><img src="IRanges/IRanges.png" height="100"></a>
 <a href="iscream/README.md"><img src="iscream/iscream.png" height="100"></a>
