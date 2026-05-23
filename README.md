@@ -352,7 +352,7 @@ to design your stickers manually in `Illustrator`.
   would be a sensible choice here. Otherwise, CC0 applies (see below).
 + The height of the final png should be 5cm, resolution should be at least
   300dpi.
-+ Ensure the sticker artwork fills most of the PNG canvas and avoid large transparent 
++ Ensure the sticker artwork fills most of the image canvas and avoid large transparent 
   margins around the hex shape, as this can cause stickers to appear very small 
   (e.g. in the hexwall display).
 + The area outside the hex should be transparent.
