@@ -310,6 +310,7 @@ Stickers for some of the Bioconductor events.
 <a href="events/BiocLatamSeminars/README.md"><img src="events/BiocLatamSeminars/BiocLATAMSeminars_sticker.png" height="100"></a>
 <a href="events/EuroBioc2026/README.md"><img src="events/EuroBioc2026/EuroBioC2026.png" height="100"></a>
 <a href="events/Bioc2026/README.md"><img src="events/Bioc2026/BioC2026.png" height="100"></a>
+<a href="events/BiocAsia2026/README.md"><img src="events/BiocAsia2026/BiocAsia_2026.png" height="100"></a>
 </p>
 <a href="events/BiocAfrica/README.md"><img src="events/BiocAfrica/BiocAfrica.png" height="100"></a>
 </p>
