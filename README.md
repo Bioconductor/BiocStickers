@@ -39,7 +39,6 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="BioCor/README.md"><img src="BioCor/BioCor.png" height="100"></a>
 <a href="BiocParallel/README.md"><img src="BiocParallel/BiocParallel.png" height="100"></a>
 <a href="BiocPkgTools/README.md"><img src="BiocPkgTools/BiocPkgTools.png" height="100"></a>
-<a href="BiocStaging/README.md"><img src="BiocStaging/BiocStaging.png" height="100"></a>
 <a href="BiocStyle/README.md"><img src="BiocStyle/BiocStyle.png" height="100"></a>
 <a href="biomaRt/README.md"><img src="biomaRt/biomaRt.png" height="100"></a>
 <a href="Biostrings/README.md"><img src="Biostrings/Biostrings.png" height="100"></a>
@@ -331,6 +330,7 @@ Stickers for some of the Bioconductor events.
 <a href="boards/CAB/README.md"><img src="boards/CAB/CAB.png" height="100"></a>
 <a href="boards/TAB/README.md"><img src="boards/TAB/TAB.png" height="100"></a>
 <a href="boards/EuroBioC/README.md"><img src="boards/EuroBioC/EuroBioC.png" height="100"></a>
+<a href="BiocStaging/README.md"><img src="BiocStaging/BiocStaging.png" height="100"></a>
 
 
 # Sticker development guidelines
