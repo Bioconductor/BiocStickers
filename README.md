@@ -309,12 +309,14 @@ Stickers for some of the Bioconductor events.
 <a href="events/BiocAsia2025/README.md"><img src="events/BiocAsia2025/biocasia-2025.png" height="100"></a>
 <a href="events/BiocLatamSeminars/README.md"><img src="events/BiocLatamSeminars/BiocLATAMSeminars_sticker.png" height="100"></a>
 <a href="events/EuroBioc2026/README.md"><img src="events/EuroBioc2026/EuroBioC2026.png" height="100"></a>
+<a href="events/EuroBioc2026/README.md"><img src="events/EuroBioc2026/EuroBioC2026_alt.png" height="100"></a>
 <a href="events/Bioc2026/README.md"><img src="events/Bioc2026/BioC2026.png" height="100"></a>
 <a href="events/BiocAsia2026/README.md"><img src="events/BiocAsia2026/BiocAsia_2026.png" height="100"></a>
 </p>
 <a href="events/BiocAfrica/README.md"><img src="events/BiocAfrica/BiocAfrica.png" height="100"></a>
 </p>
 <a href="events/BiocAfricaSeminars/README.md"><img src="events/BiocAfricaSeminars/BiocAfricaSeminars2026.png" height="100"></a>
+<a href="Bioconductor/BioC25th/README.md"><img src="Bioconductor/BioC25th/BioC25th.png" height="100"></a>
 </p>
 
 ## Diversity-affirming stickers
