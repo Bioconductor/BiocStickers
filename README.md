@@ -332,6 +332,7 @@ Stickers for some of the Bioconductor events.
 <a href="boards/CAB/README.md"><img src="boards/CAB/CAB.png" height="100"></a>
 <a href="boards/TAB/README.md"><img src="boards/TAB/TAB.png" height="100"></a>
 <a href="boards/EuroBioC/README.md"><img src="boards/EuroBioC/EuroBioC.png" height="100"></a>
+<a href="BiocStaging/README.md"><img src="BiocStaging/BiocStaging.png" height="100"></a>
 
 
 # Sticker development guidelines
