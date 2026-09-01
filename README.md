@@ -164,6 +164,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="MsFeatures/README.md"><img src="MsFeatures/MsFeatures.png" height="100"></a>
 <a href="MSnbase/README.md"><img src="MSnbase/MSnbase.png" height="100"></a>
 <a href="mspms/README.md"><img src="mspms/mspms_logo.png" height="100"></a>
+<a href="MsStash/README.md"><img src="MsStash/MsStash.png" height="100"></a>
 <a href="MultiAssayExperiment/README.md"><img src="MultiAssayExperiment/MultiAssayExperiment.png" height="100"></a>
 <a href="muscat/README.md"><img src="muscat/muscat.png" height="100"></a>
 <a href="mzR/README.md"><img src="mzR/mzR_hl.png" height="100"></a>
