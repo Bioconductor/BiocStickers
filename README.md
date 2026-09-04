@@ -156,7 +156,9 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="MotifPeeker/README.md"><img src="MotifPeeker/MotifPeeker.png" height="100"></a>
 <a href="motifTestR/README.md"><img src="motifTestR/motifTestR.png" height="100"></a>
 <a href="MsBackendMassbank/README.md"><img src="MsBackendMassbank/MsBackendMassbank.png" height="100"></a>
+<a href="MsBackendMassIVE/README.md"><img src="MsBackendMassIVE/MsBackendMassIVE.png" height="100"></a>
 <a href="MsBackendMetaboLights/README.md"><img src="MsBackendMetaboLights/MsBackendMetaboLights.png" height="100"></a>
+<a href="MsBackendMetabolomicsWorkbench/README.md"><img src="MsBackendMetabolomicsWorkbench/MsBackendMetabolomicsWorkbench.png" height="100"></a>
 <a href="MsBackendMgf/README.md"><img src="MsBackendMgf/MsBackendMgf.png" height="100"></a>
 <a href="MsBackendMsp/README.md"><img src="MsBackendMsp/MsBackendMsp.png" height="100"></a>
 <a href="MsBackendSql/README.md"><img src="MsBackendSql/MsBackendSql.png" height="100"></a>
@@ -211,7 +213,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="scPipe/README.md"><img src="scPipe/scPipe.png" height="100"></a>
 <a href="scran/README.md"><img src="scran/scran.png" height="100"></a>
 <a href="scry/README.md"><img src="scry/scry.png" height="100"></a>
-<a href="seqpac/README.md"><img src="seqpac/seqpac.png" height="100"></a>  
+<a href="seqpac/README.md"><img src="seqpac/seqpac.png" height="100"></a>
 <a href="scTensor/README.md"><img src="scTensor/scTensor.png" height="100"></a>
 <a href="scTGIF/README.md"><img src="scTGIF/scTGIF.png" height="100"></a>
 <a href="signifinder/README.md"><img src="signifinder/signifinder.png" height="100"></a>
@@ -357,8 +359,8 @@ to design your stickers manually in `Illustrator`.
   would be a sensible choice here. Otherwise, CC0 applies (see below).
 + The height of the final png should be 5cm, resolution should be at least
   300dpi.
-+ Ensure the sticker artwork fills most of the image canvas and avoid large transparent 
-  margins around the hex shape, as this can cause stickers to appear very small 
++ Ensure the sticker artwork fills most of the image canvas and avoid large transparent
+  margins around the hex shape, as this can cause stickers to appear very small
   (e.g. in the hexwall display).
 + The area outside the hex should be transparent.
 + While it is not mandatory, it is suggested to use the *Aller* font for the
