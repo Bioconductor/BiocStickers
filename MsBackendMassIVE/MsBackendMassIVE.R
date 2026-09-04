@@ -45,31 +45,11 @@ img <- readPNG("drawings/MassIVE-hero-bw.png")
 img <- rasterGrob(img, width = 1.6, x = 0.5, y = 0.5,
                        interpolate = TRUE)
 
-## Color definition from https://flatuicolors.com/palette/us
-## #6c5ce7 exodus fruit; darker purple
-## #a29bfe shy moment; light purple
-## #b2bec3 soothing ... ; greyisch
-## #dfe6e9 city ; light grey
-
-## Color definition from https://flatuicolors.com/palette/ca
-## #341f97 bluebell; darkish purple
-## #5f27cd nasu purple; lighter purple
-## #8395a7 storm petrel; greyisch
-
-## Color definition from https://flatuicolors.com/palette/fr
-## #0c2461 dark sapphire
-## #1e3799 ... blue
-##
-
 ## Manually define...
 col_dark = "#0c2461"
 col_middle = "#1e3799"
 col_light = "#8395a7"
 col_bg = "#ffffff"
-
-## MsBackendMetaboLights
-ml_col_dark = "#0b568b"
-ml_col_middle = "#e29d3c"
 
 ## MassIVE header colors
 col_dark = "#333399"
@@ -118,12 +98,12 @@ hex <- ggplot() +
     hex_segment2(linewidth = 0, fill = paste0(col_dark, "ec"), # bottom right
                  from_radius = 0.9, to_radius = 1,
                  from_angle = 270, to_angle = 330) +
-    
+
     geom_subview(subview = img, x = 1.0, y = 0.93,
                  width = 0.95, height = 0.95) +
     ## font size for linux: 6.5, macOS
     geom_url("www.bioconductor.org", x = 0.98, y = 0.17,
-             color = col_dark, size = 6.5, family = font_text) + 
+             color = col_dark, size = 6.5, family = font_text) +
     theme_sticker()
 save_sticker(filename = "MsBackendMassIVE.png", hex)
 
