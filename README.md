@@ -195,6 +195,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="RCy3/README.md"><img src="RCy3/RCy3_sticker.png" height="100"></a>
 <a href="regsplice/README.md"><img src="regsplice/regsplice.png" height="100"></a>
 <a href="rhdf5/README.md"><img src="rhdf5/rhdf5.png" height="100"></a>
+<a href="RmzTabM/README.md"><img src="RmzTabM/RmzTabM.png" height="100"></a>
 <a href="RNAmodR/README.md"><img src="RNAmodR/RNAmodR.png" height="100"></a>
 <a href="ROTS/README.md"><img src="ROTS/ROTS.png" height="100"></a>
 <a href="Rsamtools/README.md"><img src="Rsamtools/Rsamtools.png" height="100"></a>
@@ -230,9 +231,9 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="SpatialExperimentIO/README.md"><img src="SpatialExperimentIO/SpatialExperimentIO.png" height="100"></a>
 <a href="spatialFDA/README.md"><img src="spatialFDA/spatialFDA.png" height="100"></a>
 <a href="Spectra/README.md"><img src="Spectra/Spectra.png" height="100"></a>
+<a href="SpectraStash/README.md"><img src="SpectraStash/SpectraStash.png" height="100"></a>
 <a href="SpectriPy/README.md"><img src="SpectriPy/SpectriPy.png" height="100"></a>
-<a href="splatter/README.md"><img src="splatter/splatter_monochrome.png"
-height="100"></a>
+<a href="splatter/README.md"><img src="splatter/splatter_monochrome.png" height="100"></a>
 <a href="splicelogic/README.md"><img src="splicelogic/splicelogic.png" height="100"></a>
 <a href="sSNAPPY/README.md"><img src="sSNAPPY/sSNAPPY.png" height="100"></a>
 <a href="stageR/README.md"><img src="stageR/stageR.png" height="100"></a>
