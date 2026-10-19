@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<svg viewBox="0 0 460 530" width="460" height="530" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <filter id="blurSoft" x="-60%" y="-60%" width="220%" height="220%">
+        <feGaussianBlur stdDeviation="9"></feGaussianBlur>
+      </filter>
+      <filter id="blurGlow" x="-80%" y="-80%" width="260%" height="260%">
+        <feGaussianBlur stdDeviation="6"></feGaussianBlur>
+      </filter>
+      <filter id="blurDust" x="-80%" y="-80%" width="260%" height="260%">
+        <feGaussianBlur stdDeviation="11"></feGaussianBlur>
+      </filter>
+      <radialGradient id="nebulaCore" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#e8c95a" stop-opacity="1"></stop>
+        <stop offset="55%" stop-color="#e8c95a" stop-opacity="0.9"></stop>
+        <stop offset="100%" stop-color="#e8c95a" stop-opacity="0"></stop>
+      </radialGradient>
+      <radialGradient id="nebulaHaze" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#2f8a5b" stop-opacity="1"></stop>
+        <stop offset="55%" stop-color="#2f8a5b" stop-opacity="0.8"></stop>
+        <stop offset="100%" stop-color="#2f8a5b" stop-opacity="0"></stop>
+      </radialGradient>
+    </defs>
+
+    <polygon points="230,15 13.5,140 13.5,390 230,515 446.5,390 446.5,140" fill="#e8c95a"></polygon>
+    <polygon points="230,29 25.6,147 25.6,383 230,501 434.4,383 434.4,147" fill="#123524"></polygon>
+
+    <clipPath id="innerHex">
+      <polygon points="230,29 25.6,147 25.6,383 230,501 434.4,383 434.4,147"></polygon>
+    </clipPath>
+
+    <g clip-path="url(#innerHex)">
+      <g stroke="#ffffff" stroke-opacity="0.07" stroke-width="1.5">
+        <line x1="150" y1="230" x2="150" y2="400"></line>
+        <line x1="230" y1="215" x2="230" y2="410"></line>
+        <line x1="310" y1="230" x2="310" y2="400"></line>
+        <line x1="130" y1="270" x2="330" y2="270"></line>
+        <line x1="120" y1="330" x2="340" y2="330"></line>
+      </g>
+
+      <g fill="#ffffff">
+        <circle cx="70" cy="190" r="1.4" opacity="0.5"></circle>
+        <circle cx="120" cy="165" r="1" opacity="0.35"></circle>
+        <circle cx="355" cy="185" r="1.4" opacity="0.5"></circle>
+        <circle cx="400" cy="230" r="1" opacity="0.35"></circle>
+        <circle cx="60" cy="330" r="1.2" opacity="0.4"></circle>
+        <circle cx="390" cy="345" r="1.4" opacity="0.5"></circle>
+        <circle cx="330" cy="415" r="1" opacity="0.35"></circle>
+        <circle cx="150" cy="430" r="1.2" opacity="0.4"></circle>
+      </g>
+
+      <g transform="translate(230,310) scale(1.32)">
+        <g filter="url(#blurGlow)">
+          <ellipse cx="-25" cy="-8" rx="132" ry="98" transform="rotate(-18 -25 -8)" fill="url(#nebulaHaze)" opacity="1"></ellipse>
+          <ellipse cx="34" cy="20" rx="98" ry="76" transform="rotate(22 34 20)" fill="url(#nebulaCore)" opacity="1"></ellipse>
+          <ellipse cx="-48" cy="26" rx="72" ry="56" transform="rotate(8 -48 26)" fill="url(#nebulaHaze)" opacity="0.9"></ellipse>
+          <ellipse cx="18" cy="0" rx="48" ry="38" fill="url(#nebulaCore)" opacity="1"></ellipse>
+        </g>
+        <g transform="translate(38,-42)" filter="url(#blurDust)">
+          <path d="M -122,-66 C -86,-104 -25,-82 9,-56 C 45,-32 32,11 57,32 C 82,54 66,93 20,84 C -14,104 -61,77 -82,43 C -118,20 -145,-20 -122,-66 Z" fill="#1c1a24" opacity="0.58"></path>
+        </g>
+        <g transform="translate(20,10)" filter="url(#blurGlow)">
+          <path d="M -57,45 C -34,23 11,28 40,51 C 62,68 51,90 17,88 C -23,99 -68,74 -57,45 Z" fill="#1c1a24" opacity="0.32"></path>
+        </g>
+        <g transform="translate(38,-42)" filter="url(#blurSoft)" opacity="0.35">
+          <path d="M -122,-66 C -86,-104 -25,-82 9,-56 C 45,-32 32,11 57,32 C 82,54 66,93 20,84 C -14,104 -61,77 -82,43 C -118,20 -145,-20 -122,-66 Z" fill="none" stroke="#e8c95a" stroke-width="3"></path>
+        </g>
+
+        <circle cx="-72" cy="-38" r="4.5" fill="#ffffff" opacity="0.9"></circle>
+        <circle cx="-38" cy="-52" r="3" fill="#ffffff" opacity="0.6"></circle>
+        <circle cx="-4" cy="-46" r="5.5" fill="#ffffff" opacity="0.95"></circle>
+        <circle cx="30" cy="-54" r="3.5" fill="#ffffff" opacity="0.65"></circle>
+        <circle cx="64" cy="-34" r="4" fill="#ffffff" opacity="0.8"></circle>
+        <circle cx="-84" cy="4" r="3" fill="#ffffff" opacity="0.55"></circle>
+        <circle cx="-46" cy="0" r="6" fill="#ffffff" opacity="0.95"></circle>
+        <circle cx="2" cy="6" r="7" fill="#ffffff" opacity="1"></circle>
+        <circle cx="44" cy="2" r="5" fill="#ffffff" opacity="0.85"></circle>
+        <circle cx="80" cy="10" r="3.5" fill="#ffffff" opacity="0.6"></circle>
+        <circle cx="-64" cy="42" r="3.5" fill="#ffffff" opacity="0.6"></circle>
+        <circle cx="-24" cy="48" r="5" fill="#ffffff" opacity="0.85"></circle>
+        <circle cx="20" cy="52" r="4" fill="#ffffff" opacity="0.75"></circle>
+        <circle cx="58" cy="44" r="3" fill="#ffffff" opacity="0.55"></circle>
+      </g>
+    </g>
+
+    <polygon points="230,37 32.6,151 32.6,379 230,493 427.4,379 427.4,151" fill="none" stroke="#e8c95a" stroke-width="1.5" stroke-opacity="0.35" stroke-linejoin="round"></polygon>
+
+    <polygon points="230,15 13.5,140 13.5,390 230,515 446.5,390 446.5,140" fill="none" stroke="#e8c95a" stroke-width="14" stroke-linejoin="round"></polygon>
+
+    <text x="230" y="185" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="62" letter-spacing="0.5" fill="#ffffff">SpaNorm</text>
+
+    <path id="urlArc" d="M 56,373 L 222,469" fill="none"></path>
+      <text font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="2.5" fill="#e8c95a">
+        <textPath href="#urlArc" startOffset="50%" text-anchor="middle">BIOCONDUCTOR.ORG</textPath>
+      </text>
+  </svg>
