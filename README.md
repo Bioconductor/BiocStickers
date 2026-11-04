@@ -195,6 +195,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="RCy3/README.md"><img src="RCy3/RCy3_sticker.png" height="100"></a>
 <a href="regsplice/README.md"><img src="regsplice/regsplice.png" height="100"></a>
 <a href="rhdf5/README.md"><img src="rhdf5/rhdf5.png" height="100"></a>
+<a href="RJMCMCNucleosomes/README.md"><img src="RJMCMCNucleosomes/RJMCMCNucleosomes.png" height="100"></a>
 <a href="RmzTabM/README.md"><img src="RmzTabM/RmzTabM.png" height="100"></a>
 <a href="RNAmodR/README.md"><img src="RNAmodR/RNAmodR.png" height="100"></a>
 <a href="ROTS/README.md"><img src="ROTS/ROTS.png" height="100"></a>
