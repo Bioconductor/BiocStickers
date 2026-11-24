@@ -163,6 +163,8 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="MsBackendMsp/README.md"><img src="MsBackendMsp/MsBackendMsp.png" height="100"></a>
 <a href="MsBackendSql/README.md"><img src="MsBackendSql/MsBackendSql.png" height="100"></a>
 <a href="MsCoreUtils/README.md"><img src="MsCoreUtils/MsCoreUtils.png" height="100"></a>
+<a href="MsExperiment/README.md"><img src="MsExperiment/MsExperiment.png" height="100"></a>
+<a href="MsExperimentStash/README.md"><img src="MsExperimentStash/MsExperimentStash.png" height="100"></a>
 <a href="MsFeatures/README.md"><img src="MsFeatures/MsFeatures.png" height="100"></a>
 <a href="MSnbase/README.md"><img src="MSnbase/MSnbase.png" height="100"></a>
 <a href="mspms/README.md"><img src="mspms/mspms_logo.png" height="100"></a>
