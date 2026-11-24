@@ -194,6 +194,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="RCAS/README.md"><img src="RCAS/RCAS.png" height="100"></a>
 <a href="RCy3/README.md"><img src="RCy3/RCy3_sticker.png" height="100"></a>
 <a href="regsplice/README.md"><img src="regsplice/regsplice.png" height="100"></a>
+<a href="ReleaseLaunch/README.md"><img src="ReleaseLaunch/ReleaseLaunch.png" height="100"></a>
 <a href="rhdf5/README.md"><img src="rhdf5/rhdf5.png" height="100"></a>
 <a href="RmzTabM/README.md"><img src="RmzTabM/RmzTabM.png" height="100"></a>
 <a href="RNAmodR/README.md"><img src="RNAmodR/RNAmodR.png" height="100"></a>
