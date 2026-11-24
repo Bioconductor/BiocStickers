@@ -1,6 +1,6 @@
 # `ReleaseLaunch` sticker
 
-* Package URL: https://github.com/Bioconductor/ReleaseLaunch (GitHub-only R package)
+* Package URL: https://github.com/Bioconductor/ReleaseLaunch (GitHub-only core-team R package)
 * Sticker maintainer: [Marcel Ramos](https://github.com/LiNk-NY)
 
 <p align="left">
